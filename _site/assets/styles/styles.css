@@ -141,6 +141,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 .solution .inner img{
 	margin-left:-40px;
 	margin-top:0px;
+	float:left !important;
 }
 
 .solution h5{
