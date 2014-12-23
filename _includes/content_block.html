@@ -1,2 +1,7 @@
-<h3 style="background:green">{{include.header}}</h3>
-<div style="background:red">{{include.content}}</div>
+<div class="content-block">
+<h3>{{include.header}}</h3>
+{% if include.media %}
+<img src="{{include.media}}" class="pull-right" />
+{% endif %}
+<div>{{include.content}}</div>
+</div>
