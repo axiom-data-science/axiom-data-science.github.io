@@ -7,7 +7,7 @@ intro:
   tagline: Axiom Data Science works with organizations to improve the long term management, reuse and impact of their scientific data resources.
 ---
 
-          <div id="solutions">
+<div id="solutions">
             <div class="heading"><h3>Solutions</h3></div>
 
             <div class="row" style="margin-bottom:10px;">
@@ -45,8 +45,7 @@ intro:
 
 
           </div>
-
-            <div id="work">
+<div id="work">
             <div class="heading"><h3>Our work</h3></div>
             
 
