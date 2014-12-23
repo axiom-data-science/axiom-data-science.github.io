@@ -1,0 +1,13 @@
+#pages
+---
+- page: home
+  label: Home
+
+- page: about
+  label: About
+
+- page: contact
+  label: Contact
+
+- page: clients
+  label: Clients

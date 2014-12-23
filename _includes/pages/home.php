@@ -1,15 +1,6 @@
----
-layout: home
-title: Axiom Data Science
-published: true
-intro: /assets/images/sea-ice-head-large.jpg
----
 
 
-
-
-
-
+          
 
           <div id="solutions">
             <div class="heading"><h3>Solutions</h3></div>
