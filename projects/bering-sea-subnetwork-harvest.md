@@ -4,7 +4,7 @@ short_title: "Subsistence Harvest"
 published: true
 project: true
 featured: true
-image_thumb: http://placehold.it/300x200&text=img
+image_thumb: /assets/page_content/projects/bssn.thumb.jpg
 ---
 
 {% capture _header %}
