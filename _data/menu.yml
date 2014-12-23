@@ -1,6 +1,6 @@
 #pages
 ---
-- page: home
+- page: 
   label: Home
 
 - page: about
