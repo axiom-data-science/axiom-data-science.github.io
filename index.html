@@ -50,39 +50,29 @@ intro:
   
 
 
+
+
+
   <div class="row">
-    <a href="?p=projects/sensors"><div class="col-md-2 col-sm-4">
-      <img src="http://placehold.it/300x200&text=img" class="img-responsive" />
-      <p>Real-time sensors</p>
+
+
+
+{% for project in site.pages %}
+  {% if project.project %}
+  {% if project.featured %}
+
+    <a href="{{project.url}}"><div class="col-md-2 col-sm-4">
+      <img src="{{project.image_thumb}}" class="img-responsive" />
+      <p>{{project.title}}</p>
     </div></a>
+  {% endif %}
+  {% endif %}
+{% endfor %}
 
-    <div class="col-md-2 col-sm-4">
-      <img src="http://placehold.it/300x200&text=img" class="img-responsive" />
-      <p>Text</p>
-    </div>
 
-    <div class="col-md-2 col-sm-4">
-      <img src="http://placehold.it/300x200&text=img" class="img-responsive" />
-      <p>Text</p>
-    </div>
-
-    <div class="col-md-2 col-sm-4">
-      <img src="http://placehold.it/300x200&text=img" class="img-responsive" />
-      <p>Text</p>
-    </div>
-
-    <div class="col-md-2 col-sm-4">
-      <img src="http://placehold.it/300x200&text=img" class="img-responsive" />
-      <p>Text</p>
-    </div>
-
-     <div class="col-md-2 col-sm-4">
-      <img src="http://placehold.it/300x200&text=img" class="img-responsive" />
-      <p>Text</p>
-    </div>
 
   </div>
   
-  <a href="?p=projects">More work</a>
+  <a href="/projects/">More work</a>
 
 </div>

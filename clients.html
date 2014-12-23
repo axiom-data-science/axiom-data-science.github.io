@@ -1,0 +1,15 @@
+---
+title: "Clients"
+---
+
+<div class="row">
+{% for client in site.data.clients %}
+{% if client.image %}
+<div class="col-xs-3 col-md-2">
+	<a href="{{client.url}}" class="thumbnail" target="_blank" data-toggle="tooltip" data-placement="top" title="{{client.label}}">
+		<img src="/assets/images/logos/{{client.image}}.jpg" class="img-responsive" />
+	</a>
+</div>
+{% endif %}
+{% endfor %}
+</div>

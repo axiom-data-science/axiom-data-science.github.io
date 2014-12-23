@@ -1,6 +1,9 @@
 ---
 title: "Real-time sensors"
 published: true
+project: true
+featured: true
+image_thumb: http://placehold.it/300x200&text=img
 ---
 
 ##AOOS Real-time Sensor Map

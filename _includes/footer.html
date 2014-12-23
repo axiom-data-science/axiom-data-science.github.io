@@ -14,7 +14,7 @@
 
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
 			<ul class="nav mobile-menu">
-            	<?php include('main_menu_links.php') ?>
+            	 {% include menu_links.html %}
           	</ul>
         </div>
 
@@ -22,7 +22,7 @@
 
  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-<script src="assets/offcanvas.js"></script>
+<script src="/assets/js/offcanvas.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.3/fastclick.min.js"></script>
 <script type="text/javascript">
 
@@ -32,7 +32,9 @@ $(function() {
 });
 
 $(function () {
-  $('[data-toggle="tooltip"]').tooltip()
+  $('[data-toggle="tooltip"]').tooltip();
+  $('[role="navigation"] .nav li').find('a href="/"').addClass('active')
+
 })
 
 </script>

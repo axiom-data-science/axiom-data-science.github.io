@@ -1,6 +1,9 @@
 ---
 title: "Alaska Natural Heritage Program's AKEPIC Data Portal"
 published: true
+project: true
+featured: true
+image_thumb: http://placehold.it/300x200&text=img
 ---
 
 ###The Project

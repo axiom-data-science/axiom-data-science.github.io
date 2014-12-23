@@ -1,13 +1,26 @@
 #pages
----
-- page: /
-  label: Home
+--- 
+- label: Home
+  url: /
 
-- page: about-us
-  label: About
+- label: About
+  url: /about/
 
-- page: contact
-  label: Contact
+- label: Contact
+  url: /contact/
 
-- page: clients
-  label: Clients
+- label: Clients
+  url: /clients/
+
+- label: Solutions
+  url: /solutions/
+  children: 
+    - label: Applications
+      url: /solutions/applications/
+    - label: Cyberinfrastructure
+      url: /solutions/cyberinfrastructure
+    - label: Data  Management
+      url: /solutions/data-management
+
+- label: Recent Work
+  url: /projects/

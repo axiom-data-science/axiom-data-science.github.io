@@ -1,0 +1,85 @@
+#clients
+---
+- url: "http://www.aoos.org"
+  image: "aoos"
+  label: " Alaska Ocean Observing System"
+
+- url: "http://data.cencoos.org"
+  image: "cencoos"
+  label: " Central & Northern California Ocean Observing System"
+
+- url: "http://www.ioos.noaa.gov/"
+  image: "ioos"
+  label: "Integrated Ocean Observing System"
+
+- url: "http://www.axiomdatascience.com/maps/usgs.php"
+  image: "usgs"
+  label: "USGS"
+
+- url: "http://www.evostc.state.ak.us/"
+  image: "evos"
+  label: "Exxon Valdez Oil Spill Trustee Council"
+
+- url: "http://www.nprb.org/"
+  image: "nprb"
+  label: "North Pacific Research Board"
+
+- url: "http://www.noaa.gov/"
+  image: "noaa"
+  label: "NOAA"
+
+- url: "http://www.boem.gov/"
+  image: "boem"
+  label: "Bureau of Ocean Energy Management"
+
+- url: "http://www.shell.us/aboutshell/projects-locations/alaska.html"
+  image: "shell"
+  label: "Shell"
+
+- url: "http://axystechnologies.com/"
+  image: "axys"
+  label: "AXYS Technologies"
+
+- url: "https://www.chukchiscience.com/"
+  image: "csesp"
+  label: "Chukchi Sea Environmental Studies Program"
+
+- url: "http://www.gulfwatchalaska.org/"
+  image: "gulfwatch"
+  label: "Gulf Watch Alaska"
+
+- url: "http://www.circac.org/"
+  image: "circac"
+  label: "Cook Inlet Regional Citizens Advisory Council"
+
+- url: "http://bssn.net/"
+  image: "bssn"
+  label: "Bering Sea Sub-Network"
+
+- url: "http://www.adfg.alaska.gov/"
+  image: "adfg"
+  label: "Alaska Department of Fish & Game"
+
+- url: "http://www.fws.gov/"
+  image: "fish_wildlife"
+  label: "U.S. Fish and Wildlife Service"
+
+- url: "http://www.arctic.noaa.gov/dbo/"
+  image: "dbo"
+  label: "Distributed Ecological Observatory"
+
+- url: "http://rusalcaproject.com/"
+  image: "rusalca"
+  label: "RUSALCA"
+
+- url: "https://web.sfos.uaf.edu/wordpress/arcticeis/"
+  image: "arctic_eis"
+  label: "Arctic EIS"
+
+- url: "http://www.iser.uaa.alaska.edu/"
+  image: "iser"
+  label: "ISER"
+
+- url: "http://aknhp.uaa.alaska.edu/"
+  image: "aknhp"
+  label: "AKNHP"

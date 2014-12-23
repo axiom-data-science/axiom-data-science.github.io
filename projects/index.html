@@ -1,0 +1,11 @@
+---
+title: "Recent Work"
+---
+
+<ul>
+{% for node in site.pages %}
+	{% if node.project %}
+  		<li><a href="{{node.url}}">{{node.title}}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>

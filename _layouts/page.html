@@ -31,7 +31,12 @@
             </div>
         </div>
     </div>
+    <div class="container content">
 
+
+    {% else %}
+    <div class="container content">
+      <h2>{{page.title}}</h2>
 
     {% endif %}
 
@@ -39,7 +44,7 @@
 
 
 
-      	<div class="container content">
+      	
 				{{content}}
 		</div>
 		
