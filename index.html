@@ -11,34 +11,28 @@ intro:
   <div class="heading"><h3>Solutions</h3></div>
 
   <div class="row" style="margin-bottom:10px;">
-    
-    <div class="col-md-4 solution">
+
+
+
+{% for solution in site.pages %}
+  {% if solution.solution %}
+
+  <div class="col-md-4 solution">
       <div class="inner">
         
-        <img src="http://placehold.it/30x30&text=x" class="icon" />
-        <h5><a href="?p=data-management">Data Management</a></h5>
-        <p>Services and tools to support and streamline the entire research lifecycle.</p>
+        <img src="{{solution.icon}}" class="icon" />
+        <h5><a href="{{solution.url}}">{% if solution.short_title%}{{solution.short_title}}{% else %}{{solution.title}}{% endif %}</a></h5>
+        <p>{{solution.blurb}}</p>
       </div>
     </div>
 
-    <div class="col-md-4 solution">
-      <div class="inner">
-          
-          <img src="http://placehold.it/30x30&text=x" class="icon" />
-          <h5><a href="?p=cyberinfrastructure">Cyberinfrastructure</a></h5>
-          <p>High performance, high availability compute and storage resources for data processing at any scale.</p>
-      </div>
-    </div>
+  {% endif %}
+{% endfor %}
 
 
-    <div class="col-md-4 solution">
-      <div class="inner">
-         
-        <img src="http://placehold.it/30x30&text=x" class="icon" />
-        <h5><a href="?p=applications">Applications</a></h5>
-        <p>Data integration and visualization systems to help understand and increase the impact of scientific data products.</p>
-      </div>
-    </div>
+
+    
+    
   
   </div>
 
@@ -63,7 +57,7 @@ intro:
 
     <a href="{{project.url}}"><div class="col-md-2 col-sm-4">
       <img src="{{project.image_thumb}}" class="img-responsive" />
-      <p>{{project.title}}</p>
+      <p>{% if project.short_title %}{{project.short_title}}{% else %}{{project.title}}{% endif %}</p>
     </div></a>
   {% endif %}
   {% endif %}
