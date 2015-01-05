@@ -1,6 +1,6 @@
 ---
 title: "AOOS Real-time Sensor Map"
-short_title: "Real-time sensors"
+short_title: "AOOS Real-time Sensors"
 published: true
 project: true
 featured: true

@@ -1,6 +1,6 @@
 ---
 title: "Alaska Natural Heritage Program's AKEPIC Data Portal"
-short_title: "Invasives"
+short_title: "AKNHP Exotic Plants"
 published: true
 project: true
 featured: true

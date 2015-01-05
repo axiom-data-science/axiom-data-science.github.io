@@ -1,6 +1,6 @@
 ---
 title: "Bering Sea Sub-Network Subsistence Harvest"
-short_title: "Subsistence Harvest"
+short_title: "BSSN Harvest Surveys"
 published: true
 project: true
 featured: true

@@ -1,5 +1,6 @@
 ---
-title: "Shorezone"
+title: "ShoreZone"
+short_title: "ShoreZone Media"
 published: true
 project: true
 featured: true

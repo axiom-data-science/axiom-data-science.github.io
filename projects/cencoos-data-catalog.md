@@ -1,6 +1,6 @@
 ---
-title: CeNCOOS Data Datalog
-short_title: Data Catalog
+title: "CeNCOOS Data Datalog"
+short_title: "CeNCOOS Catalog"
 published: true
 project: true
 featured: true
