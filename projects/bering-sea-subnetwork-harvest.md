@@ -7,6 +7,8 @@ featured: true
 image_thumb: /assets/page_content/projects/bssn.thumb.jpg
 ---
 
+<img src="/assets/page_content/projects/bssn/bssn_screenshot.png" class="pull-right" style="max-width:600px;" />
+
 {% capture _header %}
 The Project
 {% endcapture %}
@@ -37,6 +39,33 @@ Working with Aleut International, Axiom Data Science converted the overlapping p
 {% include content_block.html content=_content header=_header %}
 
 
+
+<h3>Highlights</h3>
+
+<div class="row">
+
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/bssn/graph.small.jpg" class="img-responsive" />
+		<p>Statistical overviews at high zoom levels</p>
+	</div>
+
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/bssn/polygon.small.jpg" class="img-responsive" />
+		<p>POLYGONS!</p>
+	</div>
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/bssn/filter.small.jpg" class="img-responsive" />
+		<p>Village, climatology, time and species filters</p>
+	</div>
+
+</div>
+
+
+
+<!-- 
 {% capture _header %}
 Highlights
 {% endcapture %}
@@ -50,4 +79,4 @@ Highlights
 {% endcapture %}
 {% include content_block.html content=_content header=_header %}
 
-
+ -->

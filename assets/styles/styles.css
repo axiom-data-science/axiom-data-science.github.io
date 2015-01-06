@@ -41,6 +41,8 @@ button.navbar-toggle {
 	padding-right:40px;
 }
 
+
+
 #top-nav{
 	padding-right:20px;
 }
@@ -185,6 +187,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 	margin:20px;
 
 }
+
+.content img.pull-right{
+	margin-right:0px;
+}
+
+.content img.pull-left{
+	margin-left:0px;
+}
+
 
 form{
 	margin-top:50px;

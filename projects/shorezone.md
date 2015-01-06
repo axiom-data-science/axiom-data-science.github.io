@@ -7,6 +7,8 @@ featured: true
 image_thumb: /assets/page_content/projects/shorezone.thumb.jpg
 ---
 
+<img src="/assets/page_content/projects/shorezone/shorezone01.med.jpg" class="pull-right" />
+
 {% capture _header %}The Project{% endcapture %}
 {% capture _content %}
 ShoreZone is a coastal habitat mapping and classification project. Aerial imagery is taken from a plane flying the coastline of Alaska are meant to aid researchers studying shoreline change as well as prepare emergency response professionals in the case of an oil spill.
@@ -25,7 +27,29 @@ Using the georeferenced video, we reconstructed the flight track. We built a cus
 {% endcapture %}
 {% include content_block.html content=_content header=_header %}
 
-{% capture _header %}Highlights{% endcapture %}
+
+
+<h3>Highlights</h3>
+
+<div class="row">
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/shorezone/shorezoneA.small.jpg" class="img-responsive" />
+		<p>Syncing between video, imagery, and HTML flight path and marker</p>
+	</div>
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/shorezone/shorezoneB.small.jpg" class="img-responsive" />
+		<p>Access to original, high resolution photos</p>
+	</div>
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/shorezone/shorezoneC.small.jpg" class="img-responsive" />
+		<p>Ability to overlay other coastline datasets with aerial imagery</p>
+	</div>
+
+</div>
+
+<!-- {% capture _header %}Highlights{% endcapture %}
 {% capture _content %}
 <ul>
 <li>Syncing between video, imagery, and HTML flight path and marker</li>
@@ -34,4 +58,4 @@ Using the georeferenced video, we reconstructed the flight track. We built a cus
 </ul>
 {% endcapture %}
 {% include content_block.html content=_content header=_header %}
-
+ -->
