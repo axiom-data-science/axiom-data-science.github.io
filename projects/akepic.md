@@ -7,6 +7,8 @@ featured: true
 image_thumb: /assets/page_content/projects/akepic.thumb.jpg
 ---
 
+<img src="/assets/page_content/projects/akepic/screenshot.med.jpg" class="pull-right" />
+
 {% capture _header %}
 The Project
 {% endcapture %}
@@ -41,6 +43,30 @@ Axiom used the AKEPIC database to generate a customized mapping application. The
 {% include content_block.html content=_content header=_header %}
 
 
+<h3>Highlights</h3>
+
+<div class="row">
+
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/akepic/akepic.a.small.jpg" class="img-responsive" />
+		<p>Visualizing on multiple types of occurrences (non-native plants present or absent)</p>
+	</div>
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/akepic/akepic.b.small.jpg" class="img-responsive" />
+		<p>Data download in various formats</p>
+	</div>
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/akepic/akepic.c.small.jpg" class="img-responsive" />
+		<p>At high zooms, individual occurrences show individual sampling transects</p>
+	</div>
+
+
+</div>
+
+<!-- 
 {% capture _header %}
 Highlights
 {% endcapture %}
@@ -55,3 +81,4 @@ Highlights
 {% endcapture %}
 
 {% include content_block.html content=_content header=_header %}
+ -->

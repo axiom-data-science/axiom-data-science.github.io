@@ -7,6 +7,7 @@ featured: true
 image_thumb: /assets/page_content/projects/sensors.thumb.jpg
 ---
 
+<img src="/assets/page_content/projects/aoos/screenshot.med.jpg" class="pull-right" />
 
 {% capture _header %}The Project{% endcapture %}
 {% capture _content %}
@@ -26,11 +27,38 @@ An informative visualization displaying heterogenous in situ measurements requir
 {% endcapture %}
 {% include content_block.html content=_content header=_header %}
 
-{% capture _header %}Highlights{% endcapture %}
+
+
+<h3>Highlights</h3>
+<div class="row">
+
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/aoos/aoos.a.small.jpg" class="img-responsive" />
+		<p>Hex binning with roll-over statistical reports</p>
+	</div>
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/aoos/aoos.b.small.jpg" class="img-responsive" />
+		<p>Statistical wind roses calculated on the fly</p>
+	</div>
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/aoos/aoos.c.small.jpg" class="img-responsive" />
+		<p>Real-time images from web cams</p>
+	</div>
+
+
+
+
+</div>
+
+
+<!-- {% capture _header %}Highlights{% endcapture %}
 {% capture _content %}
 <ul>
 <li>Hex binning with roll-over statistical reports.</li>
 <li>Download of sensor measurements from individual sensors.</li>
 </ul>
 {% endcapture %}
-{% include content_block.html content=_content header=_header %}
+{% include content_block.html content=_content header=_header %} -->

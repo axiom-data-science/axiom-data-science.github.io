@@ -1,5 +1,5 @@
 ---
-title: "CeNCOOS Data Datalog"
+title: "CeNCOOS Data Catalog"
 short_title: "CeNCOOS Catalog"
 published: true
 project: true
@@ -17,6 +17,7 @@ image_thumb: /assets/page_content/projects/catalog.thumb.jpg
 {% include content_block.html content=_content header=_header media=_media %}
 -->
 
+<img src="/assets/page_content/projects/cencoos/screenshot.med.jpg" class="pull-right" />
 
 {% capture _header %}
 The Project
@@ -45,6 +46,29 @@ Axiom ingested CeNCOOS-held data from shore stations, gliders, HF radar, ROMS an
 
 
 
+<h3>Highlights</h3>
+
+<div class="row">
+
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/cencoos/cencoos.a.small.jpg" class="img-responsive" />
+		<p>High performance search</p>
+	</div>
+
+	<div class="col-md-4"> 
+		<img src="/assets/page_content/projects/cencoos/cencoos.b.small.jpg" class="img-responsive" />
+		<p>Integrated metadata</p>
+	</div>
+
+	<div class="col-md-4">
+		<img src="/assets/page_content/projects/cencoos/cencoos.c.small.jpg" class="img-responsive" />
+		<p>Integration with a visualization portal</p>
+	</div>	
+
+</div>
+
+<!-- 
 {% capture _header %}
 Highlights
 {% endcapture %}
@@ -58,3 +82,4 @@ Highlights
 {% endcapture %}
 {% include content_block.html header=_header content=_content %}
 
+ -->
