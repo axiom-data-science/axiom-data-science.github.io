@@ -4,7 +4,7 @@ short_title: "AOOS Real-time Sensors"
 published: true
 project: true
 featured: true
-image_thumb: /assets/page_content/projects/sensors.thumb.jpg
+image_thumb: /assets/page_content/projects/aoos/aoos.b.small.jpg
 ---
 
 <img src="/assets/page_content/projects/aoos/screenshot.med.jpg" class="pull-right" />
@@ -53,6 +53,7 @@ An informative visualization displaying heterogenous in situ measurements requir
 
 </div>
 
+{% include recent_work.html %}
 
 <!-- {% capture _header %}Highlights{% endcapture %}
 {% capture _content %}

@@ -27,3 +27,6 @@ Diving into a dataset is the quickest way to find out if it's worth pursuing qua
 We won't interpret your data for you, but we will help you prepare it for yourself or others to understand what it is trying to say. Meaningful plots, graphs and maps aren't just for publications and promotional websites, they are essential to breaking new intellectual ground.
 {% endcapture %}
 {% include content_block.html content=_content header=_header %}
+
+
+{% include recent_work.html %}

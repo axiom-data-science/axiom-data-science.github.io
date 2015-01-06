@@ -4,7 +4,7 @@ short_title: "AKNHP Exotic Plants"
 published: true
 project: true
 featured: true
-image_thumb: /assets/page_content/projects/akepic.thumb.jpg
+image_thumb: /assets/page_content/projects/akepic/akepic.c.small.jpg
 ---
 
 <img src="/assets/page_content/projects/akepic/screenshot.med.jpg" class="pull-right" />
@@ -65,6 +65,8 @@ Axiom used the AKEPIC database to generate a customized mapping application. The
 
 
 </div>
+
+{% include recent_work.html %}
 
 <!-- 
 {% capture _header %}

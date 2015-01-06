@@ -54,3 +54,6 @@ Axiom Data Science, through its partnership with the Research Workspace, provide
 {% include content_block.html content=_content header=_header %}
 
 
+{% include recent_work.html %}
+
+

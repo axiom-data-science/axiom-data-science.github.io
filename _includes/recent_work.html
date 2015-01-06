@@ -1,6 +1,12 @@
----
-title: "Recent Work"
----
+<div id="work">
+  <div class="heading"><h3>Our work</h3></div>
+  
+
+
+
+
+
+  <div class="row">
 
 
 
@@ -8,10 +14,18 @@ title: "Recent Work"
   {% if project.project %}
   {% if project.featured %}
 
-    <a href="{{project.url}}"><div class="col-md-4 col-sm-6">
+    <a href="{{project.url}}"><div class="col-md-2 col-sm-4">
       <img src="{{project.image_thumb}}" class="img-responsive" />
       <p>{% if project.short_title %}{{project.short_title}}{% else %}{{project.title}}{% endif %}</p>
     </div></a>
   {% endif %}
   {% endif %}
 {% endfor %}
+
+
+
+  </div>
+  
+  <a href="/projects/">More work</a>
+
+</div>

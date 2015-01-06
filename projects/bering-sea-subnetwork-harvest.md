@@ -4,7 +4,7 @@ short_title: "BSSN Harvest Surveys"
 published: true
 project: true
 featured: true
-image_thumb: /assets/page_content/projects/bssn.thumb.jpg
+image_thumb: /assets/page_content/projects/bssn/polygon.small.jpg
 ---
 
 <img src="/assets/page_content/projects/bssn/bssn_screenshot.png" class="pull-right" style="max-width:600px;" />
@@ -62,6 +62,9 @@ Working with Aleut International, Axiom Data Science converted the overlapping p
 	</div>
 
 </div>
+
+
+{% include recent_work.html %}
 
 
 

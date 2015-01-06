@@ -4,7 +4,7 @@ short_title: "CeNCOOS Catalog"
 published: true
 project: true
 featured: true
-image_thumb: /assets/page_content/projects/catalog.thumb.jpg
+image_thumb: /assets/page_content/projects/cencoos/cencoos.b.small.jpg
 ---
 
 <!-- 
@@ -67,6 +67,8 @@ Axiom ingested CeNCOOS-held data from shore stations, gliders, HF radar, ROMS an
 	</div>	
 
 </div>
+
+{% include recent_work.html %}
 
 <!-- 
 {% capture _header %}

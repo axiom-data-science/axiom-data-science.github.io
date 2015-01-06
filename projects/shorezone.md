@@ -4,7 +4,7 @@ short_title: "ShoreZone Media"
 published: true
 project: true
 featured: true
-image_thumb: /assets/page_content/projects/shorezone.thumb.jpg
+image_thumb: /assets/page_content/projects/shorezone/shorezoneB.small.jpg
 ---
 
 <img src="/assets/page_content/projects/shorezone/shorezone01.med.jpg" class="pull-right" />
@@ -48,6 +48,8 @@ Using the georeferenced video, we reconstructed the flight track. We built a cus
 	</div>
 
 </div>
+
+{% include recent_work.html %}
 
 <!-- {% capture _header %}Highlights{% endcapture %}
 {% capture _content %}
