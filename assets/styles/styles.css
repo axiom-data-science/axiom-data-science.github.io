@@ -199,6 +199,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 	border: none;
 	box-shadow: none;
 	background:none;
+	min-width:auto;
 }
 
 .mobile-menu .dropdown-menu li{
