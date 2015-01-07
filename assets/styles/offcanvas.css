@@ -67,7 +67,7 @@ body {
   }
 
   .row-offcanvas-left.active {
-    left: 60%; /* 6 columns */
+    left: 40%; /* 6 columns */
   }
 
   div.sidebar-offcanvas {
