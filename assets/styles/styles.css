@@ -198,6 +198,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 	float: none;
 	border: none;
 	box-shadow: none;
+	background:none;
 }
 
 .mobile-menu .dropdown-menu li{
@@ -350,7 +351,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
 
 	#solutions{
 		border-top:1px solid #e0e0e0;
-		border-bottom:1px solid #e0e0e0;
 	}
 	
 	.intro .overlay .inner{
