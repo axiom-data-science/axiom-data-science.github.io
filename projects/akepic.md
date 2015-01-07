@@ -48,17 +48,17 @@ Axiom used the AKEPIC database to generate a customized mapping application. The
 <div class="row">
 
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/akepic/akepic.a.small.jpg" class="img-responsive" />
 		<p>Visualizing multiple types of occurrences (e.g., non-native plants present or absent)</p>
 	</div>
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/akepic/akepic.b.small.jpg" class="img-responsive" />
 		<p>Data reporting based on regions of interest</p>
 	</div>
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/akepic/akepic.c.small.jpg" class="img-responsive" />
 		<p>Low zooms show statistical overviews, high zooms show individual sampling transects</p>
 	</div>

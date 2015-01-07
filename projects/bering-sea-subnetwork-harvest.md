@@ -45,18 +45,18 @@ Working with Aleut International, Axiom Data Science converted the overlapping p
 <div class="row">
 
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/bssn/graph.small.jpg" class="img-responsive" />
 		<p>Time-series graphs show efforts by season and species</p>
 	</div>
 
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/bssn/polygon.small.jpg" class="img-responsive" />
 		<p>Statistical reporting over regions of interest</p>
 	</div>
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/bssn/filter.small.jpg" class="img-responsive" />
 		<p>Ability to filter data by village, climatology, time and species</p>
 	</div>

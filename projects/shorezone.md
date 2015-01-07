@@ -32,17 +32,17 @@ Shorezone data must be integrated in a variety of ways depending on who and when
 <h3>Highlights</h3>
 
 <div class="row">
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/shorezone/shorezoneA.small.jpg" class="img-responsive" />
 		<p>Syncing between video, imagery, and HTML flight path and marker</p>
 	</div>
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/shorezone/shorezoneB.small.jpg" class="img-responsive" />
 		<p>Access to original, high resolution photos and video</p>
 	</div>
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/shorezone/shorezoneC.small.jpg" class="img-responsive" />
 		<p>Ability to overlay other coastline datasets with aerial imagery</p>
 	</div>

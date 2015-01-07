@@ -33,17 +33,17 @@ An informative visualization displaying heterogenous in situ measurements requir
 <div class="row">
 
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/aoos/aoos.a.small.jpg" class="img-responsive" />
 		<p>Hex binning with roll-over statistical reports</p>
 	</div>
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/aoos/aoos.b.small.jpg" class="img-responsive" />
 		<p>Statistical wind roses calculated on the fly</p>
 	</div>
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/aoos/aoos.c.small.jpg" class="img-responsive" />
 		<p>Real-time images from web cams</p>
 	</div>

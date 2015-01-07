@@ -51,17 +51,17 @@ Axiom ingested CeNCOOS-held data from shore stations, gliders, HF radar, ROMS an
 <div class="row">
 
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/cencoos/cencoos.a.small.jpg" class="img-responsive" />
 		<p>High performance search</p>
 	</div>
 
-	<div class="col-md-4"> 
+	<div class="col-sm-4"> 
 		<img src="/assets/page_content/projects/cencoos/cencoos.b.small.jpg" class="img-responsive" />
 		<p>Integrated metadata</p>
 	</div>
 
-	<div class="col-md-4">
+	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/cencoos/cencoos.c.small.jpg" class="img-responsive" />
 		<p>Integration with a visualization portal</p>
 	</div>	
