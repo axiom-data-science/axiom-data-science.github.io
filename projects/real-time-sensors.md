@@ -7,7 +7,7 @@ featured: true
 image_thumb: /assets/page_content/projects/aoos/aoos.b.small.jpg
 ---
 
-<img src="/assets/page_content/projects/aoos/screenshot.med.jpg" class="pull-right" />
+<img src="/assets/page_content/projects/aoos/screenshot.med.jpg" class="pull-right img-responsive" />
 
 {% capture _header %}The Project{% endcapture %}
 {% capture _content %}

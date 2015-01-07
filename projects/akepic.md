@@ -7,7 +7,7 @@ featured: true
 image_thumb: /assets/page_content/projects/akepic/akepic.c.small.jpg
 ---
 
-<img src="/assets/page_content/projects/akepic/screenshot.med.jpg" class="pull-right" />
+<img src="/assets/page_content/projects/akepic/screenshot.med.jpg" class="pull-right img-responsive" />
 
 {% capture _header %}
 The Project

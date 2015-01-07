@@ -17,7 +17,7 @@ image_thumb: /assets/page_content/projects/cencoos/cencoos.b.small.jpg
 {% include content_block.html content=_content header=_header media=_media %}
 -->
 
-<img src="/assets/page_content/projects/cencoos/screenshot.med.jpg" class="pull-right" />
+<img src="/assets/page_content/projects/cencoos/screenshot.med.jpg" class="pull-right img-responsive" />
 
 {% capture _header %}
 The Project

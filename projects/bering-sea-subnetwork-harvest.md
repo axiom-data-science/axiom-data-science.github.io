@@ -7,7 +7,7 @@ featured: true
 image_thumb: /assets/page_content/projects/bssn/polygon.small.jpg
 ---
 
-<img src="/assets/page_content/projects/bssn/bssn_screenshot.png" class="pull-right" style="max-width:600px;" />
+<img src="/assets/page_content/projects/bssn/bssn_screenshot.med.png" class="pull-right img-responsive" />
 
 {% capture _header %}
 The Project
