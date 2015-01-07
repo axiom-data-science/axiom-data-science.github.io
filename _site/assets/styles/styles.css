@@ -158,6 +158,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 	color:#666;
 }
 
+#work{
+	margin-top:30px;
+	border-top:1px solid #e0e0e0;
+	clear:both;
+}
+
 .mobile-menu{
 	margin:0px;
 	padding:0px
@@ -169,12 +175,43 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 
 .mobile-menu a{
 	padding:5px;
+}
+
+.mobile-menu li{
 	border-bottom:1px solid #ccc;
 }
 
 .mobile-menu .active a{
 	font-weight:bold;
 }
+
+.mobile-menu .dropdown a{
+	color:#999;
+	padding-bottom:3px;
+}
+
+.mobile-menu .dropdown-menu{
+	position:static;
+	display:block;
+	margin:0px;
+	padding:0px;
+	float: none;
+	border: none;
+	box-shadow: none;
+}
+
+.mobile-menu .dropdown-menu li{
+	border:none;
+}
+
+.mobile-menu .dropdown-menu li a{
+	padding-left:35px;
+	border-color:#EDEDED;
+	color:#428bca;
+}
+
+
+
 
 
 .content{
@@ -331,3 +368,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', e
 	}
 
 }
+
+
+/*@media (max-width: 768px) {
+	#work a{
+		font-weight:bold;
+		text-align:left;
+		padding:5px 10px;
+		font-size:14px;
+		max-width:200px;
+		display:block;
+		float:left;
+		min-height:200px;
+	}
+	#work img{
+		max-width:150px;
+	}
+}*/
