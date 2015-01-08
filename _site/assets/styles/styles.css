@@ -135,14 +135,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 }
 
 
-.solution{
-	border-left:1px solid #e0e0e0;
-}
-
-.solution:first-child{
-	border:none;
-}
-
 .solution .inner{
 	margin:10px;
 	/*padding-left:50px;*/
@@ -187,6 +179,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 
 #work a.active div:hover{
 	border-color:#fff;
+}
+
+.map_preview{
+	text-align: center;
+	margin-bottom:20px;
 }
 
 .mobile-menu{

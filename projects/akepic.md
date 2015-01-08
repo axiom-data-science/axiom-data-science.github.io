@@ -7,7 +7,8 @@ featured: true
 image_thumb: /assets/page_content/projects/akepic/akepic.c.small.jpg
 ---
 
-<img src="/assets/page_content/projects/akepic/screenshot.med.jpg" class="pull-right img-responsive" />
+
+{% include map_preview.html img_url="/assets/page_content/projects/akepic/screenshot.med.jpg" web_link="http://aknhp.uaa.alaska.edu/maps-js/integrated-map/akepic.php" %}
 
 {% capture _header %}
 The Project

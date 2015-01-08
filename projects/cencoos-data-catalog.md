@@ -17,7 +17,9 @@ image_thumb: /assets/page_content/projects/cencoos/cencoos.b.small.jpg
 {% include content_block.html content=_content header=_header media=_media %}
 -->
 
-<img src="/assets/page_content/projects/cencoos/screenshot.med.jpg" class="pull-right img-responsive" />
+
+
+{% include map_preview.html img_url="/assets/page_content/projects/cencoos/screenshot.med.jpg" web_link="http://data.cencoos.org" %}
 
 {% capture _header %}
 The Project

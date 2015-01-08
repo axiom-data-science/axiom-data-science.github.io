@@ -7,7 +7,10 @@ featured: true
 image_thumb: /assets/page_content/projects/bssn/polygon.small.jpg
 ---
 
-<img src="/assets/page_content/projects/bssn/bssn_screenshot.med.png" class="pull-right img-responsive" />
+
+
+{%  include map_preview.html 	img_url="/assets/page_content/projects/bssn/bssn_screenshot.med.png" web_link="http://portal.aoos.org/#map?q=&tagId=108&page=1&lg=47e776b8-3306-11e4-8dee-00219bfe5678&z=5&ll=63.03313%2C-167.54126" %}
+
 
 {% capture _header %}
 The Project

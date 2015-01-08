@@ -7,7 +7,7 @@ featured: true
 image_thumb: /assets/page_content/projects/shorezone/shorezoneB.small.jpg
 ---
 
-<img src="/assets/page_content/projects/shorezone/shorezone01.med.jpg" class="pull-right img-responsive" />
+{% include map_preview.html img_url="/assets/page_content/projects/shorezone/shorezone01.med.jpg" web_link="http://portal.aoos.org/cirt.php#map?q=&tagId=37&page=1&lg=5040a46e-25db-11e1-94b9-0019b9dae22b&z=7&ll=59.44262%2C-151.09197" %}
 
 {% capture _header %}The Project{% endcapture %}
 {% capture _content %}

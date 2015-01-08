@@ -7,7 +7,8 @@ featured: true
 image_thumb: /assets/page_content/projects/aoos/aoos.b.small.jpg
 ---
 
-<img src="/assets/page_content/projects/aoos/screenshot.med.jpg" class="pull-right img-responsive" />
+
+{% include map_preview.html img_url="/assets/page_content/projects/aoos/screenshot.med.jpg" web_link="http://portal.aoos.org/real-time-sensors.php#map?lg=8c5dd704-59ad-11e1-bb67-0019b9dae22b&p=proj3857&b=google_hybrid" %}
 
 {% capture _header %}The Project{% endcapture %}
 {% capture _content %}
