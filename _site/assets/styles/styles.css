@@ -134,9 +134,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 	color:#666;
 }
 
+
+.solution{
+	border-left:1px solid #e0e0e0;
+}
+
+.solution:first-child{
+	border:none;
+}
+
 .solution .inner{
 	margin:10px;
-	background:#e0e0e0;
 	/*padding-left:50px;*/
 }
 
