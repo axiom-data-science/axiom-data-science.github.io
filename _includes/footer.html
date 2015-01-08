@@ -3,7 +3,7 @@
             <hr>
 
             <footer>
-              <p>&copy; Axiom Data Science 2014</p>
+              <p>&copy; Axiom Data Science <span class="current_year"></span></p>
             </footer>
 
         </div>
@@ -33,7 +33,9 @@ $(function() {
 
 $(function () {
   $('[data-toggle="tooltip"]').tooltip();
-  $('[role="navigation"] .nav li').find('a href="/"').addClass('active')
+  $('a[href="{{page.url}}"]').addClass('active');
+  var d = new Date();
+  $(".current_year").html(d.getFullYear())
 
 })
 

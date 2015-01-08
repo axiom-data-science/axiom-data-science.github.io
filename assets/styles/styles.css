@@ -164,6 +164,22 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 	clear:both;
 }
 
+#work a div{
+	padding-top:15px;
+	border:1px solid #fff;
+}
+
+#work a.active div{
+    opacity:.3;
+}
+
+#work a div:hover{
+	border-color:#e0e0e0;
+}
+
+#work a.active div:hover{
+	border-color:#fff;
+
 .mobile-menu{
 	margin:0px;
 	padding:0px
