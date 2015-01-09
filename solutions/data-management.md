@@ -22,7 +22,7 @@ Safety and Security
 {% endcapture %}
 
 {% capture _content %}
-Data collection represents the culmination of years of planning and logistics. When it comes back from the field, you want to be able to share data with your collaborators, while simultaneously having it backed up (in triplicate) away from your personal hard drive.
+Data collection represents the culmination of years of planning and logistics. When data comes back from the field you want to be able to organize it, share it with your collaborators, and back it up in a reliable, fault-tolerant data center.
 {% endcapture %}
 {% include content_block.html content=_content header=_header %}
 
