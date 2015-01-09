@@ -36,7 +36,7 @@ An informative visualization displaying heterogenous in situ measurements requir
 
 	<div class="col-sm-4">
 		<img src="/assets/page_content/projects/aoos/aoos.a.small.jpg" class="img-responsive" />
-		<p>Hex binning with roll-over statistical reports</p>
+		<p>Real-time sensors with statistical overviews</p>
 	</div>
 
 	<div class="col-sm-4">
