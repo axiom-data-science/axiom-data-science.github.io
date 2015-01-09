@@ -6,7 +6,7 @@ published: true
 
 <img src="/assets/page_content/contact/headquarters2.jpg" class="pull-right thumbnail col-md-5 col-xs-12 img-responsive" />
 
-If you have a problem, if no-one else can help, and if you can find them, maybe you can hire the A-Team.
+<!-- If you have a problem, if no-one else can help, and if you can find them, maybe you can hire the A-Team. -->
 
 Axiom Data Science, LLC  
 (907) 230-0304  
