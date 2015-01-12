@@ -74,7 +74,7 @@
 
 - name: "Jordan Jenkes"
   position: "Data Analyst"
-  description: "Jordan earned a Bachelor of Arts in History at the University of Alaska, Anchorage, and will and will complete his Bachelor of Science in Geology in the Spring of 2015. He joined Axiom in 2013 as a data analyst working to ingest and organize spatial data sets. Recently his work has involved organizing and reprocessing scientific and socioeconomic databases into open source formats as well as transforming spatial and temporal data sets into NetCDF for archive and visualization. Jordan also manages the Research Assets application, which allows scientists to share information about their research efforts and platforms (e.g., buoys, ships, gliders, etc.) in Alaskan waters."
+  description: "Jordan earned a Bachelor of Arts in History at the University of Alaska, Anchorage, and will complete his Bachelor of Science in Geology in the Spring of 2015. He joined Axiom in 2013 as a data analyst working to ingest and organize spatial data sets. Recently his work has involved organizing and reprocessing scientific and socioeconomic databases into open source formats as well as transforming spatial and temporal data sets into NetCDF for archive and visualization. Jordan also manages the Research Assets application, which allows scientists to share information about their research efforts and platforms (e.g., buoys, ships, gliders, etc.) in Alaskan waters."
   image: "j-jenkes"
   email: "jordan@axiomdatascience.com"
 
