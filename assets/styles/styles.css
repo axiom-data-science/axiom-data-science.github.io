@@ -56,12 +56,22 @@ button.navbar-toggle {
 	margin-top:20px;
 }
 
+.content h3{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 6px;
+
+}
+
 .heading h3{
 	text-align:center;
 	text-transform: uppercase;
 	color:#999;
 	background:#fff;
+	font-size:24px;
 }
+
+
 
 .heading{
 
@@ -183,7 +193,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6273547', e
 
 .map_preview{
 	text-align: center;
-	margin-bottom:20px;
 }
 
 .mobile-menu{
@@ -300,6 +309,11 @@ footer{
 
 
 @media (min-width: 992px) {
+
+	.map_preview{
+		margin-bottom:20px;
+		margin-left:20px;
+	}
 	#solutions .solution .inner{
 		min-height:120px;
 		margin:20px;
