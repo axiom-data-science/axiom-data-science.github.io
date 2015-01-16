@@ -77,6 +77,7 @@ body {
   top:70px;
   background:rgba(255,255,255,.9);
   border-left:1px solid #000;
+  overflow:auto;
     
 }
 
