@@ -2,9 +2,21 @@
 ---
 - name: "Rob Bochenek"
   position: "Information Architect"
-  description: "Rob has been involved in data management for large scale federal and state research efforts for the past ten years. He is a graduate of the University of Michigan with a background in aerospace engineering and mathematics. He spent several years at the Exxon Valdez Oil Spill Trustee Council leading the data management group in processing, documenting and organizing $900 million of scientific research regarding the ecological effects of the Exxon Valdez Oil Spill and associated mediation activities. He specializes in scientific geospatial information management with applications to physical/biological modeling and decision support data warehouse knowledge systems."
+  description: "Rob has been developing data management and cyber infrastructure solutions for research programs and organizations for the past fifteen years. He is a graduate of the University of Michigan with a degrees in aerospace engineering and mathematics. Early in his career Rob spent five years at the Exxon Valdez Oil Spill Trustee Council leading the data management team in processing, documenting and organizing the informational products produced from the scientific research funded to understand and monitor the ecological effects of the oil spill. Based upon that experience, Rob founded Axiom in 2006 to develop more generalized and holistic solutions for data management. He specializes in scientific geospatial information management with applications to physical/biological modeling and decision support data warehouse knowledge systems."
   image: "r-bochenek"
   email: "rob@axiomdatascience.com"
+
+- name: "Shane StClair"
+  position: "Senior Software Engineer"
+  description: "Shane has been programming professionally for over a decade. Through many years of conducting data salvage and application development projects he has become a strong advocate for maintaining clean, organized and well described datasets; creating user interfaces that are both powerful and intuitive; and writing well documented and reusable code. Shane graduated from the University of Alaska Anchorage in 2002 with a degree in biological sciences, which gives him a useful insight into biological research."
+  image: "s-stclair"
+  email: "shane@axiomdatascience.com"
+  
+- name: "Kyle Wilcox"
+  position: "Senior Software Engineer"
+  description: "Kyle has over eight years of experience working in the ocean and environmental sciences, where he specializes in making environmental data easily discoverable through standardized web services such as CSW, SOS, and THREDDS. After earning a BS in Computer Science from the University of Rhode Island in 2006, he went to work for the NOAA Chesapeake Bay Office in Annapolis, MD, working on managing huge collections of modeled and observed data. He relocated back to his home state and started working for Applied Science Associates in 2009. While at ASA, Kyle led the software development team which was focused on the visualization, analysis and storage of large scale environment data. Kyle joined Axiom Data Science in November 2013."
+  image: "k-wilcox"
+  email: "kyle@axiomdatascience.com"
 
 - name: "Dr. William Koeppen"
   position: "Physical Scientist"
@@ -25,8 +37,8 @@
   email: "ross@axiomdatascience.com"
 
 - name: "Lyra Bochenek"
-  position: "Graphic Designer"
-  description: "Lyra has a Bachelors of Arts degree in Journalism and Public Communications from the University of Alaska Anchorage. She was the lead graphic designer for the Alaska USA Federal Credit Union Marketing Department from 2003 to 2006. Before working at Alaska USA, Lyra was an associate editor and graphic designer for Alaska Newspapers Inc and the art director for First Alaskans Magazine for 5 years. She specializes in designing all types of printed and electronic materials for Axiom clients."
+  position: "Operations Manager"
+  description: "As operations manager, Lyra leads identity development, organizational logistics and graphic design activities for Axiom. Lyra was a founding partner of Axiom. She has a degree in Journalism and Public Communications from the University of Alaska Anchorage. She was the lead graphic designer for the Alaska USA Federal Credit Union Marketing Department from 2003 to 2006. Before that, Lyra was an associate editor and graphic designer for Alaska Newspapers, Inc and the art director for First Alaskans Magazine for 5 years."
   image: "l-bochenek"
   email: "lyra@axiomdatascience.com"
 
@@ -35,12 +47,6 @@
   description: "Luc has a Bachelor of Science degree from Carleton College and Master of Science degrees from the University of California, Santa Barbara (Geology, 2002) and the Massachusetts Institute of Technology and Woods Hole Oceanographic Institution Joint Program (Marine Geology and Geophysics, 2008). Luc was hired by Axiom as a data analyst in 2009, and has been working with climate modeling and physical/ecological data intensively for the last three years. His work is published in several Earth Science journals and has been presented at international conferences. Luc\'s data collection, analysis, management, presentation, and publication experience provide considerable insight to developing data portals appropriate for the general public and research community."
   image: "luc-mehl"
   email: "luc@axiomdatascience.com"
-
-- name: "Shane StClair"
-  position: "Senior Software Engineer"
-  description: "Shane has been programming professionally for over a decade. Through many years of conducting data salvage and application development projects he has become a strong advocate for maintaining clean, organized and well described datasets; creating user interfaces that are both powerful and intuitive; and writing well documented and reusable code. Shane graduated from the University of Alaska Anchorage in 2002 with a degree in biological sciences, which gives him a useful insight into biological research."
-  image: "s-stclair"
-  email: "shane@axiomdatascience.com"
 
 - name: "Brian Stone"
   position: "Software Engineer"
@@ -59,12 +65,6 @@
   description: "Chris is a data librarian and metadata evangelist trying to make it easier to responsibly share and document research data. He has a Bachelor of Science degree from University of Alaska, Anchorage (Mathematics, 2007) and a Master of Science from Syracuse University (Library and Information Science, 2012). His prior work experience includes working in libraries doing serials cataloging, collection maintenance, and photo and document digitization, serving as a data management consultant for NSF funded research groups while an eScience Fellow as SU, and comparing and crosswalking scientific metadata standards while interning at the NSIDC. Chris was hired at Axiom to help document data resources, develop metadata strategy, liaise with program managers and PIs, and to develop and promote data management best practices. Outside of work, he enjoys long bike rides and brothy soups."
   image: "c-turner"
   email: "chris@axiomdatascience.com"
-
-- name: "Kyle Wilcox"
-  position: "Senior Software Engineer"
-  description: "Kyle has over eight years of experience working in the ocean and environmental sciences, where he specializes in making environmental data easily discoverable through standardized web services such as CSW, SOS, and THREDDS. After earning a BS in Computer Science from the University of Rhode Island in 2006, he went to work for the NOAA Chesapeake Bay Office in Annapolis, MD, working on managing huge collections of modeled and observed data. He relocated back to his home state and started working for Applied Science Associates in 2009. While at ASA, Kyle led the software development team which was focused on the visualization, analysis and storage of large scale environment data. Kyle joined Axiom Data Science in November 2013."
-  image: "k-wilcox"
-  email: "kyle@axiomdatascience.com"
 
 - name: "Dave Foster"
   position: "Software Engineer"

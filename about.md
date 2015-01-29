@@ -31,6 +31,7 @@ Staff Bios
 
 <div class="media-body">
 <h4 class="media-heading">{{member.name}}</h4>
+<h5 class="media-heading"><em>{{member.position}}</em></h5>
 <p>{{member.description}}<br /><a href="mailto:{{member.email}}">{{member.email}}</a></p>
 </div>
 </div>
