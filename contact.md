@@ -21,3 +21,5 @@ Anchorage, AK 99501, USA </a>
 ####Portland, Oregon
 
 ####Providence, Rhode Island
+<a href="https://www.google.com/maps/place/7+Main+St+%231c,+North+Kingstown,+RI+02852/@41.571378,-71.451796,17z" target="_blank"> 7 Main St, Unit 1C<br />
+North Kingstown, RI 02852, USA</a>
