@@ -7,13 +7,13 @@
   email: "rob@axiomdatascience.com"
 
 - name: "Shane StClair"
-  position: "Senior Software Engineer"
+  position: "Software Architect"
   description: "Shane is a founding partner of Axiom, and has been programming professionally for over a decade. Through many years of conducting data salvage and application development projects he has become a strong advocate for maintaining clean, organized and well described datasets; creating user interfaces that are both powerful and intuitive; and writing well documented and reusable code. Shane graduated from the University of Alaska Anchorage in 2002 with a degree in biological sciences, which gives him a useful insight into biological research."
   image: "s-stclair"
   email: "shane@axiomdatascience.com"
-  
+
 - name: "Kyle Wilcox"
-  position: "Senior Software Engineer"
+  position: "Software Architect"
   description: "Kyle has over eight years of experience working in the ocean and environmental sciences, where he specializes in making environmental data easily discoverable through standardized web services such as CSW, SOS, and THREDDS. After earning a BS in Computer Science from the University of Rhode Island in 2006, he went to work for the NOAA Chesapeake Bay Office in Annapolis, MD, working on managing huge collections of modeled and observed data. He relocated back to his home state and started working for Applied Science Associates in 2009. While at ASA, Kyle led the software development team which was focused on the visualization, analysis and storage of large scale environment data. Kyle joined Axiom Data Science in November 2013."
   image: "k-wilcox"
   email: "kyle@axiomdatascience.com"
@@ -25,7 +25,7 @@
   email: "will@axiomdatascience.com"
 
 - name: "Lance Finfrock"
-  position: "Software Engineer"
+  position: "Senior Software Engineer"
   description: "Lance has been a professional software engineer for over ten years; five of those years were in the defense industry developing mission planning systems for the Global Hawk UAV as well Naval/Marine applications. Lance graduated from the University of Alaska Anchorage in 2004 with a double-major B.S. in Computer Science and Natural Sciences, and received his M.S. in Computer Science from San Diego State University in 2009. He leads Axiom\'s efforts to ingest and serve model results, satellite data, and real-time sensor streams."
   image: "l-finfrock"
   email: "lance@axiomdatascience.com"
@@ -43,13 +43,13 @@
   email: "lyra@axiomdatascience.com"
 
 - name: "Luc Mehl"
-  position: "Data Analyst"
+  position: "Data Scientist"
   description: "Luc has a Bachelor of Science degree from Carleton College and Master of Science degrees from the University of California, Santa Barbara (Geology, 2002) and the Massachusetts Institute of Technology and Woods Hole Oceanographic Institution Joint Program (Marine Geology and Geophysics, 2008). Luc was hired by Axiom as a data analyst in 2009, and has been working with climate modeling and physical/ecological data intensively for the last three years. His work is published in several Earth Science journals and has been presented at international conferences. Luc\'s data collection, analysis, management, presentation, and publication experience provide considerable insight to developing data portals appropriate for the general public and research community."
   image: "luc-mehl"
   email: "luc@axiomdatascience.com"
 
 - name: "Brian Stone"
-  position: "Software Engineer"
+  position: "Senior Software Engineer"
   description: "Brian Stone has a Bachelor of Arts in Art Studio from Colorado College in Colorado Springs. He\'s developed web-based applications since 2004 and specializes in web design and usability concepts. Prior to his work at Axiom, Brian was the primary web administrator for the Anchorage Daily News and Alaska.com, and he created a variety of interactive maps and graphics to supplement newsroom stories. At Axiom, he creates cross-platform, web-based spatial planning applications that allow users to interactively explore multiple large scientific data sets across time, space and depth."
   image: "b-stone"
   email: "brian@axiomdatascience.com"
@@ -67,7 +67,7 @@
   email: "chris@axiomdatascience.com"
 
 - name: "Dave Foster"
-  position: "Software Engineer"
+  position: "Senior Software Engineer"
   description: "Dave is a software developer with over ten years of experience in diverse areas.  With involvement ranging from database driven e-commerce sites, to .NET based financial desktop applications, and scientific Python pipelines, he has had exposure to many different technologies and techniques.  Dave has a BS from Rensselaer Polytechnic Institute (Computer Science, 2004), and an MSc from the University of Edinburgh (Computer Science, 2005).  His work at Axiom has focused on parallel processing with Python and improving DevOps infrastructure."
   image: "d-foster"
   email: "dave@axiomdatascience.com"
