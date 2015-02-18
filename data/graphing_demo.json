@@ -1,10 +1,7 @@
 {
 	"layer_group_info":{
 		"26720e61-e241-4f90-8ee2-ab360bae5b23":{"lat":41.5989,"lon":-70.6431},
-		"078b4f98-b009-4a9b-ac62-4becd40c79aa":{"lat":41.5989,"lon":-70.6431},
-		"ba75066e-ea25-11e0-ba73-0019b9dae22b":{"lat":61,"lon":-162},
-		"c4d14166-cae8-4bb0-8cd5-fc876f07d63c":{"lat":63,"lon":-167},
-		"1e3f2ea7-22d2-4124-ac35-d4067464ffae":{"lat":60,"lon":-175}
+		"078b4f98-b009-4a9b-ac62-4becd40c79aa":{"lat":41.5989,"lon":-70.6431}
 	},
 	"station_sensor_info":{
 		"sensorids":[4,6,7,9,22,25,29,32],
