@@ -11,5 +11,5 @@ Axiom Data Science is recruiting a smart, self-motivated person to work with us 
 
 Interested applicants should submit a resume and three references to <chris@axiomdatascience.com> by 20 March 2015.
 
-[Data Coordinator Position Description](/assets/positions/Axiom_DataCoordinator.pdf/ "position descrition" )
+[Data Coordinator Position Description](/assets/positions/Axiom_DataCoordinator.pdf "position descrition" )
 
