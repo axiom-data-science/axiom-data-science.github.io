@@ -12,6 +12,9 @@
 - label: Clients
   url: /clients/
 
+- label: Jobs
+  url: /jobs/
+
 - label: Solutions
   url: /solutions/
   children: 
