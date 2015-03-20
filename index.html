@@ -7,30 +7,6 @@ intro:
   tagline: Axiom Data Science works with organizations to improve the long term management, reuse and impact of their scientific data resources.
 ---
 
-<div id="solutions">
-  <div class="heading"><h3>Solutions</h3></div>
-
-  <div class="row" style="margin-bottom:10px;">
-
-
-
-{% for solution in site.pages %}
-  {% if solution.solution %}
-
-  <div class="col-md-4 solution">
-      <div class="inner">
-        
-        <!-- <img src="{{solution.icon}}" class="icon" /> -->
-        <h5><a href="{{solution.url}}">{% if solution.short_title%}{{solution.short_title}}{% else %}{{solution.title}}{% endif %}</a></h5>
-        <p>{{solution.blurb}}</p>
-      </div>
-    </div>
-
-  {% endif %}
-{% endfor %}    
-  
-  </div>
-
-</div>
+  {% include solutions.html %}
 
   {% include recent_work.html %}
