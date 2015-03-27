@@ -17,7 +17,7 @@ The Project
 {% endcapture %}
 
 {% capture _content %}
-The Bering Sea Sub-Network (BSSN) collects survey data from partner communities in the about subsistence use harvests. Hundreds of hunters and fishermen in eight, small communities around the Bering Sea were asked to circle areas on a map and identify what species they regularly hunt, and during what time frames. For the first time, these communities have decided to make this information publicly available.
+The Bering Sea Sub-Network (BSSN) collects survey data from partner communities about subsistence use harvests. Hundreds of hunters and fishermen in eight, small communities around the Bering Sea were asked to circle areas on a map and identify what species they regularly hunt, and during what time frames. For the first time, these communities have decided to make this information publicly available.
 {% endcapture %}
 {% include content_block.html content=_content header=_header %}
 

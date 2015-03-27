@@ -37,6 +37,14 @@ $(function () {
   var d = new Date();
   $(".current_year").html(d.getFullYear())
 
+  $('.dropdown-hover')
+    .mouseover(function(){
+      $(this).addClass('open')
+    })
+    .mouseout(function(){
+      $(this).removeClass('open');
+    })
+
 })
 
 </script>
