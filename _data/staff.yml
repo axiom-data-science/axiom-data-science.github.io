@@ -68,7 +68,7 @@
 
 - name: "Dave Foster"
   position: "Senior Software Engineer"
-  description: "Dave is a software developer with over ten years of experience in diverse areas.  With involvement ranging from database driven e-commerce sites, to .NET based financial desktop applications, and scientific Python pipelines, he has had exposure to many different technologies and techniques.  Dave has a BS from Rensselaer Polytechnic Institute (Computer Science, 2004), and an MSc from the University of Edinburgh (Computer Science, 2005).  His work at Axiom has focused on parallel processing with Python and improving DevOps infrastructure."
+  description: "Dave is a software developer working with Python, web development, and quality DevOps infrastructure.  He has a BS from Rensselaer Polytechnic Institute (Computer Science, 2004), and an MSc from the University of Edinburgh (Computer Science, 2005).  At home, he has two Schnauzers and attempts to keep the ball out of the net in his rec soccer leagues."
   image: "d-foster"
   email: "dave@axiomdatascience.com"
 
