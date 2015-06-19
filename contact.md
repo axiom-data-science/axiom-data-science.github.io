@@ -19,6 +19,8 @@ Axiom Data Science, LLC
 Anchorage, AK 99501, USA </a>
 
 ####Portland, Oregon
+<a href="https://www.google.com/maps/place/511+SW+10th+Ave+%23300,+Portland,+OR+97205/@45.5211696,-122.6818363,17z" target="_blank">511 SW 10th Ave, Ste. 300<br />
+Portland, OR 97205, USA</a>
 
 ####Providence, Rhode Island
 <a href="https://www.google.com/maps/place/7+Main+St+%231c,+North+Kingstown,+RI+02852/@41.571378,-71.451796,17z" target="_blank"> 7 Main St, Unit 1C<br />
