@@ -14,7 +14,7 @@
 
 - name: "Kyle Wilcox"
   position: "Software Architect"
-  description: "Kyle has over eight years of experience working in the ocean and environmental sciences, where he specializes in making environmental data easily discoverable through standardized web services such as CSW, SOS, and THREDDS. After earning a BS in Computer Science from the University of Rhode Island in 2006, he went to work for the NOAA Chesapeake Bay Office in Annapolis, MD, working on managing huge collections of modeled and observed data. He relocated back to his home state and started working for Applied Science Associates in 2009. While at ASA, Kyle led the software development team which was focused on the visualization, analysis and storage of large scale environment data. Kyle joined Axiom Data Science in November 2013."
+  description: "Kyle has over eight years of experience working in the ocean and environmental sciences, where he specializes in the discoverabiliy and accessibility of data. After earning a BS in Computer Science from the University of Rhode Island in 2006, he went to work for the NOAA Chesapeake Bay Office in Annapolis, MD, managing huge collections of modeled and observed data.  Kyle lead the software development team at Applied Science Associates from 2009 to 2013 before joining Axiom Data Science in November of 2013.  At home, his wife and three kids manage his always growing to-do list."
   image: "k-wilcox"
   email: "kyle@axiomdatascience.com"
 
