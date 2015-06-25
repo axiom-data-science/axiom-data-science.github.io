@@ -36,10 +36,6 @@
   image: "shell"
   label: "Shell"
 
-- url: "http://axystechnologies.com/"
-  image: "axys"
-  label: "AXYS Technologies"
-
 - url: "https://www.chukchiscience.com/"
   image: "csesp"
   label: "Chukchi Sea Environmental Studies Program"

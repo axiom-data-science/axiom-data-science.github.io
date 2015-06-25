@@ -24,6 +24,12 @@
   image: "will-koeppen"
   email: "will@axiomdatascience.com"
 
+  name: "Stacey Buckelew"
+  position: "Data Coordinator"
+  description: "As data coordinator, Stacey engages with scientists to support their use and organization of Axiom’s data portals and data management tools. Stacey has a 10 year history working in applied marine ecological research and coastal habitat restoration in locations spanning, literally, from the Arctic to Antarctica. Through these experiences, she has a well-developed capacity to coordinate across research teams and stakeholders to support their decision-making needs. Stacey has Bachelor of Science in marine biology and a Masters of Science in Ecology from the University of California, Santa Cruz. When not in the office, she can be found learning the art of beekeeping and running, skiing, or biking throughout southcentral Alaska."
+  image: "s-buckelew"
+  email: "stacey@axiomdatascience.com"
+
 - name: "Lance Finfrock"
   position: "Senior Software Engineer"
   description: "Lance has been a professional software engineer for over ten years; five of those years were in the defense industry developing mission planning systems for the Global Hawk UAV as well Naval/Marine applications. Lance graduated from the University of Alaska Anchorage in 2004 with a double-major B.S. in Computer Science and Natural Sciences, and received his M.S. in Computer Science from San Diego State University in 2009. He leads Axiom\'s efforts to ingest and serve model results, satellite data, and real-time sensor streams."
