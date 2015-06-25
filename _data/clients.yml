@@ -8,6 +8,10 @@
   image: "cencoos"
   label: " Central & Northern California Ocean Observing System"
 
+- url: "http://www.secoora.org"
+  image: "secoora"
+  label: "Southeast Coastal Ocean Observing Regional Association"
+
 - url: "http://www.ioos.noaa.gov/"
   image: "ioos"
   label: "Integrated Ocean Observing System"
@@ -15,6 +19,10 @@
 - url: "http://www.axiomdatascience.com/maps/usgs.php"
   image: "usgs"
   label: "USGS"
+
+- url: "http://www.nasa.gov"
+  image: "nasa"
+  label: "NASA"  
 
 - url: "http://www.evostc.state.ak.us/"
   image: "evos"
@@ -28,6 +36,14 @@
   image: "noaa"
   label: "NOAA"
 
+- url: "http://www.nsf.gov/"
+  image: "nsf"
+  label: "NSF"
+
+- url: "http://www.mbari.org/"
+  image: "mbari"
+  label: "Monterey Bay Aquarium Research Institute"
+
 - url: "http://www.boem.gov/"
   image: "boem"
   label: "Bureau of Ocean Energy Management"
@@ -40,9 +56,17 @@
   image: "csesp"
   label: "Chukchi Sea Environmental Studies Program"
 
+- url: "http://www.appliedarchaeology.com.au/"
+  image: "applied-archeology-international"
+  label: "Applied Archeology International"
+
 - url: "http://www.gulfwatchalaska.org/"
   image: "gulfwatch"
   label: "Gulf Watch Alaska"
+
+- url: "http://nerrs.noaa.gov/reserves/kachemak-bay.html"
+  image: "kbrr"
+  label: "Kachemak Bay Research Reserve"
 
 - url: "http://www.circac.org/"
   image: "circac"
@@ -79,3 +103,19 @@
 - url: "http://aknhp.uaa.alaska.edu/"
   image: "aknhp"
   label: "AKNHP"
+
+- url: "http://ak.audubon.org/"
+  image: "audubon"
+  label: "Audubon Alaska"
+
+- url: "http://www.nature.org/Alaska‎"
+  image: "tnc"
+  label: "The Nature Conservancy AK"
+
+- url: "https://westernalaskalcc.org/"
+  image: "western-ak-lcc"
+  label: "Wester Alaska LCC"
+
+- url: "https://www.uaf.edu/"
+  image: "uaf"
+  label: "UAF"

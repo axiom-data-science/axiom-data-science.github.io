@@ -1,12 +1,15 @@
 {% for item in site.data.menu %}
     
-     <li class="{% if page.url == item.url %}active {% endif %}{% if item.children %}dropdown{% endif %}"><a href="{{item.url}}"{% if item.children %} data-toggle="dropdown" class="dropdown-toggle"{% endif %}>{{item.label}}</a>
-    {% if item.children %}
+     <li class="{% if page.url == item.url %}active {% endif %}{% if item.children %}dropdown{% endif %}"><a href="{{item.url}}"{% if item.children %} data-toggle="dropdown" class="dropdown-toggle"{% endif %}>{{item.label}}
+    {% if item.children %}<span class="caret"></span></a>
+    
         <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
         {% for child in item.children %}
             <li><a href="{{child.url}}">{{child.label}}</a></li>
         {% endfor %}
         </ul>
+    {% else %}
+    	</a>
     {% endif %}
         </li>
 {% endfor %}
