@@ -286,6 +286,29 @@ footer{
 }
 
 
+.blog-entry{
+	margin:15px 0px;
+	padding:15px 0px;
+}
+
+.blog-entry p.date{
+	color:#999;
+	margin-bottom:6px;
+}
+
+.blog-entry h3{
+	padding:0px;
+	margin:0px;
+	line-height: normal;
+}
+
+.content .blog-entry img.pull-left{
+	max-width:200px;
+	margin-top:0px;
+
+}
+
+
 
 
 
