@@ -32,7 +32,7 @@
 
 - name: "Lance Finfrock"
   position: "Senior Software Engineer"
-  description: "Lance has been a professional software engineer for over ten years; five of those years were in the defense industry developing mission planning systems for the Global Hawk UAV as well Naval/Marine applications. Lance graduated from the University of Alaska Anchorage in 2004 with a double-major B.S. in Computer Science and Natural Sciences, and received his M.S. in Computer Science from San Diego State University in 2009. He leads Axiom\'s efforts to ingest and serve model results, satellite data, and real-time sensor streams."
+  description: "Lance has been developing software professionally for over ten years. He graduated from the University of Alaska Anchorage in 2004 with a double-major B.S. in Computer Science and Natural Sciences, and received his M.S. in Computer Science from San Diego State University in 2009. Lance leads Axiom's efforts to ingest and serve model results, satellite data, and real-time sensor streams. He has a strong interest in distributed systems programming and enjoys learning new programming languages to enhance and streamline systems. Never one to stop programming, Lance volunteers his time to the San Juan Island Marine Mammal Stranding Network and the North Pacific Large Whale Entanglement Response Program. Lance works from his home office (wherever that may be) with his coworker, a pet toucan."
   image: "l-finfrock"
   email: "lance@axiomdatascience.com"
 
