@@ -1,27 +1,27 @@
 #pages
 --- 
 - label: Home
-  url: /
+  url: http://www.axiomdatascience.com
 
 - label: About
-  url: /about/
+  url: http://www.axiomdatascience.com/about/
 
 - label: Contact
-  url: /contact/
+  url: http://www.axiomdatascience.com/contact/
 
 - label: Clients & Partners
-  url: /clients/
+  url: http://www.axiomdatascience.com/clients/
 
 
 - label: Solutions
-  url: /solutions/
+  url: http://www.axiomdatascience.com/solutions/
   children: 
     - label: Applications
-      url: /solutions/applications/
+      url: http://www.axiomdatascience.com/solutions/applications/
     - label: Cyberinfrastructure
-      url: /solutions/cyberinfrastructure
+      url: http://www.axiomdatascience.com/solutions/cyberinfrastructure
     - label: Data  Management
-      url: /solutions/data-management
+      url: http://www.axiomdatascience.com/solutions/data-management
 
 - label: Recent Work
-  url: /projects/
+  url: http://www.axiomdatascience.com/projects/
