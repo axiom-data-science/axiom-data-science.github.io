@@ -5,5 +5,5 @@ defaults:
     values:
       layout: "page"
 
-markdown: rdiscount
+markdown: kramdown
 permalink: pretty
