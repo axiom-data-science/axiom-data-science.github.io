@@ -5,5 +5,4 @@ defaults:
     values:
       layout: "page"
 
-markdown: kramdown
 permalink: pretty
