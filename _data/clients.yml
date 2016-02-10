@@ -16,7 +16,7 @@
   image: "ioos"
   label: "Integrated Ocean Observing System"
 
-- url: "http://www.axiomdatascience.com/maps/usgs.php"
+- url: "http://marine.usgs.gov/"
   image: "usgs"
   label: "USGS"
 
