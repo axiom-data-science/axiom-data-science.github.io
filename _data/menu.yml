@@ -19,9 +19,9 @@
     - label: Applications
       url: /solutions/applications/
     - label: Cyberinfrastructure
-      url: /solutions/cyberinfrastructure
+      url: /solutions/cyberinfrastructure/
     - label: Data Management
-      url: /solutions/data-management
+      url: /solutions/data-management/
 
 - label: Recent Work
   url: /projects/
