@@ -6,12 +6,14 @@
 - label: About
   url: /about/
 
+- label: Jobs
+  url: /jobs/
+
 - label: Contact
   url: /contact/
 
 - label: Clients & Partners
   url: /clients/
-
 
 - label: Solutions
   url: /solutions/
