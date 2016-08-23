@@ -36,6 +36,12 @@
   image: "l-finfrock"
   email: "lance@axiomdatascience.com"
 
+- name: "Jessica Austin"
+  position: "Senior Software Engineer"
+  description: "Jessica's interests are in understanding and improving the efficiency of complex systems, whether that be a sprawling software infrastructure or a control system for robotic locomotion. She has a bachelor's degree in Mechanical Engineering from Caltech and a master's in Robotics from Carnegie Mellon, as well as five years experience as a software developer and DevOps engineer at companies including ThoughtWorks and GrubHub.com. She joined Axiom to learn more about the management and analysis of scientific data at a large scale, and to work with scientists and engineers to more quickly gain insights into the data they collect. In the summer she enjoys foraging and gardening, in the winter you'll find her working on a project at the local Makerspace, and any time of year she can be found exploring the mountains around Anchorage with her dog, Kodiak."
+  image: "j-austin"
+  email: "jessica@axiomdatascience.com"
+
 - name: "Ross Martin"
   position: "Senior Software Engineer"
   description: "Ross has been developing software professionally since 2006. He received a double-major at the University of Alaska Anchorage in Management and Management Information Systems. Previously, he worked on applications for the Department of Defense and created solutions for the financial industry that service thousands of users. Ross has expertise in developing highly-available, full-stack web applications and services."
@@ -89,12 +95,6 @@
   description: "Malcolm earned a B.S. in Environmental Science with a minor in Geographic Information Science from Montana State University, and studied further in Aquatic Ecology at the University of Vermont. His work with several academic research groups focused on hydrology, ecology, and invasive plants in places like Idaho\'s Sawtooth Range, the Greater Yellowstone Ecosystem, and the foothills of Alaska\'s Brooks Range. At Axiom his experience in fieldwork, statistics, and GIS helps him work with scientists to bring their data into new geospatial products and visualizations. Out of work he likes to scramble up Alaskan peaks."
   image: "m-herstand"
   email: "malcolm@axiomdatascience.com"
-
-- name: "Jessica Austin"
-  position: "Senior Software Engineer"
-  description: "Jessica's interests are in understanding and improving the efficiency of complex systems, whether that be a sprawling software infrastructure or a control system for robotic locomotion. She has a bachelor's degree in Mechanical Engineering from Caltech and a master's in Robotics from Carnegie Mellon, as well as five years experience as a software developer and DevOps engineer at companies including ThoughtWorks and GrubHub.com. She joined Axiom to learn more about the management and analysis of scientific data at a large scale, and to work with scientists and engineers to more quickly gain insights into the data they collect. In the summer she enjoys foraging and gardening, in the winter you'll find her working on a project at the local Makerspace, and any time of year she can be found exploring the mountains around Anchorage with her dog, Kodiak."
-  image: "j-austin"
-  email: "jessica@axiomdatascience.com"
 
 - name: "Francis"
   position: "Therapy Dog"
