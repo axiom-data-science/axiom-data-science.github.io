@@ -56,7 +56,7 @@
 
 - name: "Luc Mehl"
   position: "Data Scientist"
-  description: "Luc has a Bachelor of Science degree from Carleton College and Master of Science degrees from the University of California, Santa Barbara (Geology, 2002) and the Massachusetts Institute of Technology and Woods Hole Oceanographic Institution Joint Program (Marine Geology and Geophysics, 2008). Luc was hired by Axiom as a data analyst in 2009, and has been working with climate modeling and physical/ecological data intensively for the last three years. His work is published in several Earth Science journals and has been presented at international conferences. Luc\'s data collection, analysis, management, presentation, and publication experience provide considerable insight to developing data portals appropriate for the general public and research community."
+  description: "Luc has a Bachelor of Science degree from Carleton College (Geology, 2000) and Masters degrees from University of California, Santa Barbara (Geology, 2002) and the Massachusetts Institute of Technology / Woods Hole Oceanographic Institution Joint Program (Marine Geology and Geophysics, 2008). Luc was hired by Axiom in 2009, and his roles include data ingestion, database management, converting data to netCDF, writing data-feed services (Java), building advanced analytical tools (e.g., Kriging, Biodiversity Indices), and taking out the recycling in one of his adorable and unreliable vehicles."
   image: "luc-mehl"
   email: "luc@axiomdatascience.com"
 
