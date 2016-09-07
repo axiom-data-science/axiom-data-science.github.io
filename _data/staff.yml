@@ -66,6 +66,12 @@
   image: "b-stone"
   email: "brian@axiomdatascience.com"
 
+- name: "Dave Foster"
+  position: "Senior Software Engineer"
+  description: "Dave is a software developer working with Python, web development, and quality DevOps infrastructure.  He has a BS from Rensselaer Polytechnic Institute (Computer Science, 2004), and an MSc from the University of Edinburgh (Computer Science, 2005).  At home, he has two Schnauzers and attempts to keep the ball out of the net in his rec soccer leagues."
+  image: "d-foster"
+  email: "dave@axiomdatascience.com"
+
 - name: "John Marc Dunaway"
   position: "Software Engineer"
   description: "John Marc has a Bachelor of Science in Mathematics from the University of Alaska, Anchorage. He was hired in 2011 as a software engineer specializing in backend Java services that supply spatial data for web applications. Since joining Axiom, he\'s organized, ingested and built services to access large image and video data sets (e.g., ShoreZone), summarized and mapped sparse spatial data sets (e.g., marine mammal sightings), and designed and developed tools to subset and analyze GIS and raster data."
@@ -78,11 +84,11 @@
   image: "c-turner"
   email: "chris@axiomdatascience.com"
 
-- name: "Dave Foster"
-  position: "Senior Software Engineer"
-  description: "Dave is a software developer working with Python, web development, and quality DevOps infrastructure.  He has a BS from Rensselaer Polytechnic Institute (Computer Science, 2004), and an MSc from the University of Edinburgh (Computer Science, 2005).  At home, he has two Schnauzers and attempts to keep the ball out of the net in his rec soccer leagues."
-  image: "d-foster"
-  email: "dave@axiomdatascience.com"
+- name: "Ian Gill"
+  position: "Metadata Technician"
+  description: "Ian studied poetry at the University of Arizona, education at the University of Alaska, and environmental science at Western Washington University. Along the way, he spent over a decade doing fieldwork in Alaska, mostly watching bears catch salmon at the Anan Creek Wildlife Observatory and the McNeil River State Game Sanctuary. In the off-seasons he found work to support his summer bear habit, including jobs as a handyman, a deckhand, and a stuntman. His graduate research at McNeil River focused on the behavioral ecology of brown bears foraging for salmon and the impacts of bear-salmon predation on salmon populations. Ian worked for the Alaska Department of Fish and Game from 2012 to 2016, first as a habitat biologist and later as a science editor, where he learned to appreciate well-documented data, well-used semicolons, and the serial comma."
+  image: "i-gill"
+  email: "ian@axiomdatascience.com"
 
 - name: "Jordan Jenkes"
   position: "Data Analyst"
