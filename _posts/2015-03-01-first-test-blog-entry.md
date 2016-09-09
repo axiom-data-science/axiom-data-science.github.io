@@ -1,7 +1,7 @@
 ---
 title: This is my first test blog entry
-published: true
-layout: page
+published: false
+layout: post
 image_thumb: /assets/images/blog/first-test-blog-entry/thumb.jpg
 ---
 
