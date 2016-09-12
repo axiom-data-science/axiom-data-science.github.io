@@ -286,9 +286,27 @@ footer{
 }
 
 
+
 .blog-entry{
+	display:block;
 	margin:15px 0px;
-	padding:15px 0px;
+	padding:15px 20px 20px 20px;
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(237,237,237,0.65) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(237,237,237,0.65) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(237,237,237,0.65) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a6ededed',GradientType=0 ); /* IE6-9 */
+
+}
+
+
+.blog-entry:hover{
+	text-decoration: none;
+	background: -moz-linear-gradient(top,  rgba(255,255,255,0) 0%, rgba(255,255,255,0.01) 1%, rgba(224,224,224,0.65) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(255,255,255,0) 0%,rgba(255,255,255,0.01) 1%,rgba(224,224,224,0.65) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(255,255,255,0) 0%,rgba(255,255,255,0.01) 1%,rgba(224,224,224,0.65) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#a6e0e0e0',GradientType=0 ); /* IE6-9 */
+
+	
 }
 
 .blog-entry p.date{
@@ -304,7 +322,9 @@ footer{
 
 .content .blog-entry img.pull-left{
 	max-width:200px;
+	max-height:150px;
 	margin-top:0px;
+	margin-bottom:0px;
 
 }
 
