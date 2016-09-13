@@ -286,6 +286,13 @@ footer{
 }
 
 
+.blog-item{
+	margin:20px 0px;
+	padding:20px 0px;
+	border-bottom:1px solid #e0e0e0;
+}
+
+
 
 .blog-entry{
 	display:block;
@@ -309,12 +316,14 @@ footer{
 	
 }
 
-.blog-entry p.date{
+.blog-entry p.date,
+.blog-item p.date{
 	color:#999;
 	margin-bottom:6px;
 }
 
-.blog-entry h3{
+.blog-entry h3,
+.blog-item h3{
 	padding:0px;
 	margin:0px;
 	line-height: normal;
