@@ -4,13 +4,24 @@ title: "Blog"
 
 {% for post in site.posts %}
 
-		<a href="{{ post.url }}" class="blog-entry clearfix">
+		<div class="blog-item clearfix">
+			{% if post.image_thumb %}
+			<!-- <img src="{{post.image_thumb}}" class="img-responsive pull-left" /> -->
+			{% endif %}
+			<p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
+	    	<h3>{{ post.title }}</h3>
+	    	{{ post.content }}
+	    	
+		</div>
+
+
+		<!-- <a href="{{ post.url }}" class="blog-entry clearfix">
 			{% if post.image_thumb %}
 			<img src="{{post.image_thumb}}" class="img-responsive pull-left" />
 			{% endif %}
 			<p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
 	    	<h3>{{ post.title }}</h3>
-		</a>
+		</a> -->
 	
 
 {% endfor %}	
