@@ -2,6 +2,7 @@
 title: The New Cook Inlet Beluga Whale Ecosystem Portal Makes a Big Splash in the Media
 published: true
 layout: post
+image_thumb: /assets/images/blog/2016/05/CIBW2.jpg
 ---
 
 <img src="/assets/images/blog/2016/05/CIBW2.jpg" class="pull-right" />
