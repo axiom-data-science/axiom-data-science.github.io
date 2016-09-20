@@ -3,7 +3,7 @@ title: "Blog"
 ---
 
 {% for post in site.posts %}
-
+		<a id="entry-{{ forloop.index }}"></a>
 		<div class="blog-item clearfix">
 			{% if post.image_thumb %}
 			<!-- <img src="{{post.image_thumb}}" class="img-responsive pull-left" /> -->
