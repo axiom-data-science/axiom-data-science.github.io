@@ -18,6 +18,12 @@
   image: "k-wilcox"
   email: "kyle@axiomdatascience.com"
 
+- name: "Dr. Jesse Lopez"
+  position: "Scientific Computing Technologist"
+  description: "Jesse’s professional interests lie at the intersection of environmental science and computational science.  He studied History and Mathematics at the University of Washington (BA), Computational Mathematics at Brooklyn College (Post-Bac), and Environmental Science and Engineering at Oregon Health & Science University (OHSU).  His doctoral work at OHSU was focused on developing and applying high-resolution numerical models and observations to study circulation and sediment dynamics in the Columbia River estuary. Jesse also has extensive experience teaching Mathematics and Computer Science from middle school, as a member of AmeriCorps, to upper-level undergraduate courses. Away from his laptop, Jesse enjoys listening to records and drinking tea with his orange cat."
+  image: "j-lopez"
+  email: "jesse@axiomdatascience.com"
+
 - name: "Dr. William Koeppen"
   position: "Physical Scientist"
   description: "Will has a Bachelor of Science degree from Juniata College (Geology and Physics, 2001); a Masters degree from Washington University in St. Louis (Earth and Planetary Science, 2003); and a PhD from the University of Hawaii at Manoa (Geology and Geophysics, 2008). His doctoral work included using laboratory analyses and satellite data to understand the composition and evolution of Mars. As a postdoc, he worked on a hybridized time-series analysis algorithm to detect volcanic eruptions in near-real time using real-time satellite data and methods to identify the presence of geologic materials associated with nuclear enrichment in thermal infrared airborne data. At Axiom, Will serves as staff scientist as well as a liaison to many of the scientific groups with which Axiom works."
@@ -50,7 +56,7 @@
 
 - name: "Lyra Bochenek"
   position: "Operations Manager"
-  description: "As operations manager, Lyra leads identity development, organizational logistics and graphic design activities for Axiom. Lyra was a founding partner of Axiom. She has a degree in Journalism and Public Communications from the University of Alaska Anchorage. She was the lead graphic designer for the Alaska USA Federal Credit Union Marketing Department from 2003 to 2006. Before that, Lyra was an associate editor and graphic designer for Alaska Newspapers, Inc and the art director for First Alaskans Magazine for 5 years."
+  description: "As operations manager, Lyra executes the behind-the-scenes tasks that enable Axiom to operate efficiently and effectively. She leads organizational logistics, identity development and graphic design. Lyra is a founding partner of Axiom. Before launching Axiom, she worked for 7 years as an associate editor for Alaska Newspapers Inc and and was the creative lead for the marketing department at Alaska USA FCU. She has a degree in Journalism and Public Communications from the University of Alaska Anchorage. Outside of work she can be found romping in Alaska with her two girls, gardening and trying to keep up with young ultimate frisbee players."
   image: "l-bochenek"
   email: "lyra@axiomdatascience.com"
 
