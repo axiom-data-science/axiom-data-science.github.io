@@ -21,6 +21,10 @@ background: linear-gradient(to bottom,  rgba(39,53,71,1) 0%,rgba(39,53,71,0.7) 1
 
 }
 
+img.center {
+    margin:20px auto;
+}
+
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{
 	background:none;
