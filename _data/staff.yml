@@ -36,12 +36,6 @@
   image: "s-buckelew"
   email: "stacey@axiomdatascience.com"
 
-- name: "Lance Finfrock"
-  position: "Senior Software Engineer"
-  description: "Lance has been developing software professionally for over ten years. He graduated from the University of Alaska Anchorage in 2004 with a double-major B.S. in Computer Science and Natural Sciences, and received his M.S. in Computer Science from San Diego State University in 2009. Lance leads Axiom's efforts to ingest and serve model results, satellite data, and real-time sensor streams. He has a strong interest in distributed systems programming and enjoys learning new programming languages to enhance and streamline systems. Never one to stop programming, Lance volunteers his time to the San Juan Island Marine Mammal Stranding Network and the North Pacific Large Whale Entanglement Response Program. Lance works from his home office (wherever that may be) with his coworker, a pet toucan."
-  image: "l-finfrock"
-  email: "lance@axiomdatascience.com"
-
 - name: "Jessica Austin"
   position: "Senior Software Engineer"
   description: "Jessica's interests are in understanding and improving the efficiency of complex systems, whether that be a sprawling software infrastructure or a control system for robotic locomotion. She has a bachelor's degree in Mechanical Engineering from Caltech and a master's in Robotics from Carnegie Mellon, as well as five years experience as a software developer and DevOps engineer at companies including ThoughtWorks and GrubHub.com. She joined Axiom to learn more about the management and analysis of scientific data at a large scale, and to work with scientists and engineers to more quickly gain insights into the data they collect. In the summer she enjoys foraging and gardening, in the winter you'll find her working on a project at the local Makerspace, and any time of year she can be found exploring the mountains around Anchorage with her dog, Kodiak."
