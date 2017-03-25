@@ -1,0 +1,25 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [18.333,64.683]
+    },
+    "properties": {
+    "PI Name":"Kendall, Matthew ",
+    "Collaborators":"NPS",
+    "Point of Contact Email":"Kendall",
+    "Project name":"Fish Telemetry in Coral Bay, USVI",
+    "Location (Large Marine Ecosystems)":"Caribbean",
+    "Species":"multi-species, reef fish",
+    "Institution":"NOAA",
+    "Number of Receivers":38,
+    "Target Species":"multi-species, reef fish",
+    "Scientific Name":"multi-species, reef fish",
+    "Website":"www.coastalscience.noaa.gov/publications/handler.aspx?key=9284"
+    }
+  }
+]
+}
