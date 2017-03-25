@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [64.683,18.333]
+       "coordinates":  [-64.683,18.333]
     },
     "properties": {
     "PI Name":"Kendall, Matthew ",
