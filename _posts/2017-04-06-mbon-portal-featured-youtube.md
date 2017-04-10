@@ -2,7 +2,7 @@
 title: EcoQuants highlights MBON portal
 published: true
 layout: post
-image_thumb: /assets/images/blog/2017/04/mbon_portal_erddap_data.jpg
+image_thumb: /assets/images/blog/2017/04/mbon_portal_erddap_data.png
 ---
 
 Dr. Ben Best of [EcoQuants](http://ecoquants.com/) has posted a short introductory [video](https://www.youtube.com/channel/UC6lJi4q-tJojd2LSq9EBmhQ) on using the data portal Axiom built for the [Marine Biodiversity Observation Network](http://www.marinebon.org/) (MBON).
