@@ -15,7 +15,7 @@ body{
 	color:#FFF;
 }
 
-@media (min-width: 768px){
+/*@media (min-width: 768px){
 	.navbar{
 		min-height:40px;
 	}
@@ -23,10 +23,14 @@ body{
 		padding-top:10px;
 		padding-bottom:10px;
 	}
-}
+}*/
 
 .header{
 	display:none;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color:#EDEDED;
 }
 
 .header.smaller{
@@ -37,8 +41,8 @@ body{
 
 .header.smaller .logo{
 	display:block;
-	padding: 8px 0px 0px 30px;
-	height:30px;
+	padding: 12px 0px 0px 30px;
+	height:40px;
 
     -webkit-animation: fadein .5s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein .5s; /* Firefox < 16 */
@@ -85,7 +89,6 @@ body{
 	max-height: 27px;
 	margin:0px;
 	padding:0px;
-	opacity: .5;
 }
 
 .header li a{
@@ -113,8 +116,10 @@ body{
 }
 
 .intro .action{
-	display:inline-block;
+	display: block;
 	padding:10px;
+	max-width: 300px;
+	margin: 15px auto;
 }
 
 
@@ -126,6 +131,19 @@ body{
 	font-size:18px;
 	padding:15px;
 }
+
+span.action.login a.btn {
+    font-size:16px;
+    padding:10px;
+    width:100px;
+    display:inline-block;
+    margin-left:10px;
+    margin-top:-5px
+}
+
+/*.intro .action a.btn-success{
+	background:#006699;
+}*/
 
 .intro .action a.btn:hover{
 	background:#000;
@@ -147,7 +165,7 @@ h3{
 
 h4{
 	font-weight:normal;
-	padding-bottom:20px;
+	padding-bottom:10px;
 	line-height: 150%;
 }
 
