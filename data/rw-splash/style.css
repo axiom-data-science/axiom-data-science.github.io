@@ -1,0 +1,196 @@
+*{
+	font-family:Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;;
+}
+
+a{
+	color:#ffffcc;
+}
+
+a:hover{
+	color:#ffff99;
+}
+
+body{
+	background:#333;
+	color:#FFF;
+}
+
+@media (min-width: 768px){
+	.navbar{
+		min-height:40px;
+	}
+	.navbar-nav>li>a {
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+}
+
+.header{
+	display:none;
+}
+
+.header.smaller{
+	display:block;
+}
+
+
+
+.header.smaller .logo{
+	display:block;
+	padding: 8px 0px 0px 30px;
+	height:30px;
+
+    -webkit-animation: fadein .5s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein .5s; /* Firefox < 16 */
+        -ms-animation: fadein .5s; /* Internet Explorer */
+         -o-animation: fadein .5s; /* Opera < 12.1 */
+            animation: fadein .5s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+.header.smaller .logo img{
+	/* position:absolute; */
+	/* left:0; */
+	/* right:0; */
+	/* text-align:center; */
+	max-height: 27px;
+	margin:0px;
+	padding:0px;
+	opacity: .5;
+}
+
+.header li a{
+	background:#363636;
+	border-left:2px solid #222;
+}
+
+
+
+.intro{
+	text-align:center;
+	padding-top:60px;
+	padding-bottom: 40px;
+	background:#222;
+	margin-bottom:30px;
+}
+
+.intro img{
+	margin:0px auto;
+}
+
+.intro .actions{
+	margin-top:30px;
+
+}
+
+.intro .action{
+	display:inline-block;
+	padding:10px;
+}
+
+
+.intro .action a.btn{
+	display:block;
+	margin-top:8px;
+	background:#363636;
+	border-color:#363636;
+	font-size:18px;
+	padding:15px;
+}
+
+.intro .action a.btn:hover{
+	background:#000;
+	border-color:#000;
+}
+
+.intro .action a.btn .glyphicon{
+	padding-left:10px;
+}
+
+.icon{
+	margin:15px auto;
+	text-align: center;
+}
+
+h3{
+	font-size:30px;
+}
+
+h4{
+	font-weight:normal;
+	padding-bottom:20px;
+	line-height: 150%;
+}
+
+.section{
+
+	margin-bottom:30px;
+	padding-bottom:30px;
+}
+
+
+.form-container{
+	margin:70px auto 0 auto;
+	max-width:400px;
+}
+
+.contact .form-container{
+	max-width:600px;
+
+}
+
+.contact #user_group_other{
+	margin-top:10px;
+}
+
+.form-container h2{
+	font-size:20px;
+	color:#ccc;
+}
+
+
+.form-container .form{
+	background:#222;
+	border-radius:10px;
+	min-height:200px;
+	padding:40px;
+	text-align:center;
+}
+
+.form form{
+	text-align: left;
+}
+
+.form-group,.checkbox{
+	padding-bottom:10px;
+}
+

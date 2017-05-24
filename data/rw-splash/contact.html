@@ -1,0 +1,111 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+		<link href="//fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+	      rel="stylesheet">
+
+	    <link href="style.css" rel="stylesheet" />
+
+	</head>
+	<body class="contact">
+
+		<nav class="header navbar navbar-inverse navbar-fixed-top smaller">
+			<div class="container-fluid">
+				<a href="index.html" class="logo navbar-brand"><img src="images/rw_logo.png" class="img-responsive" /></a>
+  				
+  			</div>
+		</nav>
+
+
+		<div class="container">
+
+		<div class="form-container">
+			<h2><span class="glyphicon glyphicon-question-sign"></span> Request access</h2>
+			<div class="form">
+
+				<form>
+  					<div class="form-group">
+  					 <label for="name">Name</label>
+   					 <input type="email" class="form-control" id="name">
+  					</div>
+  					<div class="form-group">
+  					 <label for="email">Email address</label>
+   					 <input type="email" class="form-control" id="email">
+  					</div>
+
+  					<div class="form-group">
+  						<label for="userGroup">User group</label>
+  						<select class="form-control" id="user_group" onChange="onSelectChange()">
+  							<option>Select one</option>
+  							<option value="program">Program</option>
+  							<option value="org">Organization</option>
+  							<option value="manager">Data manager</option>
+  							<option value="researcher">Researcher</option>
+  							<option value="other">Other</option>
+  						</select>
+
+  						<input type="input" class="form-control hidden form-control-sm" id="user_group_other" placeholder="Describe your user group" />
+
+
+  						<script>
+  							
+  							function onSelectChange(){
+  								var i = document.getElementById("user_group"),
+  								    v =  i.options[i.selectedIndex].value,
+  								    t  = document.getElementById('user_group_other');
+
+
+  								
+  								 	 if(v == 'other' && t.className.match("hidden")) {
+                						t.className = i.className.replace(" hidden","");
+            						}else if(!t.className.match("hidden")) {
+            							t.className += ' hidden';
+            						}
+  								 
+
+
+  							}
+  						</script>
+
+  					</div>
+
+
+  					<div class="form-group">
+  					 <label for="description">Describe your interest in the Research Workspace</label>
+   					 <textarea class="form-control" id="description"></textarea>
+  					</div>
+
+  					<div class="checkbox">
+  						<label>
+      						<input type="checkbox"> Send me a T-shirt
+    					</label>
+  					</div>
+
+  					<div class="form-group">
+  						<button type="submit" class="btn btn-primary">Submit</button>
+  					</div>
+  				</form>
+
+  				<p style="margin-top:30px;">Already have an account? <a href="login.html">Log in</a></p>
+			</div>
+		</div>
+
+
+		
+
+
+		</div>
+
+
+
+
+
+	</body>
+</html>

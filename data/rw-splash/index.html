@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+		<link href="//fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+	      rel="stylesheet">
+
+	    <link href="style.css" rel="stylesheet" />
+
+	</head>
+	<body>
+
+		<nav class="header navbar navbar-inverse navbar-fixed-top">
+			<div class="container-fluid">
+				<a href="index.html" class="logo navbar-brand"><img src="images/rw_logo.png" class="img-responsive" /></a>
+  				<ul class="nav navbar-nav navbar-right">
+  					<li><a href="contact.html">Request more information <span class="glyphicon glyphicon-question-sign"></span></a></li>
+  					<li><a href="login.html">Log in <span class="glyphicon glyphicon-user"></span></a></li>
+  				</ul>
+  			</div>
+		</nav>
+
+
+		<div class="intro">
+			<img src="images/rw_logo.png" class="img-responsive" />
+				<!-- <p class="tag">Accelerating Science.</p> -->
+				<div class="actions">
+
+					<span class="action"><!-- Want to try it out?  --><a class="btn btn-success" href="contact.html">Request more information <span class="glyphicon glyphicon-question-sign"></span></a></span>
+					<span class="action">Already a user? <a class="btn btn-primary" href="login.html">Login <span class="glyphicon glyphicon-user"></span></a></span>
+
+
+
+				</div>
+		</div>
+
+		<div class="container">
+
+
+		
+
+			<div class="section row organization">
+				<div class="col-md-3">
+					<img src="images/org2.png" class="icon img-responsive" />
+				</div>
+				<div class="col-md-9">
+					
+					<h3>Organizations and Program Managers</h3>
+					
+					<h4>Streamline and tracking data sharing among organizations or research campaigns in one easy-to-manage location.</h4>
+					<ul>
+						<li>Consolidate and control access to your data</li>
+						<li>Manage your scientific enterprise</li>
+						<li>Enable your scientists and data managers to collaborate</li>
+						<li>Publish to national archives via DataONE</li>
+					</ul>
+				</div>
+
+
+			</div>
+
+			<div class="section row data-manager">
+				<div class="col-md-3">
+					<img src="images/mng2.png" class="icon img-responsive" />
+				</div>
+				<div class="col-md-9">
+					<h3>Data Managers</h3>
+					<h4>Interact and preserve data from one central location throughout the data management lifecycle.</h4>
+					<ul>
+						<li>Manage all your projects and science teams from one centralized application</li>
+						<li>Collaborate with your scientists via web-based tools to create ISO-compliant metadata</li>
+						<li>Create DOIs via automated pathways</li>
+						<li>Rest assured your data are safe</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="section row researcher">
+			<div class="col-md-3">
+					<img src="images/rsrch.png" class="icon img-responsive" />
+				</div>
+				<div class="col-md-9">
+					<h3>Researchers</h3>
+					<h4>Leverage a data management platform to transform raw data into new results and share among collaborators.</h4>
+
+					<ul>
+						<li>Analyze your data in R or Python-based Jupyter notebooks</li>
+						<li>Centralize your data resources and establish access permissions</li>
+						<li>Facilitate large-scale scientific network coordination</li>
+						<li>Easily create metadata for projects and data products</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<script>
+
+function init() {
+    window.addEventListener('scroll', function(e){
+        var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+            shrinkOn = 220,
+            header = document.querySelector(".header");
+        if (distanceY > shrinkOn) {
+            if (!header.className.match("smaller")) {
+            	header.className += ' smaller';
+        	}
+        } else {
+            if (header.className.match("smaller")) {
+                header.className = header.className.replace(" smaller","");
+            }
+        }
+    });
+}
+window.onload = init();
+			
+
+		</script>
+
+
+
+	</body>
+</html>
