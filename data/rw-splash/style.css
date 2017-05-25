@@ -176,6 +176,17 @@ h4{
 }
 
 
+.partners{
+    margin:60px auto;
+    text-align: center;
+}
+
+.partners img{
+	margin:0px auto;
+}
+
+
+
 .form-container{
 	margin:70px auto 0 auto;
 	max-width:400px;
