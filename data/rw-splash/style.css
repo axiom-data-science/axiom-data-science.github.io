@@ -159,6 +159,15 @@ span.action.login a.btn {
 	text-align: center;
 }
 
+
+@media (max-width: 991px){
+	.icon{
+		margin:15px;
+		float:right;
+		max-width:100px;
+	}
+}
+
 h3{
 	font-size:30px;
 }
