@@ -34,16 +34,16 @@
 				<form>
   					<div class="form-group">
   					 <label for="name">Name</label>
-   					 <input class="form-control" id="name">
+   					 <input class="form-control" id="name" name="name">
   					</div>
   					<div class="form-group">
   					 <label for="email">Email address</label>
-   					 <input type="email" class="form-control" id="email">
+   					 <input type="email" class="form-control" id="email" name="email">
   					</div>
 
   					<div class="form-group">
-  						<label for="userGroup">User group</label>
-  						<select class="form-control" id="user_group" onChange="onSelectChange()">
+  						<label for="user_group">User group</label>
+  						<select name="userGroup" class="form-control" id="user_group" onChange="onSelectChange()">
   							<option>Select one</option>
   							<option value="program">Program</option>
   							<option value="org">Organization</option>
@@ -52,7 +52,7 @@
   							<option value="other">Other</option>
   						</select>
 
-  						<input type="input" class="form-control hidden form-control-sm" id="user_group_other" placeholder="Describe your user group" />
+  						<input type="input" class="form-control hidden form-control-sm" id="user_group_other" placeholder="Describe your user group" name="alt_userGroup" />
 
 
   						<script>
@@ -80,17 +80,12 @@
 
   					<div class="form-group">
   					 <label for="description">Describe your interest in the Research Workspace</label>
-   					 <textarea class="form-control" id="description"></textarea>
+   					 <textarea class="form-control" id="description" name="description"></textarea>
   					</div>
 
-  					<div class="checkbox">
-  						<label>
-      						<input type="checkbox"> Send me a T-shirt
-    					</label>
-  					</div>
 
   					<div class="form-group">
-  						<button type="submit" class="btn btn-primary">Submit</button>
+  						<button type="submit" id="submit" class="btn btn-primary">Submit</button>
   					</div>
   				</form>
 
@@ -105,6 +100,37 @@
 		</div>
 
 
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+    <script>
+      
+      $('#submit').on('click',function(e){
+        var ug = $("#user_group").val();
+        if(ug == 'other'){
+          ug += ' - ' + $('#user_group_other').val();
+        }
+        var data = {
+          name:$('#name').val(),
+          email:$('#email').val(),
+          userGroup:ug,
+          description:$('#description').val()
+        }
+        $.ajax({
+          type: "POST",
+          url: 'https://rw.axiomdatascience.com/api/accessRequest',
+          data: data
+        })
+        .done(function(){
+          console.log('DONE!')
+        }); 
+        e.stopPropagation();
+        e.preventDefault();
+        return false;       
+      })
+
+
+    </script>
 
 
 
