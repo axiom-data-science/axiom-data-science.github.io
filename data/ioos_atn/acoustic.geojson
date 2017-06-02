@@ -20,6 +20,8 @@
     "Scientific Name":"multi-species, reef fish",
     "Website":"www.coastalscience.noaa.gov/publications/handler.aspx?key=9284"
     }
-  }
+  },
+{ "type": "Feature", "properties": { "PI Name": "Young, Joy", "Collaborators": "FACT Network", "Point of Contact Email": "Young", "Project name": "Movements of Common Snook", "Location (Large Marine Ecosystems)": "Florida east coast", "Species": "Common Snook", "Institution": "FWC\/FWRI", "Number of Receivers": 58, "Target Species": "Common Snook", "Scientific Name": "Centropomus undecimalis", "Website": null, "Latitude": 27.164941, "Longitude": -80.103503 }, "geometry": { "type": "Point", "coordinates": [ 27.164941, -80.103503 ] } },
+{ "type": "Feature", "properties": { "PI Name": "Reyier, Eric", "Collaborators": "FACT Network", "Point of Contact Email": "eric.a.reyier@nasa.gov", "Project name": "Behavior and Habitat Use of Coastal Fish and Sea Turtles at Cape Canaveral", "Location (Large Marine Ecosystems)": "Cape Canaveral Florida", "Species": "multi-species (sportfish, sharks, turtles)", "Institution": "Kennedy Space Center Ecological Program", "Number of Receivers": 119, "Target Species": "multi-species", "Scientific Name": "multi-species", "Website": null, "Latitude": 28.5, "Longitude": -80.6 }, "geometry": { "type": "Point", "coordinates": [ 28.5, -80.6 ] } }
 ]
 }
