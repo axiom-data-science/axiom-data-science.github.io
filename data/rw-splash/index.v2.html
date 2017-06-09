@@ -1,0 +1,186 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+		<link href="//fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+	      rel="stylesheet">
+
+	    <link href="style.css" rel="stylesheet" />
+
+
+	</head>
+	<body>
+
+		<nav class="header navbar navbar-inverse navbar-fixed-top">
+			<div class="container-fluid">
+				<a href="index.html" class="logo navbar-brand"><img src="images/RW_logo_smdelta2.png" class="img-responsive" /></a>
+  				<ul class="nav navbar-nav navbar-right hidden-xs">
+  					<li><a href="contact.html"><span class="hidden-sm">Request more information </span><span class="glyphicon glyphicon-question-sign"></span></a></li>
+  					<li><a href="login.html"><span class="hidden-sm">Log in </span><span class="glyphicon glyphicon-user"></span></a></li>
+  				</ul>
+  			</div>
+		</nav>
+
+
+		<div class="splash">
+
+
+				<img class="img-responsive sp-img" id="sp-img"/>
+				<div class="logo-container"><img class="img-responsive sp-logo" id="sp-logo" /></div>
+				<div class="actions">
+
+					<span class="action"><a class="btn btn-success" href="contact.html">Request more information <span class="glyphicon glyphicon-question-sign"></span></a></span>
+					<span class="action"><a class="btn btn-primary" href="login.html">Login <span class="glyphicon glyphicon-user"></span></a></span>
+
+
+
+				</div>
+		</div>
+
+		<div class="container">
+
+
+		
+
+			<div class="section row organization">
+				<div class="col-md-3">
+					<img src="images/sp1/org.png" id="org" class="icon img-responsive" />
+				</div>
+				<div class="col-md-9">
+					
+					<h3>Organizations and Program Managers</h3>
+					
+					<h4>Get a handle on your organization's scientific projects and data products</h4>
+					<ul>
+
+						<li>Provide your science teams with a secure location to consolidate and share data, and retain your organization's entire research legacy.</li>
+						<li>Configure your scientific enterprise through advanced security permissions and organize projects into larger-scale research campaigns.</li>
+						<li>Enable your scientists and data managers to efficiently and collaboratively generate standardized metadata for projects and data products.</li>
+						<li>Generate Digital Object Identifiers (DOIs) for final data products, and publish to national archives via DataONE.</li>
+						<li>Manage and track administrative reporting requirements through the use of configurable report submission tools.</li>
+
+					</ul>
+				</div>
+
+
+			</div>
+
+			<div class="section row data-manager">
+				<div class="col-md-3">
+					<img src="images/sp1/mng.png" id="mng" class="icon img-responsive" />
+				</div>
+				<div class="col-md-9">
+					<h3>Data Managers</h3>
+					<h4>Be more efficient coordinating data management tasks across your projects and scientists</h4>
+					<ul>
+
+						<li>Manage data submission, metadata generation, and DOI minting for all your projects and science teams from one central application.</li>
+						<li>Work collaboratively with your scientists via web-based tools to create ISO 19115-2 and 19110 metadata files for projects and data.</li>
+						<li>Create DOIs for finalized data and metadata packages and submit these to data repositories.</li>
+						<li>Assurance that your data are safe.</li>
+
+
+					</ul>
+				</div>
+			</div>
+
+			<div class="section row researcher">
+			<div class="col-md-3">
+					<img src="images/sp1/rsrch.png" id="rsrch" class="icon img-responsive" />
+				</div>
+				<div class="col-md-9">
+					<h3>Researchers</h3>
+					<h4>Enhance your research efforts, from data collection through analysis and publication</h4>
+
+					<ul>
+						<li>Centralize your project data resources and establish access permissions to improve coordination and data transfer among collaborators.</li>
+						<li>Collaborate on Research Campaigns with multiple projects, investigators, and organizations to facilitate large-scale scientific coordination.</li>
+						<li>Analyze your data by scripting and executing R- or Python-based Jupyter notebooks.</li>
+						<li>Create metadata for projects and data products, generate DOIs for final products, and submit to data repositories through integrated tools.</li>
+
+					</ul>
+				</div>
+			</div>
+
+			<div class="row partners">
+				<div class="col-sm-4">
+					<a href="http://jupyter.org/"><img src="images/jupyter.png" /></a>
+				</div>
+				<div class="col-sm-4">
+					<a href="https://www.datacite.org/"><img src="images/datacite.png" class="img-responsive" /></a>
+				</div>
+				<div class="col-sm-4">
+					<a href="https://www.dataone.org/"><img src="images/dataone.png" class="img-responsive" /></a>
+				</div>
+
+
+			</div>
+
+
+		</div>
+
+
+
+		<script>
+
+function init() {
+    window.addEventListener('scroll', function(e){
+        var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+            shrinkOn = 350,
+            header = document.querySelector(".header");
+        if (distanceY > shrinkOn) {
+            if (!header.className.match("smaller")) {
+            	header.className += ' smaller';
+        	}
+        } else {
+            if (header.className.match("smaller")) {
+                header.className = header.className.replace(" smaller","");
+            }
+        }
+    });
+	var getUrlVars = function()
+	{
+	    var vars = [], hash;
+	    var url = window.location.href.replace(/\#.*/,'');
+	    var hashes = url.slice(window.location.href.indexOf('?') + 1).split('&');
+	    for(var i = 0; i < hashes.length; i++)
+	    {
+	        hash = hashes[i].split('=');
+	        vars.push(hash[0]);
+	        vars[hash[0]] = hash[1];
+	    }
+	    return vars;
+	}
+
+	var url_vars = getUrlVars(),
+		image_folder = 'images/sp1';
+	if(url_vars.sp){
+		image_folder = 'images/sp' + url_vars.sp;
+		sp_class = 'sp' + url_vars.sp;
+
+	}
+
+	document.getElementById('sp-img').src = image_folder + '/splash.jpg';
+	document.getElementById('sp-logo').src = image_folder + '/logo.png';
+	document.getElementById('org').src = image_folder + '/org.png';
+	document.getElementById('mng').src = image_folder + '/mng.png';
+	document.getElementById('rsrch').src = image_folder + '/rsrch.png';
+	document.querySelector('body').className += ' ' + sp_class;
+}
+
+window.onload = init();
+			
+
+		</script>
+
+
+
+	</body>
+</html>

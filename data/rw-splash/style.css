@@ -122,14 +122,26 @@ body{
 	margin: 15px auto;
 }
 
+.splash{
+	margin-bottom:30px;
+}
 
+.splash .action{
+	padding:0px 20px;
+}
+
+
+.splash .action a.btn,
 .intro .action a.btn{
-	display:block;
-	margin-top:8px;
 	background:#363636;
 	border-color:#363636;
 	font-size:18px;
 	padding:15px;
+}
+
+.intro .action a.btn{
+		display:block;
+	margin-top:8px;
 }
 
 span.action.login a.btn {
@@ -172,11 +184,15 @@ h3{
 	font-size:30px;
 }
 
+
+
 h4{
 	font-weight:normal;
 	padding-bottom:10px;
 	line-height: 150%;
 }
+
+
 
 .section{
 
@@ -230,5 +246,63 @@ h4{
 
 .form-group,.checkbox{
 	padding-bottom:10px;
+}
+
+
+
+.splash {
+    position:relative;
+    max-width:1500px;
+    margin:0px auto 50px auto;
+}
+
+.splash .sp-logo{
+
+}
+
+.splash .sp-img{
+
+}
+
+.splash .actions{
+    position:absolute;
+    left:0;
+    bottom:0;
+    right:0;
+    padding:30px;
+    text-align:center;
+    background-color:#333;
+    background:rgba(256,256,256,.3)
+}
+
+.splash .logo-container {
+    max-width: 60%;
+    margin: 0px auto;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+}
+
+
+/*@media (min-width: 1500px){
+	.splash{
+		margin-top:4%;
+	}
+}
+*/
+
+.sp1 .section h4{
+	color:#c7ddeb;
+}
+
+.sp2 .section h4{
+	color:#e0e0e0;
+
+}
+
+.sp3 .section h4{
+	color:#bcc0b5;
+
 }
 
