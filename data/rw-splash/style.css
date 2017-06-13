@@ -298,6 +298,11 @@ h4{
 .overview p{
     font-size:18px;
 }
+
+.section li{
+	font-size:16px;
+	padding-bottom:10px;
+}
 h3.subhed{
     margin:40px 0px 30px 0px;
     padding:20px 0px;
@@ -311,6 +316,10 @@ h3.subhed{
 
 .sp1 .section h4,.sp1 h3.subhedb{
 	color:#c7ddeb;
+}
+
+.sp1 .splash-wrap{
+	background:#222;
 }
 
 .sp2 .section h4.sp2 h3.subhedb{
