@@ -292,17 +292,35 @@ h4{
 }
 */
 
-.sp1 .section h4{
+
+
+
+.overview p{
+    font-size:18px;
+}
+h3.subhed{
+    margin:40px 0px 30px 0px;
+    padding:20px 0px;
+    border-bottom:1px dashed #666;
+    font-size:18px;
+    color:#999;
+    text-align:left;
+
+}
+
+
+.sp1 .section h4,.sp1 h3.subhedb{
 	color:#c7ddeb;
 }
 
-.sp2 .section h4{
+.sp2 .section h4.sp2 h3.subhedb{
 	color:#e0e0e0;
 
 }
 
-.sp3 .section h4{
+.sp3 .section h4,.sp3 h3.subhedb{
 	color:#bcc0b5;
 
 }
+
 

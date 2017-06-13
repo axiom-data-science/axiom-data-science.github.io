@@ -33,7 +33,7 @@
 
 
 				<img class="img-responsive sp-img" id="sp-img"/>
-				<div class="logo-container"><img class="img-responsive sp-logo" id="sp-logo" /></div>
+				<div class="logo-container"><img class="img-responsive sp-logo" id="sp-logo" alt="Research Workspace" title="Research Workspace" /></div>
 				<div class="actions">
 
 					<span class="action"><a class="btn btn-success" href="contact.html">Request more information <span class="glyphicon glyphicon-question-sign"></span></a></span>
@@ -46,7 +46,14 @@
 
 		<div class="container">
 
+			<div class="overview">
+				<!-- <h2>Product Overview</h2> -->
 
+				<p>The Research Workspace is a web-based platform for collaboratively managing science projects through the entire data lifecycle. Whether you are a research scientist, data manager, or program manager you can benefit from using the Research Workspace. Coordinate information transfer, create and execute reproducible numerical workflows, generate metadata and publish finalized data products to national archives all through a single application.</p>
+
+
+				<h3 class="subhed">How People Use the Research Workspace</h3>
+			</div>
 		
 
 			<div class="section row organization">
@@ -54,19 +61,18 @@
 					<img src="images/sp1/org.png" id="org" class="icon img-responsive" />
 				</div>
 				<div class="col-md-9">
-					
+
 					<h3>Organizations and Program Managers</h3>
-					
 					<h4>Get a handle on your organization's scientific projects and data products</h4>
 					<ul>
-
-						<li>Provide your science teams with a secure location to consolidate and share data, and retain your organization's entire research legacy.</li>
-						<li>Configure your scientific enterprise through advanced security permissions and organize projects into larger-scale research campaigns.</li>
-						<li>Enable your scientists and data managers to efficiently and collaboratively generate standardized metadata for projects and data products.</li>
-						<li>Generate Digital Object Identifiers (DOIs) for final data products, and publish to national archives via DataONE.</li>
+						<li>Provide your science teams with tools to share data while enabling your organization to retain its entire research legacy.</li>
+						<li>Configure your scientific enterprise through advanced security permissions and organize projects into larger scale research campaigns.</li>
+						<li>Enable your scientists and data managers to collaboratively generate standardized metadata for projects and data products.</li>
+						<li>Generate Digital Object Identifiers (DOIs) for final data products and publish to national archives via DataONE.</li>
 						<li>Manage and track administrative reporting requirements through the use of configurable report submission tools.</li>
-
 					</ul>
+
+					
 				</div>
 
 
@@ -77,17 +83,16 @@
 					<img src="images/sp1/mng.png" id="mng" class="icon img-responsive" />
 				</div>
 				<div class="col-md-9">
-					<h3>Data Managers</h3>
-					<h4>Be more efficient coordinating data management tasks across your projects and scientists</h4>
-					<ul>
-
-						<li>Manage data submission, metadata generation, and DOI minting for all your projects and science teams from one central application.</li>
-						<li>Work collaboratively with your scientists via web-based tools to create ISO 19115-2 and 19110 metadata files for projects and data.</li>
-						<li>Create DOIs for finalized data and metadata packages and submit these to data repositories.</li>
-						<li>Assurance that your data are safe.</li>
 
 
-					</ul>
+						<h3>Data Managers</h3>
+						<h4>Be more efficient coordinating data management tasks across your projects and scientists</h4>
+						<ul>
+							<li>Manage the process of data submission, metadata generation, and publication for all your projects and science teams from one centralized application.</li>
+							<li>Work collaboratively with your scientists via web-based tools to create ISO 19115-2 and 19110 metadata files for projects and data.</li>
+							<li>Create DOIs for finalized data and metadata packages and submit these to data repositories.</li>
+							<li>Rest assured that your data are secure, backed up, and accessible anywhere.</li>
+						</ul>
 				</div>
 			</div>
 
@@ -96,28 +101,32 @@
 					<img src="images/sp1/rsrch.png" id="rsrch" class="icon img-responsive" />
 				</div>
 				<div class="col-md-9">
-					<h3>Researchers</h3>
-					<h4>Enhance your research efforts, from data collection through analysis and publication</h4>
 
+					<h3>Researchers</h3>
+					<h4>Enhance your research efforts from data collection through analysis and publication</h4>
 					<ul>
 						<li>Centralize your project data resources and establish access permissions to improve coordination and data transfer among collaborators.</li>
-						<li>Collaborate on Research Campaigns with multiple projects, investigators, and organizations to facilitate large-scale scientific coordination.</li>
+						<li>Participate in and manage Research Campaigns composed of multiple projects, investigators, and organizations to facilitate large-scale scientific network coordination.</li>
 						<li>Analyze your data by scripting and executing R- or Python-based Jupyter notebooks.</li>
 						<li>Create metadata for projects and data products, generate DOIs for final products, and submit to data repositories through integrated tools.</li>
-
 					</ul>
+
 				</div>
 			</div>
 
+			
+			<h3 class="subhed">Technologies</h3>
+			
+
 			<div class="row partners">
 				<div class="col-sm-4">
-					<a href="http://jupyter.org/"><img src="images/jupyter.png" /></a>
+					<a href="http://jupyter.org/"><img src="images/jupyter.png" alt="Jupyter noteboooks" title="Jupyter notebooks" /></a>
 				</div>
 				<div class="col-sm-4">
-					<a href="https://www.datacite.org/"><img src="images/datacite.png" class="img-responsive" /></a>
+					<a href="https://www.datacite.org/"><img src="images/datacite.png" class="img-responsive" alt="DataCite" title="DataCite" /></a>
 				</div>
 				<div class="col-sm-4">
-					<a href="https://www.dataone.org/"><img src="images/dataone.png" class="img-responsive" /></a>
+					<a href="https://www.dataone.org/"><img src="images/dataone.png" class="img-responsive" alt="DataONE" title="DataONE" /></a>
 				</div>
 
 
@@ -160,7 +169,8 @@ function init() {
 	}
 
 	var url_vars = getUrlVars(),
-		image_folder = 'images/sp1';
+		image_folder = 'images/sp1',
+		sp_class = 'sp1';
 	if(url_vars.sp){
 		image_folder = 'images/sp' + url_vars.sp;
 		sp_class = 'sp' + url_vars.sp;
