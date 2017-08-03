@@ -5,9 +5,9 @@ layout: post
 image_thumb: /assets/images/blog/2017/06/rw_logo_thumb.png
 ---
 
-<img src="/assets/images/blog/2017/06/rw_logo.png" class="img-responsive center" style="height: 100px"/>
+<img src="/assets/images/blog/2017/06/rw_logo.png" class="img-responsive center"/>
 
-<img src="/assets/images/blog/2017/06/research_workspace.png" class="img-responsive center" style="height: 200px"/>
+<img src="/assets/images/blog/2017/06/research_workspace.png" class="img-responsive center"/>
 
 We’ve been busy! Last week the Research Workspace Team at Axiom Data Science replaced the Ocean Workspace with our latest technology: the Research Workspace. The [Research Workspace](https://researchworkspace.com/) offers many new features to improve data management and collaboration across all stages of scientific programs. We are excited to offer this technology to help accelerate the power of data sharing, documentation, and analysis among you and your research collaborators.
 
