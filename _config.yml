@@ -6,3 +6,10 @@ defaults:
       layout: "page"
 
 permalink: pretty
+
+collections:
+  portal-updates:
+    output: true
+    permalink: /:collection/:name
+    default:
+      layer:portal_update
