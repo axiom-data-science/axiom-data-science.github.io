@@ -9,7 +9,7 @@ Axiom and Alaska Ocean Observing System partnered with the Northwest Arctic Boro
 
 To make important information from the region publicly available, a digital atlas was developed that includes a subsistence map layer, mapped Inupiaq place names, and important ecological areas. The atlas was coupled with instructional videos on how to find, explore, and understand mapped information.  If you haven’t already, you can check out the videos made by the NWAB below. Spoiler alert: there might be a surprise cameo by Axiom’s own CEO, Rob Bochenek.  Thanks NWAB—keep up the good work. We love ‘em!
 
-<img src="/assets/images/blog/2017/09/video-1.png" class="img-responsive pull-left"/>(https://vimeo.com/223815553)
+[<img src="/assets/images/blog/2017/09/video-1.png" class="img-responsive pull-left"/>](https://vimeo.com/223815553)
 
-<img src="/assets/images/blog/2017/09/video-2.png" class="img-responsive pull-left"/>(https://vimeo.com/227939831)
+[<img src="/assets/images/blog/2017/09/video-2.png" class="img-responsive pull-left"/>](https://vimeo.com/227939831)
 
