@@ -7,6 +7,8 @@ published: true
 
 <h3>Portal Update Releases & Release Notes</h3>
 
+<p>This page lists the release notes from every version of the data portal and catalog developed by Axiom Data Science in collaboration with its scientific partners.</p>
+
 
 {% assign sorted = site.portal-updates | reverse %}
 {% for post in sorted %}
@@ -17,7 +19,7 @@ published: true
 			<!-- <img src="{{post.image_thumb}}" class="img-responsive pull-left" /> -->
 			{% endif %}
 			<p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
-	    	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	    	<h3><!--<a href="{{ post.url }}">-->{{ post.title }}<!--</a>--></h3>
 	    	{{ post.content }}
 		</div>
 
