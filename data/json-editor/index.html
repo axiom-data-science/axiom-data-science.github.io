@@ -14,23 +14,15 @@
       font: 11pt sans-serif;
     }
     #jsoneditor {
-      width: 500px;
-      height: 500px;
+      width: 100%;
     }
   </style>
 </head>
 <body>
-<h1>Load and save JSON documents</h1>
-<p>
-  This examples uses HTML5 to load/save local files.
-  Powered by <a href="http://bgrins.github.io/filereader.js/">FileReader.js</a> and
-  <a href="https://github.com/eligrey/FileSaver.js">FileSaver.js</a>.<br>
-  Only supported on modern browsers (Chrome, FireFox, IE10+, Safari 6.1+, Opera 15+).
-</p>
-<p>
-  Load a JSON document: <input type="file" id="loadDocument" value="Load"/>
-</p>
-<p>
+
+<p id="intro">
+  <strong>Load and save JSON documents</strong><br />
+  Load a JSON document: <input type="file" id="loadDocument" value="Load"/><br />
   Save a JSON document: <input type="button" id="saveDocument" value="Save" />
 </p>
 
@@ -38,35 +30,48 @@
 
 <script>
   // create the editor
-  var editor = new JSONEditor(document.getElementById('jsoneditor'));
-  // Load a JSON document
-  FileReaderJS.setupInput(document.getElementById('loadDocument'), {
-    readAsDefault: 'Text',
-    on: {
-      load: function (event, file) {
-        editor.setText(event.target.result);
-      }
-    }
-  });
-  // Save a JSON document
-  document.getElementById('saveDocument').onclick = function () {
-    // Save Dialog
-    fname = window.prompt("Save as...");
-    
-    // Check json extension in file name
-    if(fname.indexOf(".")==-1){
-      fname = fname + ".json";
-    }else{
-      if(fname.split('.').pop().toLowerCase() == "json"){
-        // Nothing to do
-      }else{
-        fname = fname.split('.')[0] + ".json";
-      }
-    } 
-    //var blob = new Blob([editor.getText()], {type: 'application/json;charset=utf-8'});
-    var blob = new Blob([JSON.stringify(editor.get(), null, 2)], {type: 'application/json;charset=utf-8'});
-    saveAs(blob, fname);
-  };
+
+  (function(){
+
+	  var editorEl = document.getElementById('jsoneditor');
+	  var introHeight = document.getElementById('intro').offsetHeight;
+	  editorEl.style.height = (window.innerHeight - introHeight - 40) + 'px';
+
+	  var editor = new JSONEditor(editorEl),
+	  		loadedFileName;
+	  // Load a JSON document
+	  FileReaderJS.setupInput(document.getElementById('loadDocument'), {
+	    readAsDefault: 'Text',
+	    on: {
+	      load: function (event, file) {
+	        editor.setText(event.target.result);
+	        loadedFileName = file.name;
+	      }
+	    }
+	  });
+	  // Save a JSON document
+	  document.getElementById('saveDocument').onclick = function () {
+	    // Save Dialog
+	    var fname = window.prompt("Save as...",loadedFileName);
+	    
+	    // Check json extension in file name
+	    if(fname){
+		    if(fname.indexOf(".")==-1){
+		      fname = fname + ".json";
+		    }else{
+		      if(fname.split('.').pop().toLowerCase() == "json"){
+		        // Nothing to do
+		      }else{
+		        fname = fname.split('.')[0] + ".json";
+		      }
+		    } 
+		    //var blob = new Blob([editor.getText()], {type: 'application/json;charset=utf-8'});
+		    var blob = new Blob([JSON.stringify(editor.get(), null, 2)], {type: 'application/json;charset=utf-8'});
+		    saveAs(blob, fname);
+	    }
+	  };
+
+	})()
 </script>
 </body>
 </html>
