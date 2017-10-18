@@ -13,3 +13,5 @@ collections:
     permalink: /:collection/:name
     default:
       layer:portal_update
+
+host: 0.0.0.0
