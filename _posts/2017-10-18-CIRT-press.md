@@ -2,7 +2,7 @@
 title: Cook Inlet Response Tool in the News
 published: true
 layout: post
-image_thumb: /assets/images/blog/2017/10/kbbi.png 
+image_thumb: /assets/images/blog/2017/10/KBBI.png 
 ---
 
 The [Cook Inlet Response Tool](http://portal.aoos.org/cirt) is designed to help oil spill responders understand important environmental factors and resources in the area surrounding an oil spill, such as commercial fisheries, nearby marine mammals and wildlife.
