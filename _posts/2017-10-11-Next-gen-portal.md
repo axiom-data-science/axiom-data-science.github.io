@@ -10,21 +10,46 @@ Building on many years of stakeholder feedback, we have been working on a signif
 Users may now opt-in to the beta version (v2.3) when visiting the landing pages for these portals, where the old version will still be available. Incremental changes will be made to the beta version through March 2018, each with additional updates and portal enhancements. Feedback on the new interface and features will be integrated into the final, operational version. With these new features, we are hoping to deliver a more powerful tool for users to explore relationships and trends among data assets within these regions. 
 
 To check out the latest version visit:
-* [IOOS Environmental Sensor Map](http://sensors.ioos.us/)
-* [AOOS Ocean Data Explorer](http://portal.aoos.org/)
-* [SECOORA Data Portal](http://portal.secoora.org/) 
-* [CeNCOOS Data Portal](http://data.cencoos.org/)
 
-<img src="/assets/images/blog/2017/10/ioos-portal.png" class="img-responsive pull-left"/>
-
-A screenshot of the landing page to the new, beta Environmental Sensor Map. Users can explore data through the map or explore spotlighted data ‘scenarios’.
-
-<img src="/assets/images/blog/2017/10/data-charts.png" class="img-responsive pull-left"/>
-
-New map interface with palette control (left), and comparison charts between different sensors and parameters (right). Data charts offer user selection of climatology or anomaly views for longer timeseries (>3 years).
-
-<img src="/assets/images/blog/2017/10/4d-viz.png" class="img-responsive pull-left"/>
-
-Station level page displaying profile data, including: depth plots, interpolation using kriging, and 4D charting. 
+- [IOOS Environmental Sensor Map](http://sensors.ioos.us/)
+- [AOOS Ocean Data Explorer](http://portal.aoos.org/)
+- [SECOORA Data Portal](http://portal.secoora.org/) 
+- [CeNCOOS Data Portal](http://data.cencoos.org/)
 
 
+<div class="row">
+
+  <div class="col-sm-4">
+    <div class="thumbnail">
+      <img src="/assets/images/blog/2017/10/ioos-portal.png" class="img-responsive" />
+      <div class="caption">
+        <p>
+            A screenshot of the landing page to the new, beta Environmental Sensor Map. Users can explore data through the map or explore spotlighted data ‘scenarios’.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-4">
+    <div class="thumbnail">
+      <img src="/assets/images/blog/2017/10/data-charts.png" class="img-responsive"/>
+      <div class="caption">
+        <p>
+          New map interface with palette control (left), and comparison charts between different sensors and parameters (right). Data charts offer user selection of climatology or anomaly views for longer timeseries (>3 years).
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-4">
+    <div class="thumbnail">
+      <img src="/assets/images/blog/2017/10/4d-viz.png" class="img-responsive"/>
+      <div class="caption">
+        <p>
+          Station level page displaying profile data, including: depth plots, interpolation using kriging, and 4D charting. 
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>
