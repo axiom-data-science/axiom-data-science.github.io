@@ -2,7 +2,7 @@
 title: Metadata workshops at Alaska Marine Science Symposium
 published: true
 layout: post
-image_thumb: /assets/images/blog/2018/01/AMSS.poster.png.thumb.jpg
+image_thumb: /assets/images/blog/2018/01/AMSS.poster.png
 ---
 
 
