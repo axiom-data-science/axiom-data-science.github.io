@@ -27,3 +27,11 @@ Periodically update the Ruby libraries to stay in line with Github libraries
 ```bash
 bundle update  # From the project root
 ```
+
+### Contributing: Docker-style
+
+```bash
+# Run from the project root
+docker run -p 80:4000 -v $(pwd):/site bretfisher/jekyll-serve
+```
+
