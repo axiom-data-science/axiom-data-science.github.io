@@ -11,7 +11,7 @@ The [Automatic Identification System (AIS)](https://en.wikipedia.org/wiki/Automa
 
 Due to immense size of these datasets—typically 10s of billions of raw messages per year—and limitations on infrastructure and computing power, AIS data must currently be processed in small temporal or spatial subsets. This has proven inadequate for decision-making that requires analysis on a national or global scale over an entire year. To overcome the limitations of traditional data storage and processing infrastructure, we have developed a big-data compute cluster using [Apache Spark](https://spark.apache.org/) as the computing engine.
 
-<img src="/assets/images/blog/2018/02/spark_stack.png" class="img-responsive center-block"/>
+<img src="/assets/images/blog/2018/02/spark_stack.png" class="img-responsive center-block" />
 
 As a demonstration of this technical approach, we worked with [NOAA's Office of Coastal Surveys](https://www.nauticalcharts.noaa.gov/) to produce vessel traffic heatmaps for use in their Hydrographic Health Model. Starting with a 2015 terrestrial AIS dataset composed of 74 billion raw messages, we used our computing cluster to parse the messages, clean out invalid data, and aggregate the individual messages into 20 million tracklines, representing distinct ship voyages per day. We then used these voyages to produce a set of heatmaps in GeoTIFF format with 500 meter resolution across two different metrics: total traffic volume and unique vessel count. We also developed the ability to run ad-hoc queries against both the raw messages and ship voyages. 
 

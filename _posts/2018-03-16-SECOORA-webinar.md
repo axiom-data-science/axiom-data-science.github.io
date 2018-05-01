@@ -13,4 +13,4 @@ to replace the current one in April 2018. With these new features, the SECOORA D
 To check out a demonstrate of new portal capabilities, the webinar can be watched [HERE](https://www.youtube.com/watch?v=OX1x29XGPGc&t). Or, visit the v2.6 beta version of the [SECOORA data portal](http://dev.axiomdatascience.com/?portal_id=47).
 
 
-<img src="/assets/images/blog/2018/03/secoorascreen.png" />
+<img src="/assets/images/blog/2018/03/secoorascreen.png" class="img-responsive center-block"/>
