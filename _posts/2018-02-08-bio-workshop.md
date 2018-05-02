@@ -16,4 +16,6 @@ Follow these links to visit the [MBON Data Portal (v2.0)](http://dev.axiomdatasc
 
 
 <img src="/assets/images/blog/2018/02/Bio-Workshop_1.jpg" class="img-responsive" /></a>
+
+
 *Workshop participants at the first IOOS Biological Data Training Workshop. Photo Credit: NOAA/IOOS*
