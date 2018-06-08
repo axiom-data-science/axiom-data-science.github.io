@@ -9,12 +9,12 @@ Building on many years of stakeholder feedback, Alaska Ocean Observing System’
 
 The updated Ocean Data Explorer gives users access to new features, as well as a revamped design, to get more out of the AOOS data services. The new portal exists on a platform that is more responsive to long time-series observations and provides access to nearly 3,000 in situ stations and 15,000 sensors that report nearly 5 million observations weekly. The portal has been updated with more advanced discovery and sharing capabilities to discover and interact with over 887 layers representing coastal and ocean data from across the state. 
 
-Some of the new features are: 
-• Sophisticated charting abilities, including comparisons between data sources and binning by time; 
-•	On-the-fly seasonal data summaries, including climatology and anomaly plots;
+Some of the new features are: <br>
+• Sophisticated charting abilities, including comparisons between data sources and binning by time;<br> 
+•	On-the-fly seasonal data summaries, including climatology and anomaly plots;<br>
 •	Interactive comparison charting for sensor, model, and biological data;<br>
-•	Availability of depth charts, interpolation via kriging, and 4D interactive charts for ocean profiling sensors, such as CTDs, mooring, gliders and more;
-•	User-created custom data views for data exploration, saving and sharing;
+•	Availability of depth charts, interpolation via kriging, and 4D interactive charts for ocean profiling sensors, such as CTDs, mooring, gliders and more;<br>
+•	User-created custom data views for data exploration, saving and sharing;<br>
 •	Enhancements to the data catalog for searching, downloading, and mapping data.
 
 The Ocean Data Explorer portal continues to be the most comprehensive interactive web-based source of ocean data for the Alaska region. With these many new features, the AOOS Ocean Data Explorer will serve as a more powerful tool for users to explore relationships and trends in the physical, chemical, and biological data collected from the waters surrounding the Alaska coast.
