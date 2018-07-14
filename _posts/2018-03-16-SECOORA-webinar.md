@@ -10,7 +10,7 @@ Building on many years of stakeholder feedback, Axiom Data Science together with
 Feedback from test users on the new interface will be integrated into the final, operational version that is expected
 to replace the current one in April 2018. With these new features, the SECOORA Data Portal will serve as a more powerful tool for users to explore relationships and trends in the physical, chemical, and biological data collected from the waters surrounding the southeast coastal region.
 
-To check out a demonstrate of new portal capabilities, the webinar can be watched [HERE](https://www.youtube.com/watch?v=OX1x29XGPGc&t). Or, visit the v2.6 beta version of the [SECOORA data portal](http://dev.axiomdatascience.com/?portal_id=47).
+To check out a demonstration of the new portal capabilities, the webinar can be watched [HERE](https://www.youtube.com/watch?v=OX1x29XGPGc&t). Or, visit the v2.6 beta version of the [SECOORA data portal](http://dev.axiomdatascience.com/?portal_id=47).
 
 
 <img src="/assets/images/blog/2018/03/secoorascreen.png" class="img-responsive center-block"/>
