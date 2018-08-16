@@ -19,7 +19,7 @@ This position will be the primary interface between the U.S. marine animal telem
 This position will be based out of the central coastal California area, working initially at Axiom's partner office in Moss Landing with the <a href="https://www.cencoos.org/">Central and Northern California Ocean Observing System (CeNCOOS)</a> collocated at the <a href="https://www.mbari.org/">Monterey Bay Aquarium Research Institute (MBARI)</a>.
        </p>
 <p>
-Send questions or applications to <a href="mailto:careers@axds.co">careers@axds.co</a> by <strong>September 15, 2018</strong>.
+Send questions or applications to <a href="mailto:careers@axds.co">careers@axds.co</a> by <strong>September 21, 2018</strong>.
 </p>
 
 
