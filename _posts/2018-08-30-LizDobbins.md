@@ -9,4 +9,3 @@ We are pleased to announce Elizabeth ('Liz') Dobbins as the new Environmental Da
 
 
 <img src="/assets/images/blog/2018/08/Dobbins headshot.jpg" class="img-responsive center-block"/>
-
