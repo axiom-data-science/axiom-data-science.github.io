@@ -1,5 +1,5 @@
 ---
-title: Welcoming Axiom's Newest Member: Elizabeth Dobbins!
+title: Welcoming Axiom's Newest Member\: Elizabeth Dobbins!
 published: true
 layout: post
 image_thumb: /assets/images/blog/2018/08/Dobbins headshot.jpg   
