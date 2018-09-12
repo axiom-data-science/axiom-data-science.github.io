@@ -11,6 +11,6 @@ Axiom Data Science seeks an Environmental Data Scientist to join our existing te
 
 This position is based in the Anchorage office and will work in direct collaboration with other members of the Axiom team.
 
-Send questions or applications to <a href="mailto:careers@axds.co">careers@axds.co</a> by <strong>October 21, 2018</strong>.
+Send questions or applications to <a href="mailto:careers@axds.co">careers@axds.co</a> by <strong>October 12, 2018</strong>.
      
 <img src="/assets/images/jobs/life1.jpg" class="img-responsive center-block"/>
