@@ -81,7 +81,7 @@
 - name: "Ross Martin"
   position: "Senior Software Engineer"
   description: "Ross has been developing software professionally since 2006. He received a double-major at the University of Alaska Anchorage in Management and Management Information Systems. Previously, he worked on applications for the Department of Defense and created solutions for the financial industry that service thousands of users. Ross has expertise in developing highly-available, full-stack web applications and services."
-  image: "ross-martin"
+  image: "r-martin"
   email: "ross@axiomdatascience.com"
 
 - name: "Luc Mehl"
