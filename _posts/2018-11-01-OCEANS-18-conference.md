@@ -1,5 +1,10 @@
-OCEANS 2018 Conference in Charleston, South Carolina
-
+---
+title: OCEANS 2018 Conference in Charleston, South Carolina
+published: true
+layout: post
+image_thumb: 
+axiom-data-science.github.io/assets/images/blog/2018/08/kyle.jpg
+---
 
 This year’s OCEANS Conference took place from October 22-25 in Charleston, South Carolina.  
 There were 31 participants representing federal, state, NGO, university and international organizations.  Here Axiom’s Kyle Wilcox, Stacey Buckelew and Brian Stone attended the conference.  Kyle Wilcox presented a
