@@ -2,8 +2,7 @@
 title: OCEANS 2018 Conference in Charleston, South Carolina
 published: true
 layout: post
-image_thumb: 
-axiom-data-science.github.io/assets/images/blog/2018/08/kyle.jpg
+image_thumb: /axiom-data-science.github.io/assets/images/blog/2018/08/kyle.jpg
 ---
 
 This year’s OCEANS Conference took place from October 22-25 in Charleston, South Carolina.  
