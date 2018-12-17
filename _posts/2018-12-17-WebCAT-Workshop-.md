@@ -15,4 +15,4 @@ leveraging the expertise and capabilities of private, nonprofit and public secto
 presented the role of the Axiom team in the overall project. Dave discussed how we retrieve the archival video footage from 
 each station and make it available alongside live camera streams. Visit <a href="https://secoora.org/webcat/"> here </a> for more information.
 
-<img src="/axiom-data-science.github.io/assets/images/blog/2018/webCAT.png" class="img-responsive center-block"/>
+<img src="/assets/images/blog/2018/webCAT.png" class="img-responsive center-block"/>
