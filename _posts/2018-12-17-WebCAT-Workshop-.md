@@ -13,6 +13,6 @@ for various purposes – counting right whales, spotting rip currents, validatin
 understanding human use of natural resources and more. This unique project is a public-private partnership 
 leveraging the expertise and capabilities of private, nonprofit and public sectors. At this workshop, Axiom's Dave Foster 
 presented the role of the Axiom team in the overall project. Dave discussed how we retrieve the archival video footage from 
-each station and make it available alongside live camera streams on <a href="https://secoora.org/webcat/"> </a> for more information.
+each station and make it available alongside live camera streams </a> on <a href="https://secoora.org/webcat/">.
 
 <img src="/axiom-data-science.github.io/assets/images/blog/2018/webCAT.png" class="img-responsive center-block"/>
