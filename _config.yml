@@ -13,5 +13,10 @@ collections:
     permalink: /:collection/:name
     default:
       layer:portal_update
+  atn-updates:
+    output: true
+    permalink: /:collection/:name
+    default:
+      layer:atn_update
 
 host: 0.0.0.0
