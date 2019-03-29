@@ -54,17 +54,17 @@
   image: "d-foster"
   email: "dave@axiomdatascience.com"
 
+  name: "Trevor Golden"
+  postion: "Environmental Data Scientist"
+  description: "Trevor earned his Bachelor of Arts degree in Liberal Studies and Outdoor Studies from Alaska Pacific University, emphasizing in quantitative ecology and philosophy of science. He is a big fan of the scientific method, and is particularly interested in optimizing the process of discovery by building robust solutions to challenges in data management and analysis. Before joining Axiom, Trevor spent six years in ecology working on a variety of projects ranging from the ingestion and validation of meteorological observations, to the analysis of movement patterns in telemetered animal locations."
+  image: t-golden
+  email: "trevor@axiomdatascience.com"
+
 - name: "Ian Gill"
   position: "Data Coordinator"
   description: "Ian earned a Masters in Environmental Science at Western Washington University in 2011 and has spent over a decade doing fieldwork in Alaska, mostly watching bears catch salmon along various streams and rivers. His graduate research at McNeil River focused on the behavioral ecology of brown bears foraging for salmon and the impacts of bear-salmon predation on salmon populations. Ian worked for the Alaska Department of Fish and Game from 2012 to 2016, first as a habitat biologist and later as a science editor, where he learned to appreciate well-documented data, well-used semicolons, and the serial comma."
   image: "i-gill"
   email: "ian@axiomdatascience.com"
-
-- name: "Jordan Jenkes"
-  position: "Data Analyst"
-  description: "Jordan earned a Bachelor of Arts in History at the University of Alaska, Anchorage, and will complete his Bachelor of Science in Geology in the Spring of 2015. He joined Axiom in 2013 as a data analyst working to ingest and organize spatial data sets. Recently his work has involved organizing and reprocessing scientific and socioeconomic databases into open source formats as well as transforming spatial and temporal data sets into NetCDF for archive and visualization. Jordan also manages the Research Assets application, which allows scientists to share information about their research efforts and platforms (e.g., buoys, ships, gliders, etc.) in Alaskan waters."
-  image: "j-jenkes"
-  email: "jordan@axiomdatascience.com"
 
 - name: "Dr. William Koeppen"
   position: "Physical Scientist"
