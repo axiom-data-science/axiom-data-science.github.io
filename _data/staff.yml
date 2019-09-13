@@ -90,6 +90,12 @@
   image: "luc-mehl"
   email: "luc@axiomdatascience.com"
 
+- name: "Vanessa Raymond"
+  position: "Senior Data Coordinator/Product Owner"
+  description: "Vanessa Raymond has 5 years of IT project and product management experience with groups serving data and building software products for research entities in Alaska. She is passionate about solving big problems through accessible and reusable data, building effective project teams, and facilitating communication between research stakeholders and technical team members. Prior to joining Axiom she worked at the NSF Arctic Data Center and the University of Alaska Fairbanks Geographic Information Network of Alaska (UAF GINA) on projects funded by federal, state, and local agencies. She holds an MA from the University of Alaska Fairbanks in Arctic Governance with a focus on Arctic Security. Her MA thesis examined perceptions of political risk in the Arctic through a text analysis of a decade of U.S. State Department cables and U.S. federal agency Arctic policies. Beyond the office Vanessa is a radio DJ, slow biker, and snack enthusiast."
+  image: "v-raymond"
+  email: "vanessa@axiomdatascience.com"
+
 - name: "Brian Stone"
   position: "Senior Software Engineer"
   description: "Brian Stone has a Bachelor of Arts in Art Studio from Colorado College in Colorado Springs. He's developed web-based applications since 2004 and specializes in web design and usability concepts. Prior to his work at Axiom, Brian was the primary web administrator for the Anchorage Daily News and Alaska.com, and he created a variety of interactive maps and graphics to supplement newsroom stories. At Axiom, he creates cross-platform, web-based spatial planning applications that allow users to interactively explore multiple large scientific data sets across time, space and depth."
@@ -101,12 +107,6 @@
   description: "Chris is a data librarian and metadata evangelist trying to make it easier to responsibly share and document research data. He has a Bachelor of Science degree from University of Alaska, Anchorage (Mathematics, 2007) and a Master of Science from Syracuse University (Library and Information Science, 2012). His prior work experience includes working in libraries doing serials cataloging, collection maintenance, and photo and document digitization, serving as a data management consultant for NSF funded research groups while an eScience Fellow as SU, and comparing and crosswalking scientific metadata standards while interning at the NSIDC. Chris was hired at Axiom to help document data resources, develop metadata strategy, liaise with program managers and PIs, and to develop and promote data management best practices. Outside of work, he enjoys long bike rides and brothy soups."
   image: "c-turner"
   email: "chris@axiomdatascience.com"
-
-- name: "Melany Wilson"
-  position: "Data Analyst"
-  description: "Melany has worked as a Science Technician on various research projects in Alaska and Antarctica. She has a Master of Science in Environmental Science with a focus on Geographic Information Systems from Alaska Pacific University. She worked at the University of Wisconsin-Madison as a Senior Instrumentation Technician at the South Pole Station building a high energy neutrino detector called the IceCube Neutrino Observatory. Originally from North Carolina, she has lived in Alaska for nearly 20 years. She loves to ski and climb mountains."
-  image: "m-wilson"
-  email: "melany@axiomdatascience.com"
 
 - name: "Francis"
   position: "Therapy Dog"
