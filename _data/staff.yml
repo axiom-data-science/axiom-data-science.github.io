@@ -36,6 +36,12 @@
   image: "s-buckelew"
   email: "stacey@axiomdatascience.com"
 
+- name: "Adrienne Canino"
+  position: "Data Coordinator/Data Librarian"
+  description: "Adrienne is a data librarian, science literacy enthusiast, and sci-fi fan. Her work experience has stretched from environmental conservation to data librarianship. She earned a Masters in Professional Studies in Environmental Studies from State University of New York College of Environmental Science and Forestry in 2014 and a Masters in Library and Information Science from Syracuse University in 2018. Her career has included leading cross-departmental initiatives in data literacy and research data services, digital archiving work, coordinating a youth conservation corps program, and planting many trees."
+  image: "a-canino"
+  email: "adrienne@axiomdatascience.com"
+
 - name: "Liz Dobbins"
   position: "Environmental Data Scientist"
   description: "Liz received a Masters degree in Physical Oceanography from the University of Washington, Seattle, WA. Since then, she’s supported interdisciplinary scientific endeavors in wildly disparate ways - from Unix system administration to fieldwork north of the Arctic Circle. In 2009, Liz relocated with her family to Fairbanks, AK, where she has focused on processing data collected in Alaskan waters and creating near real-time web maps. More recently, she’s become intrigued by the philosophy of Reproducible Research and the open-source software that supports it. In her spare time, Liz can be found on the roads of Fairbanks, shuttling kids between ski teams and ballet lessons."
@@ -66,6 +72,12 @@
   image: "i-gill"
   email: "ian@axiomdatascience.com"
 
+- name: "Karl Hiner"
+  position: "Senior Software Engineer"
+  description: "Karl is a full-stack software developer with professional interests in web application development, high-throughput streaming services, data science, and data visualization. He earned a BS in computer science at Portland State University in 2013. Prior to Axiom, he worked at SaaS companies building web applications across all parts of the stack. Karl lives in Portland with his wife and their cat, Circe. Outside of work, he's lately been into skiing, climbing, playing drums badly, and making music production software."
+  image: "k-hiner"
+  email: "karl@axiomdatascience.com"
+  
 - name: "Dr. William Koeppen"
   position: "Physical Scientist"
   description: "Will has a Bachelor of Science degree from Juniata College (Geology and Physics, 2001); a Masters degree from Washington University in St. Louis (Earth and Planetary Science, 2003); and a PhD from the University of Hawaii at Manoa (Geology and Geophysics, 2008). His doctoral work included using laboratory analyses and satellite data to understand the composition and evolution of Mars. As a postdoc, he worked on a hybridized time-series analysis algorithm to detect volcanic eruptions in near-real time using real-time satellite data and methods to identify the presence of geologic materials associated with nuclear enrichment in thermal infrared airborne data. At Axiom, Will serves as staff scientist as well as a liaison to many of the scientific groups with which Axiom works."
@@ -107,12 +119,6 @@
   description: "Chris is a data librarian and metadata evangelist trying to make it easier to responsibly share and document research data. He has a Bachelor of Science degree from University of Alaska, Anchorage (Mathematics, 2007) and a Master of Science from Syracuse University (Library and Information Science, 2012). His prior work experience includes working in libraries doing serials cataloging, collection maintenance, and photo and document digitization, serving as a data management consultant for NSF funded research groups while an eScience Fellow as SU, and comparing and crosswalking scientific metadata standards while interning at the NSIDC. Chris was hired at Axiom to help document data resources, develop metadata strategy, liaise with program managers and PIs, and to develop and promote data management best practices. Outside of work, he enjoys long bike rides and brothy soups."
   image: "c-turner"
   email: "chris@axiomdatascience.com"
-
-- name: "Karl Hiner"
-  position: "Senior Software Engineer"
-  description: "Karl is a full-stack software developer with professional interests in web application development, high-throughput streaming services, data science, and data visualization. He earned a BS in computer science at Portland State University in 2013. Prior to Axiom, he worked at SaaS companies building web applications across all parts of the stack. Karl lives in Portland with his wife and their cat, Circe. Outside of work, he's lately been into skiing, climbing, playing drums badly, and making music production software."
-  image: "k-hiner"
-  email: "karl@axiomdatascience.com"
 
 - name: "Francis"
   position: "Therapy Dog"
