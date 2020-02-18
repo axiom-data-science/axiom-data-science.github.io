@@ -108,6 +108,12 @@
   image: "c-turner"
   email: "chris@axiomdatascience.com"
 
+- name: "Karl Hiner"
+  position: "Senior Software Engineer"
+  description: "Karl is a full-stack software developer with professional interests in web application development, high-throughput streaming services, data science, and data visualization. He earned a BS in computer science at Portland State University in 2013. Prior to Axiom, he worked at SASS companies building web applications across all parts of the stack. Karl lives in Portland with his wife and their cat, Circe. Outside of work, he's lately been into skiing, climbing, playing drums badly, and making music production software."
+  image: "k-hiner"
+  email: "karl@axiomdatascience.com"
+
 - name: "Francis"
   position: "Therapy Dog"
   description: "As a puppy prodigy and adult dog phenom, Francis has dual degrees in Saliva Production and Getting in the Way. Before working at Axiom as an occupational therapist, Francis spent years learning the way of the dog in his owner's garage. He currently loves being off leash, corralling and giving rides to kids, barking at moose, and cleaning his plate."
