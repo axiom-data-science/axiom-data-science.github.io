@@ -126,6 +126,12 @@
   image: "c-turner"
   email: "chris@axiomdatascience.com"
 
+- name: "Luke Campbell"
+  position: "Senior Software Engineer"
+  description: "Luke is a software engineer with a B.S. in Computer Science from the University of New Haven and is a former Sonar Technician in the United States Navy. Luke has a strong background in developing GIS applications and software architecture to manage MetOcean data. He has worked on the Ocean Observatories Initiative, Integrated Ocean Observing System, multiple regional association observing systems, and forecasting software for the U.S. Navy’s Fleet Numerical Meteorology and Oceanography Center. He loves programming, hiking, flying, and in his younger years jumping out of airplanes."
+  image: "l-campbell"
+  email: "luke@axiomdatascience.com"
+
 - name: "Francis"
   position: "Therapy Dog"
   description: "As a puppy prodigy and adult dog phenom, Francis has dual degrees in Saliva Production and Getting in the Way. Before working at Axiom as an occupational therapist, Francis spent years learning the way of the dog in his owner's garage. He currently loves being off leash, corralling and giving rides to kids, barking at moose, and cleaning his plate."
