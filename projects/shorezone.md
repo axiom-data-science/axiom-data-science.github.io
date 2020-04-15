@@ -49,8 +49,6 @@ Shorezone data must be integrated in a variety of ways depending on who and when
 
 </div>
 
-{% include recent_work.html %}
-
 <!-- {% capture _header %}Highlights{% endcapture %}
 {% capture _content %}
 <ul>

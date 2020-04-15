@@ -52,8 +52,3 @@ Who We Work With
 Axiom Data Science, through its partnership with the Research Workspace, provides data management services to multiple, large-scale research programs including the Gulf of Alaska Integrated Ecosystem Research Project, the Arctic Ecosystem Integrated Survey, the Russian American Long-term Census of the Arctic, GulfWatch Alaska, the Distributed Biological Observatory, and more.
 {% endcapture %}
 {% include content_block.html content=_content header=_header %}
-
-
-{% include recent_work.html %}
-
-
