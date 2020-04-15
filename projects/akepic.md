@@ -67,8 +67,6 @@ Axiom used the AKEPIC database to generate a customized mapping application. The
 
 </div>
 
-{% include recent_work.html %}
-
 <!-- 
 {% capture _header %}
 Highlights

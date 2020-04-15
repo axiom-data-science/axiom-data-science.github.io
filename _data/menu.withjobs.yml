@@ -26,5 +26,6 @@
     - label: Data Management
       url: /solutions/data-management/
 
-- label: Recent Work
-  url: /projects/
+# Disabled because all the projects are stale
+#- label: Recent Work
+#  url: /projects/

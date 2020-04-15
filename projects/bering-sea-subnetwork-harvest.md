@@ -66,11 +66,6 @@ Working with Aleut International, Axiom Data Science converted the overlapping p
 
 </div>
 
-
-{% include recent_work.html %}
-
-
-
 <!-- 
 {% capture _header %}
 Highlights
