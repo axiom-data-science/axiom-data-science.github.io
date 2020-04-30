@@ -12,4 +12,4 @@ Read more about [Axiom Ice Observation tool](https://news.uaf.edu/scientists-for
 Axiom Data Science congratulates UAF's Fresh Eyes on Ice program on providing up-to-the minute quality ice data observations to the public, and Fairbanks forecasters.
 
 Photo credit: Chris Arp
-![4/24/2020 Ice observation on Tanana River below Chena](/assets/images/blog/ice_observation.jpg "Ice Observation")
+<img src="/assets/images/blog/ice_observation.jpg" class="img-responsive center-block"/>
