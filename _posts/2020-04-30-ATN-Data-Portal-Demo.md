@@ -1,5 +1,5 @@
 ---
-title: An Introduction to Animal Telemtry Network Data Portal
+title: An Introduction to Animal Telemetry Network Data Portal
 published: true
 layout: post
 image_thumb: /assets/images/blog/2020/ATN_Map_ZoomToExtent.jpg
