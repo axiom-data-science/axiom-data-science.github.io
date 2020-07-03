@@ -18,5 +18,10 @@ collections:
     permalink: /:collection/:name
     default:
       layer:atn_update
+  ooi-updates:
+    output: true
+    permalink: /:collection/:name
+    default:
+      layer:ooi_update
 
 host: 0.0.0.0
