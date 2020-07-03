@@ -2,7 +2,7 @@
 layout: null
 ---
 {
-    "label":"ATN Portal Update Releases & Release Notes",
+    "label":"OOI Data Explorer Update Releases & Release Notes",
     "items":[
 {% assign sorted = site.ooi-updates | reverse %}
 {% for post in sorted %}
