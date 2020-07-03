@@ -1,0 +1,22 @@
+---
+layout: null
+---
+
+
+{% assign sorted = site.portal-updates | reverse %}
+{% for post in sorted %}
+{
+    "version": "https://jsonfeed.org/version/1",
+    "feed_url": "{{ "/feed.json" | absolute_url }}",
+    "items": [{% for post in site.posts limit:10 %}
+        {
+            "id": "{{ post.url | absolute_url }}",
+            "url": "{{ post.url | absolute_url }}",
+            "title": {{ post.title | jsonify }},
+            "image_thumb":{{ post.image_thumb | jsonify }},
+            "content_html": {{ post.content | jsonify }},
+            "date_published": "{{ post.date | date_to_xmlschema }}"
+        }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ]
+}
+{% endfor %}
