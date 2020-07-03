@@ -1,0 +1,18 @@
+---
+layout: null
+---
+{
+    "label":"ATN Portal Update Releases & Release Notes",
+    "items":[
+{% assign sorted = site.atn-updates | reverse %}
+{% for post in sorted %}
+        {
+            "id": "{{ post.url }}",
+            "url": "{{ post.url }}",
+            "title": {{ post.title | jsonify }},
+            "image_thumb":{{ post.image_thumb | jsonify }},
+            "content_html": {{ post.content | jsonify }},
+            "date_published": "{{ post.date | date_to_xmlschema }}"
+        }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ]
+}
