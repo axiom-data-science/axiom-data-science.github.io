@@ -72,8 +72,6 @@ Axiom ingested CeNCOOS-held data from shore stations, gliders, HF radar, ROMS an
 
 </div>
 
-{% include recent_work.html %}
-
 <!-- 
 {% capture _header %}
 Highlights

@@ -54,8 +54,6 @@ An informative visualization displaying heterogenous in situ measurements requir
 
 </div>
 
-{% include recent_work.html %}
-
 <!-- {% capture _header %}Highlights{% endcapture %}
 {% capture _content %}
 <ul>
