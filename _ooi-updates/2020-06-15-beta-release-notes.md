@@ -19,37 +19,37 @@ Use the 'Feedback' tab in the upper right corner to document bugs, glitches, lac
 
 ### New Features
 
-### Data Exploration & Metadata Views
+#### Data Exploration & Metadata Views
 
 * explore assets in an data inventory/availability view
 * see all the plots for a "node" on a single page
 * explore assets in a searchable list
 
-### Annotations & Data Download
+#### Annotations & Data Download
 * see the annotations for each deployment alongside the data
 * see the delineation of deployments & streams
 * download all data for a station/node in a single dataset, or a custom compilation
 
-### Visual Discovery
+#### Visual Discovery
 * explore assets in an interactive map interface
 * bathymetry improvements
 * discover nearby assets
 
-### Profiling Instruments
+#### Profiling Instruments
 * view profile data in a curtain plot
 
-### Compiled Data Products
+#### Compiled Data Products
 * view and explore the full timeseries
 * view seasonal statistics 
 * access CF compliant .nc
 
-### Data Ingestion from OOI M2M API
+#### Data Ingestion from OOI M2M API
 * infrastructure to trigger data ingestion from the OOI M2M server
 * build merged netCDF timeseries field from multiple instruments deployments
 * Streamlist asset and parameter list availability to the client
 * Functionality testing, and preliminary performance testing
 
-### Additional new features based on early beta feedback from participating MIOs:
+#### Additional new features based on early beta feedback from participating MIOs:
 * data views for user scenarios, such as upwelling, storm, etc
 * adding platform type subsetting
 * reworking node groupings
