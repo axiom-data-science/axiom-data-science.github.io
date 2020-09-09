@@ -5,7 +5,7 @@ layout: post
 ---
 
 ### Release Summary
-The Ocean Observatories Initiative (OOI) is pleased to announce the release of its new OOI Data Explorer v.1. To help make OOI data more accessible, usable, and easily integrated into research and classrooms, the OOI team has spent the last year developing this new tool that will allow users to discover the data required to meet their needs.  This version 1 brings improvements, additional data access, and bug fixes to the beta version released to an exclusive subset of scientific users in July 2020 for testing and feedback.
+The Ocean Observatories Initiative (OOI) is pleased to announce the release of its new OOI Data Explorer v.1 (http://dataexplorer.oceanobservatories.org/). To help make OOI data more accessible, usable, and easily integrated into research and classrooms, the OOI team has spent the last year developing this new tool that will allow users to discover the data required to meet their needs.  This version 1 brings improvements, additional data access, and bug fixes to the beta version released to an exclusive subset of scientific users in July 2020 for testing and feedback.
 
 #### Important: #### 
 As it is still in the development stage, the Data Explorer v1.0 can be unstable and you may experience a few minor problems, known as bugs. Additionally, only a subset of the OOI data streams are available. This is expected and you will see placeholders (gray boxes) where additional data are forthcoming.
