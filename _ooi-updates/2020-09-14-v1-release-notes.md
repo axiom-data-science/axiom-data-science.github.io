@@ -42,6 +42,7 @@ As it is still in the development stage, the Data Explorer v1.0 can be unstable 
 * Cascading filtering for parameter and instrument selection
 * Add “All” search feature
 * Integrate beta version of global locators and data filter widget on the landing page
+* Add global view inset to platform map
 * Refactor of v1.0 landing page
 
 #### Annotation and Deployment
