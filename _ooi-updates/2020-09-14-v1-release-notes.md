@@ -58,7 +58,7 @@ As it is still in the development stage, the Data Explorer v1.0 can be unstable 
     
     ERDDAP: [http://erddap.dataexplorer.oceanobservatories.org/erddap/index.html](http://erddap.dataexplorer.oceanobservatories.org/erddap/index.html)
     
-    ERDDAP gold copy (full-resolution datasets for every stream, by deployment): [https://ooigoldcopy-erddap.srv.axds.co/erddap/index.html](https://ooigoldcopy-erddap.srv.axds.co/erddap/index.html)
+    ERDDAP gold copy (full-resolution datasets for every stream, by deployment): [http://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap/index.html](http://erddap-goldcopy.dataexplorer.oceanobservatories.org/erddap/index.html)
 
 * Include selected time bounds and Z dimension when requesting from ERDDAP
 
