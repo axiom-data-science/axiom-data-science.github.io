@@ -24,7 +24,6 @@ As it is still in the development stage, the Data Explorer v1.0 can be unstable 
 * Update to grid filtering algorithm to prevent null result
 * Implement full text search to all charts, including instrument make and model
 * Add access to OOI diagrams and descriptions at array, subsite, and node levels
-* Display glider data preview
 * Highlight depth/map location when hovering over chart
 * Bug fixes to map and depth chart hover and scroll functionality
 
@@ -42,7 +41,7 @@ As it is still in the development stage, the Data Explorer v1.0 can be unstable 
 * Cascading filtering for parameter and instrument selection
 * Add “All” search feature
 * Integrate beta version of global locators and data filter widget on the landing page
-* Add global view inset to platform map
+* Add globe inset to platform map
 * Refactor of v1.0 landing page
 
 #### Annotation and Deployment
