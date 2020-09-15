@@ -41,11 +41,12 @@ As it is still in the development stage, the Data Explorer v1.0 can be unstable 
 * Reorder of parameter names by category to ease browsing (i.e. Specific Humidity and Relative Humidity to Humidity: Specific and Humidity: Relative)
 * Cascading filtering for parameter and instrument selection
 * Add “All” search feature
-* Retitle of “Vehicles” to “Gliders” and “Instrument types” to “Instruments”
+* Integrate beta version of global locators and data filter widget on the landing page
+* Refactor of v1.0 landing page
 
 #### Annotation and Deployment
 * Include Annotation and Deployment file availability by time alongside the timeseries visualization, and tabular display of Annotations and Deployments with file downloads
-Annotation and Deployment UI/UX improvement, including addition of titles on hover and color palette adjustments
+* Annotation and Deployment UI/UX improvement, including addition of titles on hover and color palette adjustments
 
 #### Data Download
 * Create download queue that allows users to collect all downloads on a single page
