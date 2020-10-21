@@ -4,7 +4,7 @@ published: true
 layout: post
 image_thumb: assets/images/blog/2020/de.jpg
 ---
-<img src="/assets/images/blog/2020/de.jpg" class="img-responsive"/>
+<img src="/assets/images/blog/2020/ooi-data-explorer-data-access-inro.gif" class="img-responsive"/>
 
 Accessing, visualizing, and integrating data from the NSF <a href="https://oceanobservatories.org/"> Ocean Observatories Initiative (OOI) </a> into research and classrooms is a whole lot easier. The Ocean Observatories Initiative launched its new data exploration tool – OOI Data Explorer version 1.0 on 5 October <a href=" https://dataexplorer.oceanobservatories.org"> https://dataexplorer.oceanobservatories.org </a> . Data Explorer allows users to search and download cabled, uncabled, and recovered data, compare datasets across regions and disciplines, generate and share custom data views, and download full data sets using ERDDAP.
 
@@ -20,4 +20,4 @@ The developers caution that Data Explorer version 1.0 may still have a few bugs,
 
 Added Glatstein, “Data Explorer is really a community-driven tool and it will be exciting to see how we can refine and improve it to meet the needs of our community.”
 
-<img src="/assets/images/blog/2020/ooi-data-explorer-data-access-inro.gif" class="img-responsive"/>
+
