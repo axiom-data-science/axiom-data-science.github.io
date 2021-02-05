@@ -18,12 +18,6 @@
   image: "k-wilcox"
   email: "kyle@axiomdatascience.com"
 
-- name: "Jessica Austin"
-  position: "Senior Software Engineer"
-  description: "Jessica's interests are in understanding and improving the efficiency of complex systems, whether that be a sprawling software infrastructure or a control system for robotic locomotion. She has a bachelor's degree in Mechanical Engineering from Caltech and a master's in Robotics from Carnegie Mellon, as well as five years experience as a software developer and DevOps engineer at companies including ThoughtWorks and GrubHub.com. She joined Axiom to learn more about the management and analysis of scientific data at a large scale, and to work with scientists and engineers to more quickly gain insights into the data they collect. In the summer she enjoys foraging and gardening, in the winter you'll find her working on a project at the local Makerspace, and any time of year she can be found exploring the mountains around Anchorage with her dog, Kodiak."
-  image: "j-austin"
-  email: "jessica@axiomdatascience.com"
-
 - name: "Lyra Bochenek"
   position: "Operations Manager"
   description: "As operations manager, Lyra executes the behind-the-scenes tasks that enable Axiom to operate efficiently and effectively. She leads organizational logistics, identity development and graphic design. Lyra is a founding partner of Axiom. Before launching Axiom, she worked for 7 years as an associate editor for Alaska Newspapers Inc and and was the creative lead for the marketing department at Alaska USA FCU. She has a degree in Journalism and Public Communications from the University of Alaska Anchorage. Outside of work she can be found romping in Alaska with her two girls, gardening and trying to keep up with young ultimate frisbee players."
@@ -53,12 +47,6 @@
   description: "Liz received a Masters degree in Physical Oceanography from the University of Washington, Seattle, WA. Since then, she’s supported interdisciplinary scientific endeavors in wildly disparate ways - from Unix system administration to fieldwork north of the Arctic Circle. In 2009, Liz relocated with her family to Fairbanks, AK, where she has focused on processing data collected in Alaskan waters and creating near real-time web maps. More recently, she’s become intrigued by the philosophy of Reproducible Research and the open-source software that supports it. In her spare time, Liz can be found on the roads of Fairbanks, shuttling kids between ski teams and ballet lessons."
   image: "l-dobbins"
   email: "liz@axiomdatascience.com"
-
-- name: "John Marc Dunaway"
-  position: "Software Engineer"
-  description: "John Marc has a Bachelor of Science in Mathematics from the University of Alaska, Anchorage. He was hired in 2011 as a software engineer specializing in backend Java services that supply spatial data for web applications. Since joining Axiom, he's organized, ingested and built services to access large image and video data sets (e.g., ShoreZone), summarized and mapped sparse spatial data sets (e.g., marine mammal sightings), and designed and developed tools to subset and analyze GIS and raster data."
-  image: "jm-dunaway"
-  email: "john@axiomdatascience.com"
 
 - name: "Dave Foster"
   position: "Senior Software Engineer"
@@ -95,18 +83,6 @@
   description: "Jesse's professional interests lie at the intersection of environmental science and computational science.  He studied History and Mathematics at the University of Washington (BA), Computational Mathematics at Brooklyn College (Post-Bac), and Environmental Science and Engineering at Oregon Health & Science University (OHSU).  His doctoral work at OHSU was focused on developing and applying high-resolution numerical models and observations to study circulation and sediment dynamics in the Columbia River estuary.  Jesse's work at Axiom involves the management of scientific data, running numerical models, and developing machine learning methods to aid scientific research."
   image: "j-lopez"
   email: "jesse@axiomdatascience.com"
-
-- name: "Ross Martin"
-  position: "Senior Software Engineer"
-  description: "Ross has been developing software professionally since 2006. He received a double-major at the University of Alaska Anchorage in Management and Management Information Systems. Previously, he worked on applications for the Department of Defense and created solutions for the financial industry that service thousands of users. Ross has expertise in developing highly-available, full-stack web applications and services."
-  image: "r-martin"
-  email: "ross@axiomdatascience.com"
-
-- name: "Luc Mehl"
-  position: "Data Scientist"
-  description: "Luc has a Bachelor of Science degree from Carleton College (Geology, 2000) and Masters degrees from University of California, Santa Barbara (Geology, 2002) and the Massachusetts Institute of Technology / Woods Hole Oceanographic Institution Joint Program (Marine Geology and Geophysics, 2008). Luc was hired by Axiom in 2009, and his roles include data ingestion, database management, converting data to netCDF, writing data-feed services (Java), building advanced analytical tools (e.g., Kriging, Biodiversity Indices), and taking out the recycling in one of his adorable and unreliable vehicles."
-  image: "luc-mehl"
-  email: "luc@axiomdatascience.com"
 
 - name: "Vanessa Raymond"
   position: "Senior Data Coordinator/Product Owner"
