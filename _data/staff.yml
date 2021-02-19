@@ -101,6 +101,12 @@
   description: "Brian Stone has a Bachelor of Arts in Art Studio from Colorado College in Colorado Springs. He's developed web-based applications since 2004 and specializes in web design and usability concepts. Prior to his work at Axiom, Brian was the primary web administrator for the Anchorage Daily News and Alaska.com, and he created a variety of interactive maps and graphics to supplement newsroom stories. At Axiom, he creates cross-platform, web-based spatial planning applications that allow users to interactively explore multiple large scientific data sets across time, space and depth."
   image: "b-stone"
   email: "brian@axiomdatascience.com"
+  
+- name: "Kristen Thyng"
+  position: "MetOcean Data Scientist"
+  description: "Kristen has a long history of changing academics fields. She started with a B.A. in Physics at Whitman College, followed with a MSc. in Applied Math at the University of Washington, then a PhD in Mechnical Engineering at UW. Afterward, she went to Texas A&M for a Postdoc in Oceanography and stuck around as a Research Scientist and Research Professor. Now, she has found the best combination of all these fields to be a MetOcean Data scientist! Kristen's work has included: numerical ocean simulations for applications including tidal turbine siting; understanding coastal ocean physics; tracking material like oil, harmful algal blooms, and drug packages; lots of data gathering and analysis; teaching Python; and the design and sharing of colormaps to use for beautiful and intuitive visualizations. Outside of work, Kristen spends time with her important people and creatures, and tries to find ocean and mountains."
+  image: "k-thyng"
+  email: "kristen@axiomalaska.com"
 
 - name: "Chris Turner"
   position: "Data Librarian"
