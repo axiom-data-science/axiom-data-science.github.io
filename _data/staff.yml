@@ -71,6 +71,12 @@
   description: "Karl is a full-stack software developer with professional interests in web application development, high-throughput streaming services, data science, and data visualization. He earned a BS in computer science at Portland State University in 2013. Prior to Axiom, he worked at SaaS companies building web applications across all parts of the stack. Karl lives in Portland with his wife and their cat, Circe. Outside of work, he's lately been into skiing, climbing, playing drums badly, and making music production software."
   image: "k-hiner"
   email: "karl@axiomdatascience.com"
+
+- name: "Patrick Kalita"
+  position: "Software Engineer"
+  description: "Patrick is a software engineer with a focus on tools and systems for supporting scientific research and discovery. He has a BS from Rose-Hulman Institute of Technology (Electrical Engineering, 2006) and an MS from Purdue University (Electrical Engineering, 2008). Before joining Axiom Patrick’s work included web and data pipeline development for the Zebrafish Information Network (ZFIN) at the University of Oregon. Outside of work he paints and rides old bicycles."
+  image: "p-kalita"
+  email: "patrick@axiomdatascience.com"
   
 - name: "Dr. William Koeppen"
   position: "Physical Scientist"
@@ -113,12 +119,6 @@
   description: "Chris is a data librarian and metadata evangelist trying to make it easier to responsibly share and document research data. He has a Bachelor of Science degree from University of Alaska, Anchorage (Mathematics, 2007) and a Master of Science from Syracuse University (Library and Information Science, 2012). His prior work experience includes working in libraries doing serials cataloging, collection maintenance, and photo and document digitization, serving as a data management consultant for NSF funded research groups while an eScience Fellow as SU, and comparing and crosswalking scientific metadata standards while interning at the NSIDC. Chris was hired at Axiom to help document data resources, develop metadata strategy, liaise with program managers and PIs, and to develop and promote data management best practices. Outside of work, he enjoys long bike rides and brothy soups."
   image: "c-turner"
   email: "chris@axiomdatascience.com"
-
-- name: "Patrick Kalita"
-  position: "Software Engineer"
-  description: "Patrick is a software engineer with a focus on tools and systems for supporting scientific research and discovery. He has a BS from Rose-Hulman Institute of Technology (Electrical Engineering, 2006) and an MS from Purdue University (Electrical Engineering, 2008). Before joining Axiom Patrick’s work included web and data pipeline development for the Zebrafish Information Network (ZFIN) at the University of Oregon. Outside of work he paints and rides old bicycles."
-  image: "p-kalita"
-  email: "patrick@axiomdatascience.com"
 
 - name: "Francis"
   position: "Therapy Dog"
