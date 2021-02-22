@@ -71,6 +71,12 @@
   description: "Karl is a full-stack software developer with professional interests in web application development, high-throughput streaming services, data science, and data visualization. He earned a BS in computer science at Portland State University in 2013. Prior to Axiom, he worked at SaaS companies building web applications across all parts of the stack. Karl lives in Portland with his wife and their cat, Circe. Outside of work, he's lately been into skiing, climbing, playing drums badly, and making music production software."
   image: "k-hiner"
   email: "karl@axiomdatascience.com"
+
+- name: "Patrick Kalita"
+  position: "Software Engineer"
+  description: "Patrick is a software engineer with a focus on tools and systems for supporting scientific research and discovery. He has a BS from Rose-Hulman Institute of Technology (Electrical Engineering, 2006) and an MS from Purdue University (Electrical Engineering, 2008). Before joining Axiom Patrick’s work included web and data pipeline development for the Zebrafish Information Network (ZFIN) at the University of Oregon. Outside of work he paints and rides old bicycles."
+  image: "p-kalita"
+  email: "patrick@axiomdatascience.com"
   
 - name: "Dr. William Koeppen"
   position: "Physical Scientist"
