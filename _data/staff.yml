@@ -114,6 +114,12 @@
   image: "c-turner"
   email: "chris@axiomdatascience.com"
 
+- name: "Patrick Kalita"
+  position: "Software Engineer"
+  description: "Patrick is a software engineer with a focus on tools and systems for supporting scientific research and discovery. He has a BS from Rose-Hulman Institute of Technology (Electrical Engineering, 2006) and an MS from Purdue University (Electrical Engineering, 2008). Before joining Axiom Patrick’s work included web and data pipeline development for the Zebrafish Information Network (ZFIN) at the University of Oregon. Outside of work he paints and rides old bicycles."
+  image: "p-kalita"
+  email: "patrick@axiomdatascience.com"
+
 - name: "Francis"
   position: "Therapy Dog"
   description: "As a puppy prodigy and adult dog phenom, Francis has dual degrees in Saliva Production and Getting in the Way. Before working at Axiom as an occupational therapist, Francis spent years learning the way of the dog in his owner's garage. He currently loves being off leash, corralling and giving rides to kids, barking at moose, and cleaning his plate."
