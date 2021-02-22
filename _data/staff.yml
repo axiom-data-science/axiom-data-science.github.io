@@ -96,6 +96,12 @@
   image: "v-raymond"
   email: "vanessa@axiomdatascience.com"
 
+- name: "Josh Rhoades"
+  position: "Software Engineer"
+  description: "Josh is a full-stack software developer. Following his B.S. in Computer Science from Arizona State (2007), he has worked in Linux system administration, web and backend development, as well as data and interface design. His claim to fame is that he has co-authored two full length novels (which makes the mistakes in his emails all the more embarrassing and no less frequent). He loves cycling, rock climbing, and plaintext file formats. He lives in Anchorage with his girlfriend and their fish."
+  image: "j-rhoades"
+  email: "josh@axiomdatascience.com"  
+
 - name: "Lauren Showalter"
   position: "Project Manager"
   description: "Lauren has a Master’s in Marine Science from the University of Alabama and has worked in the data management space since the Deepwater Horizon oil spill in the Gulf of Mexico in 2010. She uses her background in marine ecology and management to improve availability and access to research data. She has managed the development of a large scale data repository and interdisciplinary data programs focused on the Gulf of Mexico region and ranging in topics from oceanography to community resilience. Lauren is passionate about helping people see that good data management is not difficult and can benefit their careers and science as a whole. Outside of the office Lauren enjoys taking her dogs to the brewery, knitting, riding her bike around D.C., and playing board games with her husband."
