@@ -2,10 +2,8 @@
 title: The New Cook Inlet Beluga Whale Ecosystem Portal Makes a Big Splash in the Media
 published: true
 layout: post
-image_thumb: /assets/images/blog/2016/05/CIBW2.jpg
 ---
 
-<img src="/assets/images/blog/2016/05/CIBW2.jpg" class="pull-right" style="max-width:460px;" />
 Axiom Data Science, in partnership with the Alaska Ocean Observing System, NOAA, and the Cook Inlet Regional Citizens Advisory Council (CIRCAC), has featured the public release of the Cook Inlet Beluga Whale Ecosystem Portal in the following news articles and radio broadcast:
 
 - <a href="http://www.alaskajournal.com/2016-05-11/aoos-launches-portal-cook-inlet-beluga-whale-data">Alaska Journal of Commerce, May 2016: AOOS launches portal for Cook Inlet beluga whale data</a>
