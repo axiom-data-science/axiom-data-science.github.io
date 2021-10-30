@@ -1,18 +1,23 @@
 #clients
 ---
-- url: "http://www.aoos.org"
+
+- url: "https://arcticdomainawarenesscenter.org/"
+  image: "adac"
+  label: "Arctic Domain Awareness Center"
+
+- url: "https://www.aoos.org"
   image: "aoos"
-  label: " Alaska Ocean Observing System"
+  label: "Alaska Ocean Observing System"
 
-- url: "http://data.cencoos.org"
+- url: "https://data.cencoos.org"
   image: "cencoos"
-  label: " Central & Northern California Ocean Observing System"
+  label: "Central & Northern California Ocean Observing System"
 
-- url: "http://www.secoora.org"
+- url: "https://www.secoora.org"
   image: "secoora"
   label: "Southeast Coastal Ocean Observing Regional Association"
 
-- url: "http://www.ioos.noaa.gov/"
+- url: "https://www.ioos.noaa.gov/"
   image: "ioos"
   label: "Integrated Ocean Observing System"
 
@@ -20,7 +25,7 @@
   image: "usgs"
   label: "USGS"
 
-- url: "http://www.nasa.gov"
+- url: "https://www.nasa.gov"
   image: "nasa"
   label: "NASA"  
 
@@ -28,7 +33,7 @@
   image: "evos"
   label: "Exxon Valdez Oil Spill Trustee Council"
 
-- url: "http://www.nprb.org/"
+- url: "https://www.nprb.org/"
   image: "nprb"
   label: "North Pacific Research Board"
 
