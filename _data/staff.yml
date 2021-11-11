@@ -96,12 +96,6 @@
   image: "k-lassagne"
   email: "kasandra@axiomdatascience.com"
     
-- name: "Vanessa Raymond"
-  position: "Senior Data Coordinator/Product Owner"
-  description: "Vanessa Raymond has 5 years of IT project and product management experience with groups serving data and building software products for research entities in Alaska. She is passionate about solving big problems through accessible and reusable data, building effective project teams, and facilitating communication between research stakeholders and technical team members. Prior to joining Axiom she worked at the NSF Arctic Data Center and the University of Alaska Fairbanks Geographic Information Network of Alaska (UAF GINA) on projects funded by federal, state, and local agencies. She holds an MA from the University of Alaska Fairbanks in Arctic Governance with a focus on Arctic Security. Her MA thesis examined perceptions of political risk in the Arctic through a text analysis of a decade of U.S. State Department cables and U.S. federal agency Arctic policies. Beyond the office Vanessa is a radio DJ, slow biker, and snack enthusiast."
-  image: "v-raymond"
-  email: "vanessa@axiomdatascience.com"
-
 - name: "Josh Rhoades"
   position: "Software Engineer"
   description: "Josh is a full-stack software developer. Following his B.S. in Computer Science from Arizona State (2007), he has worked in Linux system administration, web and backend development, as well as data and interface design. His claim to fame is that he has co-authored two full length novels (which makes the mistakes in his emails all the more embarrassing and no less frequent). He loves cycling, rock climbing, and plaintext file formats. He lives in Anchorage with his girlfriend and their fish."
