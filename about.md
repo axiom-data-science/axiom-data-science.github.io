@@ -15,7 +15,7 @@ Staff and Facilities
 {% capture _content %}
 Axiom Data Science staff includes software architects and engineers, GIS and data analysts, web and graphic designers,
 scientists and data librarians. Our headquarters are located in Anchorage, Alaska, with two main satellite offices
-in Portland, Oregon and Kingstown, Rhode Island. Axiom operates a High Performance Compute (HPC) cluster in Portland
+in Portland, Oregon and Wickford, Rhode Island. Axiom operates a High Performance Compute (HPC) cluster in Portland
 composed of more than 1400 processing cores staged in a series of interconnected blade arrays as well as 1.4 PBs of
 storage distributed across clustered storage nodes. Compute nodes and storage nodes
 are connected over a low latency, converging network fabric (40 Gb/Sec Infiniband). GlusterFS is employed as a storage
