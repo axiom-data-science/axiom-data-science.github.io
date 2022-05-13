@@ -14,7 +14,7 @@
 
 - name: "Kyle Wilcox"
   position: "Software Architect"
-  description: "Kyle has over eight years of experience working in the ocean and environmental sciences, where he specializes in the discoverabiliy and accessibility of data. After earning a BS in Computer Science from the University of Rhode Island in 2006, he went to work for the NOAA Chesapeake Bay Office in Annapolis, MD, managing huge collections of modeled and observed data.  Kyle lead the software development team at Applied Science Associates from 2009 to 2013 before joining Axiom Data Science in November of 2013.  At home, his wife and three kids manage his always growing to-do list."
+  description: "Kyle has over eight years of experience working in the ocean and environmental sciences, where he specializes in the discoverability and accessibility of data. After earning a BS in Computer Science from the University of Rhode Island in 2006, he went to work for the NOAA Chesapeake Bay Office in Annapolis, MD, managing huge collections of modeled and observed data.  Kyle lead the software development team at Applied Science Associates from 2009 to 2013 before joining Axiom Data Science in November of 2013.  At home, his wife and three kids manage his always growing to-do list."
   image: "k-wilcox"
   email: "kyle@axiomdatascience.com"
 
@@ -37,7 +37,7 @@
   email: "luke@axiomdatascience.com"
 
 - name: "Adrienne Canino"
-  position: "Data Coordinator/Data Librarian"
+  position: "Data Librarian"
   description: "Adrienne is a data librarian, science literacy enthusiast, and sci-fi fan. Her work experience has stretched from environmental conservation to data librarianship. She earned a Masters in Professional Studies in Environmental Studies from State University of New York College of Environmental Science and Forestry in 2014 and a Masters in Library and Information Science from Syracuse University in 2018. Her career has included leading cross-departmental initiatives in data literacy and research data services, digital archiving work, coordinating a youth conservation corps program, and planting many trees."
   image: "a-canino"
   email: "adrienne@axiomdatascience.com"
@@ -54,17 +54,17 @@
   image: "d-foster"
   email: "dave@axiomdatascience.com"
 
-- name: "Trevor Golden"
-  position: "Environmental Data Scientist"
-  description: "Trevor earned his Bachelor of Arts degree in Liberal Studies and Outdoor Studies from Alaska Pacific University, emphasizing in quantitative ecology and philosophy of science. He is a big fan of the scientific method, and is particularly interested in optimizing the process of discovery by building robust solutions to challenges in data management and analysis. Before joining Axiom, Trevor spent six years in ecology working on a variety of projects ranging from the ingestion and validation of meteorological observations, to the analysis of movement patterns in telemetered animal locations."
-  image: t-golden
-  email: "trevor@axiomdatascience.com"
-
 - name: "Ian Gill"
   position: "Data Coordinator"
   description: "Ian earned a Masters in Environmental Science at Western Washington University in 2011 and has spent over a decade doing fieldwork in Alaska, mostly watching bears catch salmon along various streams and rivers. His graduate research at McNeil River focused on the behavioral ecology of brown bears foraging for salmon and the impacts of bear-salmon predation on salmon populations. Ian worked for the Alaska Department of Fish and Game from 2012 to 2016, first as a habitat biologist and later as a science editor, where he learned to appreciate well-documented data, well-used semicolons, and the serial comma."
   image: "i-gill"
   email: "ian@axiomdatascience.com"
+
+- name: "Trevor Golden"
+  position: "Environmental Data Scientist"
+  description: "Trevor earned his Bachelor of Arts degree in Liberal Studies and Outdoor Studies from Alaska Pacific University, emphasizing in quantitative ecology and philosophy of science. He is a big fan of the scientific method, and is particularly interested in optimizing the process of discovery by building robust solutions to challenges in data management and analysis. Before joining Axiom, Trevor spent six years in ecology working on a variety of projects ranging from the ingestion and validation of meteorological observations, to the analysis of movement patterns in telemetered animal locations."
+  image: t-golden
+  email: "trevor@axiomdatascience.com"
 
 - name: "Karl Hiner"
   position: "Senior Software Engineer"
@@ -72,17 +72,23 @@
   image: "k-hiner"
   email: "karl@axiomdatascience.com"
 
-- name: "Patrick Kalita"
-  position: "Software Engineer"
-  description: "Patrick is a software engineer with a focus on tools and systems for supporting scientific research and discovery. He has a BS from Rose-Hulman Institute of Technology (Electrical Engineering, 2006) and an MS from Purdue University (Electrical Engineering, 2008). Before joining Axiom Patrick’s work included web and data pipeline development for the Zebrafish Information Network (ZFIN) at the University of Oregon. Outside of work he paints and rides old bicycles."
-  image: "p-kalita"
-  email: "patrick@axiomdatascience.com"
+- name: "Dr. Karina Khazmutdinova"
+  position: "Project Manager"
+  description: "Karina's background spans physical and observational oceanography, speleology, grants management, and environmental policy. Prior to joining Axiom, she served as the Senior Program Officer for the Gulf Research Program at the National Academies of Sciences, Engineering, and Medicine, where she led the development of programs focused on the Gulf of Mexico ocean dynamics and offshore energy safety. Karina has a Ph.D. in Geophysical Fluid Dynamics from Florida State University. Outside of work, she can be found planning various trips, going to the theatre, reading, or aiming to hike the full length of the Chesapeake & Ohio Canal in one day."
+  image: "k-khazmutdinova"
+  email: "karina@axiomdatascience.com"
 
 - name: "Dr. William Koeppen"
   position: "Physical Scientist"
   description: "Will has a Bachelor of Science degree from Juniata College (Geology and Physics, 2001); a Masters degree from Washington University in St. Louis (Earth and Planetary Science, 2003); and a PhD from the University of Hawaii at Manoa (Geology and Geophysics, 2008). His doctoral work included using laboratory analyses and satellite data to understand the composition and evolution of Mars. As a postdoc, he worked on a hybridized time-series analysis algorithm to detect volcanic eruptions in near-real time using real-time satellite data and methods to identify the presence of geologic materials associated with nuclear enrichment in thermal infrared airborne data. At Axiom, Will serves as staff scientist as well as a liaison to many of the scientific groups with which Axiom works."
   image: "will-koeppen"
   email: "will@axiomdatascience.com"
+
+- name: "Dr. Ana Paula Morais Krelling"
+  position: "Environmental Data Scientist"
+  description: "Ana has a Bachelor of Science in Oceanography (Universidade Federal do Pará/Brazil, 2008); a Master's degree in Ocean Engineering (Universidade Federal do Rio de Janeiro/Brazil, 2010); and a Ph.D. in Oceanography/Marine Science and Technology (Universidade de São Paulo/Brazil and University of Massachusetts/USA, 2015). During her time in academia, she worked with various kinds of ocean and meteorological data as well as numerical model outputs, and became aware of some challenges doing research and advancing science. At Axiom, she helps ease these challenges as an Environmental Data Engineer and liason to the scientific groups Axiom works with. In her free time, she currently enjoys doing aerial silks and sculling while watching the sunrise."
+  image: "a-krelling"
+  email: "ana@axiomdatascience.com"
 
 - name: "Kasandra Lassagne"
   position: "Jr. Data Scientist"
@@ -110,7 +116,7 @@
 
 - name: "Joe Sonnier"
   position: "Grants and Contracts Manager"
-  description: "Joe joined the Axiom team in 2021 from a senior leadership role in the Alaska nonprofit sector. He received his Bachelor and Master of Business Administration from Alaska Pacific University. Much of his career has been focused on organizational design, sustainability, and strategic leadership. Joe is a technical writer at heart and loves crafting documents that benefit both organizations and people. Outside of work you can find him in the Chugach chasing mountaintops with his fearless corgi."
+  description: "Joe joined the Axiom team in 2021 from a senior leadership role in the Alaska nonprofit sector. He earned his Bachelor and Master of Business Administration at Alaska Pacific University. Much of his career has been focused on organizational design, sustainability, and strategic leadership. Joe is a technical writer at heart and loves crafting documents that benefit both organizations and people. Outside of work you can find him in the Chugach chasing mountaintops with his fearless corgi."
   image: "j-sonnier"
   email: "joe@axiomdatascience.com"
 
