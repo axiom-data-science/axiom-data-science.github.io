@@ -1,19 +1,19 @@
 #staff
 ---
 - name: "Rob Bochenek"
-  position: "Information Architect"
+  position: "President"
   description: "Rob has been developing data management and cyber infrastructure solutions for research programs and organizations for the past fifteen years. He is a graduate of the University of Michigan with a degrees in aerospace engineering and mathematics. Early in his career Rob spent five years at the Exxon Valdez Oil Spill Trustee Council leading the data management team in processing, documenting and organizing the informational products produced from the scientific research funded to understand and monitor the ecological effects of the oil spill. Based upon that experience, Rob founded Axiom in 2006 to develop more generalized and holistic solutions for data management. He specializes in scientific geospatial information management with applications to physical/biological modeling and decision support data warehouse knowledge systems."
   image: "r-bochenek"
   email: "rob@axiomdatascience.com"
 
 - name: "Shane St Savage"
-  position: "Software Architect"
+  position: "Chief Infrastructure Officer"
   description: "Shane is a founding partner of Axiom, and has been programming professionally for over a decade. Through many years of conducting data salvage and application development projects he has become a strong advocate for maintaining clean, organized and well described datasets; creating user interfaces that are both powerful and intuitive; and writing well documented and reusable code. Shane graduated from the University of Alaska Anchorage in 2002 with a degree in biological sciences, which gives him a useful insight into biological research."
   image: "s-stsavage"
   email: "shane@axiomdatascience.com"
 
 - name: "Kyle Wilcox"
-  position: "Software Architect"
+  position: "Chief Technology Officer"
   description: "Kyle has over eight years of experience working in the ocean and environmental sciences, where he specializes in the discoverability and accessibility of data. After earning a BS in Computer Science from the University of Rhode Island in 2006, he went to work for the NOAA Chesapeake Bay Office in Annapolis, MD, managing huge collections of modeled and observed data.  Kyle lead the software development team at Applied Science Associates from 2009 to 2013 before joining Axiom Data Science in November of 2013.  At home, his wife and three kids manage his always growing to-do list."
   image: "k-wilcox"
   email: "kyle@axiomdatascience.com"
@@ -25,7 +25,7 @@
   email: "lyra@axiomdatascience.com"
 
 - name: "Stacey Buckelew"
-  position: "Director of Programs"
+  position: "Chief Operating Officer"
   description: "Stacey engages with scientists to support their use and organization of Axiom’s data portals and data management tools. Stacey has a 10 year history working in applied marine ecological research and coastal habitat restoration in locations spanning, literally, from the Arctic to Antarctica. Through these experiences, she has a well-developed capacity to coordinate across research teams and stakeholders to support their decision-making needs. Stacey has Bachelor of Science in marine biology and a Masters of Science in Ecology from the University of California, Santa Cruz. When not in the office, she can be found learning the art of beekeeping and running, skiing, or biking throughout southcentral Alaska."
   image: "s-buckelew"
   email: "stacey@axiomdatascience.com"
@@ -66,12 +66,6 @@
   image: t-golden
   email: "trevor@axiomdatascience.com"
 
-- name: "Karl Hiner"
-  position: "Senior Software Engineer"
-  description: "Karl is a full-stack software developer with professional interests in web application development, high-throughput streaming services, data science, and data visualization. He earned a BS in computer science at Portland State University in 2013. Prior to Axiom, he worked at SaaS companies building web applications across all parts of the stack. Karl lives in Portland with his wife and their cat, Circe. Outside of work, he's lately been into skiing, climbing, playing drums badly, and making music production software."
-  image: "k-hiner"
-  email: "karl@axiomdatascience.com"
-
 - name: "Dr. Karina Khazmutdinova"
   position: "Project Manager"
   description: "Karina's background spans physical and observational oceanography, speleology, grants management, and environmental policy. Prior to joining Axiom, she served as the Senior Program Officer for the Gulf Research Program at the National Academies of Sciences, Engineering, and Medicine, where she led the development of programs focused on the Gulf of Mexico ocean dynamics and offshore energy safety. Karina has a Ph.D. in Geophysical Fluid Dynamics from Florida State University. Outside of work, she can be found planning various trips, going to the theatre, reading, or aiming to hike the full length of the Chesapeake & Ohio Canal in one day."
@@ -96,11 +90,11 @@
   image: "k-lassagne"
   email: "kasandra@axiomdatascience.com"
 
-- name: "Dr. Jesse Lopez"
-  position: "Computational Scientist"
-  description: "Jesse's professional interests lie at the intersection of environmental science and computational science.  He studied History and Mathematics at the University of Washington (BA), Computational Mathematics at Brooklyn College (Post-Bac), and Environmental Science and Engineering at Oregon Health & Science University (OHSU).  His doctoral work at OHSU was focused on developing and applying high-resolution numerical models and observations to study circulation and sediment dynamics in the Columbia River estuary.  Jesse's work at Axiom involves the management of scientific data, running numerical models, and developing machine learning methods to aid scientific research."
-  image: "j-lopez"
-  email: "jesse@axiomdatascience.com"
+- name: "Aidan Lewis"
+  position: "Jr. Data Scientist"
+  description: "Aidan is a Junior Data Scientist getting his feet wet in the data science and software engineering realms. He earned his B.S. in Applied Mathematics from Gozaga University (2021 where he obsessively cheered on his beloved Zags. Before Axiom, Aidan helped develop integrated tax software for the Alaska Department of Revenue. He enjoys playing soccer for a local club and is a morning person on powder days."
+  image: "a-lewis"
+  email: "aidan@axiomdatascience.com"
 
 - name: "Josh Rhoades"
   position: "Software Engineer"
