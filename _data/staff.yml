@@ -78,12 +78,6 @@
   image: "will-koeppen"
   email: "will@axiomdatascience.com"
 
-- name: "Dr. Ana Paula Morais Krelling"
-  position: "Environmental Data Scientist"
-  description: "Ana has a Bachelor of Science in Oceanography (Universidade Federal do Pará/Brazil, 2008); a Master's degree in Ocean Engineering (Universidade Federal do Rio de Janeiro/Brazil, 2010); and a Ph.D. in Oceanography/Marine Science and Technology (Universidade de São Paulo/Brazil and University of Massachusetts/USA, 2015). During her time in academia, she worked with various kinds of ocean and meteorological data as well as numerical model outputs, and became aware of some challenges doing research and advancing science. At Axiom, she helps ease these challenges as an Environmental Data Engineer and liason to the scientific groups Axiom works with. In her free time, she currently enjoys doing aerial silks and sculling while watching the sunrise."
-  image: "a-krelling"
-  email: "ana@axiomdatascience.com"
-
 - name: "Kasandra Lassagne"
   position: "Jr. Data Scientist"
   description: "Kasandra is a Data Science Intern working mainly with data ingestion and becoming familiar with the many branches involved with working in a software company. She has a dual bachelor's degree in Mathematics and General Biology from George Fox University. Most of her experience is in ecological data analysis projects focusing on tree distributions in the pacific northwestern forests and coastal ranges."
