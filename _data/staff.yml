@@ -48,12 +48,6 @@
   image: "l-dobbins"
   email: "liz@axiomdatascience.com"
 
-- name: "Dave Foster"
-  position: "Senior Software Engineer"
-  description: "Dave is a software developer working with Python, web development, and quality DevOps infrastructure.  He has a BS from Rensselaer Polytechnic Institute (Computer Science, 2004), and an MSc from the University of Edinburgh (Computer Science, 2005).  At home, he has two Schnauzers and attempts to keep the ball out of the net in his rec soccer leagues."
-  image: "d-foster"
-  email: "dave@axiomdatascience.com"
-
 - name: "Ian Gill"
   position: "Data Coordinator"
   description: "Ian earned a Masters in Environmental Science at Western Washington University in 2011 and has spent over a decade doing fieldwork in Alaska, mostly watching bears catch salmon along various streams and rivers. His graduate research at McNeil River focused on the behavioral ecology of brown bears foraging for salmon and the impacts of bear-salmon predation on salmon populations. Ian worked for the Alaska Department of Fish and Game from 2012 to 2016, first as a habitat biologist and later as a science editor, where he learned to appreciate well-documented data, well-used semicolons, and the serial comma."
