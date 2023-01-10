@@ -12,7 +12,7 @@ RUN useradd --system --home-dir=/srv/jekyll jekyll \
 
 USER jekyll
 
-RUN gem install bundler
+RUN gem install bundler -v 2.3.26
 
 COPY Gemfile .
 
