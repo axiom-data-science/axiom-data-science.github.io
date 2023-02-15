@@ -78,6 +78,12 @@
   image: "a-lewis"
   email: "aidan@axiomdatascience.com"
 
+- name: "Dr. Chang Liu"
+  position: "MetOcean Data Scientist"
+  description: "Chang received his Ph.D. (2019) and M.S. (2013) in Marine Science from the University of Massachusetts Dartmouth, where he developed expertise in computational and data analysis skills in ocean sciences, specializing in modeling larval transport and geolocation methods for demersal fish species. He worked at the University of Connecticut as a Postdoc and Research Associate, where he focused on storm surge and wave modeling in coastal Connecticut, before joining Axiom Data Science in January 2023."
+  image: "c-liu"
+  email: "chang@axiomdatascience.com"
+
 - name: "Josh Rhoades"
   position: "Software Engineer"
   description: "Josh is a full-stack software developer. Following his B.S. in Computer Science from Arizona State (2007), he has worked in Linux system administration, web and backend development, as well as data and interface design. His claim to fame is that he has co-authored two full length novels (which makes the mistakes in his emails all the more embarrassing and no less frequent). He loves cycling, rock climbing, and plaintext file formats. He lives in Anchorage with his girlfriend and their fish."
