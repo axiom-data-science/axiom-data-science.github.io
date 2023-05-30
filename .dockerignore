@@ -4,3 +4,5 @@ Dockerfile
 .dockerignore
 README.md
 **/*.psd
+Gemfile.lock
+_site/

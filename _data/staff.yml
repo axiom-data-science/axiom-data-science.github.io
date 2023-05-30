@@ -48,6 +48,12 @@
   image: "l-dobbins"
   email: "liz@axiomdatascience.com"
 
+- name: "Melanie Feen"
+  position: "Environmental Data Scientist"
+  description: "Melanie is a data scientist and storyteller. She earned a Masters in Oceanography from the University of Rhode Island in 2020 researching the ocean carbon cycle from sensors deployed on underwater marine robots. Prior to her time at Axiom, Melanie was a Data Analyst at Sofar Ocean exploring data from global ocean wave buoys. In her spare time, you’ll often find Melanie outside rock climbing or hiking with her dog."
+  image: "m-feen"
+  email: "melanie@axiomdatascience.com"
+
 - name: "Ian Gill"
   position: "Data Coordinator"
   description: "Ian earned a Masters in Environmental Science at Western Washington University in 2011 and has spent over a decade doing fieldwork in Alaska, mostly watching bears catch salmon along various streams and rivers. His graduate research at McNeil River focused on the behavioral ecology of brown bears foraging for salmon and the impacts of bear-salmon predation on salmon populations. Ian worked for the Alaska Department of Fish and Game from 2012 to 2016, first as a habitat biologist and later as a science editor, where he learned to appreciate well-documented data, well-used semicolons, and the serial comma."
