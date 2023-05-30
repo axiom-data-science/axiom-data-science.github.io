@@ -1,6 +1,7 @@
 FROM ruby:2.4-slim-stretch
 
-RUN apt-get update \
+RUN echo "deb http://archive.debian.org/debian stretch main contrib non-free" > /etc/apt/sources.list \
+    && apt-get update \
     && apt-get -y install build-essential \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/
