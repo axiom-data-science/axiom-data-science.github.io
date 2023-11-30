@@ -108,6 +108,12 @@
   image: "b-stone"
   email: "brian@axiomdatascience.com"
 
+- name: "Iwen Su"
+  position: "Technical Project Manager"
+  description: "Iwen has worked on a variety of field and data projects in fisheries and aquaculture over the past 10 years. Her data journey began in 2016 at the National Center for Ecological Analysis and Synthesis, where she built a strong foundation in data science and management. She earned her Master’s degree in Coastal & Marine Science and Management in 2018 from the Bren School, University of California, Santa Barbara. Iwen’s interests in sustainable seafood and “better science in less time” led her to join an ocean software startup. There, she helped grow the data science team, developed science-driven software products, and managed several client-based and R&D projects. In her down time, she likes to climb rocks and be in the sun."
+  image: "i-su"
+  email: "iwen@axiomdatascience.com"
+
 - name: "Dr. Kristen Thyng"
   position: "MetOcean Data Scientist"
   description: "Kristen has a long history of changing academics fields. She started with a B.A. in Physics at Whitman College, followed with a MSc. in Applied Math at the University of Washington, then a PhD in Mechnical Engineering at UW. Afterward, she went to Texas A&M for a Postdoc in Oceanography and later worked as a Research Scientist and then Research Professor. Now, she has found the best combination of all these fields as a MetOcean Data Scientist! Kristen has made numerical ocean simulations for applications including tidal turbine siting; understanding coastal ocean physics; and tracking material like oil, harmful algal blooms, and drug packages. Her work also has included data gathering and analysis, teaching Python, and the design and sharing of colormaps to use for beautiful and intuitive visualizations. Outside of work, Kristen spends time with her important people and creatures, and tries to find the ocean and mountains."
