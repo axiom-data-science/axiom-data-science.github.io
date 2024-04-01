@@ -126,6 +126,12 @@
   image: "a-jiha"
   email: "ahmad@axiomdatascience.com"
 
+- name: "Steven Olthoff"
+  postion: Software Engineer
+  description: "Steven is a software engineer specializing in front-end web development. He earned his Bachelor of Science in Computer Science from the University of Michigan in 2018. Steven then joined a tech start-up as engineer #4. There, he led the development for a sentiment analysis product from its alpha version to its acquisition. At Axiom, Steven focuses on building beautiful UIs and graphics for our growing ecosystem of web applications."
+  image: "s-olthoff"
+  email: "steven@axiomdatascience.com"
+
 - name: "Francis"
   position: "Therapy Dog"
   description: "As a puppy prodigy and adult dog phenom, Francis has dual degrees in Saliva Production and Getting in the Way. Before working at Axiom as an occupational therapist, Francis spent years learning the way of the dog in his owner's garage. He currently loves being off leash, corralling and giving rides to kids, barking at moose, and cleaning his plate."
