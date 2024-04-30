@@ -137,3 +137,9 @@
   description: "As a puppy prodigy and adult dog phenom, Francis has dual degrees in Saliva Production and Getting in the Way. Before working at Axiom as an occupational therapist, Francis spent years learning the way of the dog in his owner's garage. He currently loves being off leash, corralling and giving rides to kids, barking at moose, and cleaning his plate."
   image: "francy-pants"
   email: "francis@axiomdatascience.com"
+
+- name: "Yida (Tony) Tong"
+  position: "Software Engineer"
+  description: "Tong earned B.S in Mechanical Engineering from Arizona State Univ. As an undergraduate RA, he is experienced in finite element modeling of solid mechanics and heat transfer for research results verification. Upon bachelor, Tony was a web developer for two years, which gradually sparked his interests in software programming. Subsequently, he started Master of Computer Science at Univ of Southern California. During last SDE intern at ESRI, Tony witnessed magic power of spatial data in smarter land plannings, ocean surveys and impacts on climate changes--this has further ignited his career passions in environmental data industry. In 2024, Tony is fortunate to started new grad journey with Axiom."
+  image: "t-tong"
+  email: "tony@axiomdatascience.com"
