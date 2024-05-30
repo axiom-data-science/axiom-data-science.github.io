@@ -30,18 +30,6 @@
   image: "a-canino"
   email: "adrienne@axiomdatascience.com"
 
-- name: "Melanie Feen"
-  position: "Environmental Data Scientist"
-  description: "Melanie is a data scientist and storyteller. She earned a Masters in Oceanography from the University of Rhode Island in 2020 researching the ocean carbon cycle from sensors deployed on underwater marine robots. Prior to her time at Axiom, Melanie was a Data Analyst at Sofar Ocean exploring data from global ocean wave buoys. In her spare time, you’ll often find Melanie outside rock climbing or hiking with her dog."
-  image: "m-feen"
-  email: "melanie@axiomdatascience.com"
-
-- name: "Dr. Kari Fenske"
-  position: "Project Manager"
-  description: "Kari's background is in fisheries population dynamics modeling and management with federal and state agencies. She has a Ph.D. in Fisheries from the University of Alaska Fairbanks and an M.S. in Marine, Environmental, and Estuarine Sciences from the Chesapeake Biological Laboratory at the University of Maryland. Kari's experience includes fisheries research or management in the Atlantic Ocean, Pacific Ocean, and the Great Lakes, but she'd rather be traveling to exotic destinations or camping than actually fishing. She lives near Madison, WI in a spacious 1970s ranch house that is a big step up from the RV she and her husband lived in for 2.5 years in Alaska, or the 33' sailboat they lived in for one winter on the Chesapeake Bay."
-  image: "k-fenske"
-  email: "kari@axiomdatascience.com"
-
 - name: "Ian Gill"
   position: "Junior Environmental Data Scientist"
   description: "Ian earned a Masters in Environmental Science at Western Washington University in 2011 and has spent over a decade doing fieldwork in Alaska, mostly watching bears catch salmon along various streams and rivers. His graduate research at McNeil River focused on the behavioral ecology of brown bears foraging for salmon and the impacts of bear-salmon predation on salmon populations. Ian worked for the Alaska Department of Fish and Game from 2012 to 2016, first as a habitat biologist and later as a science editor, where he learned to appreciate well-documented data, well-used semicolons, and the serial comma."
@@ -132,14 +120,15 @@
   image: "s-olthoff"
   email: "steven@axiomdatascience.com"
 
+- name: "Tony Tong"
+  position: "Software Engineer"
+  description: "Tony earned B.S in Mechanical Engineering from Arizona State University. As an undergraduate research assistant, he enjoyed research on finite element modeling in solid mechanics and heat transfer. After completing bachelor's, Tony was a web developer for two years, which gradually sparked his interests in software programming. Subsequently, he started Master of Computer Science at University of Southern California. During his previous software development internship at ESRI, Tony witnessed the power of spatial data science used in land plannings, ocean surveys and its impacts on climate changes. This has further ignited his career passions for environmental data industry. Through this enthusiasm, Tony began a new journey with Axiom in 2024."
+  image: "t-tong"
+  email: "tony@axiomdatascience.com"
+
 - name: "Francis"
   position: "Therapy Dog"
   description: "As a puppy prodigy and adult dog phenom, Francis has dual degrees in Saliva Production and Getting in the Way. Before working at Axiom as an occupational therapist, Francis spent years learning the way of the dog in his owner's garage. He currently loves being off leash, corralling and giving rides to kids, barking at moose, and cleaning his plate."
   image: "francy-pants"
   email: "francis@axiomdatascience.com"
 
-- name: "Tony Tong"
-  position: "Software Engineer"
-  description: "Tony earned B.S in Mechanical Engineering from Arizona State University. As an undergraduate research assistant, he enjoyed research on finite element modeling in solid mechanics and heat transfer. After completing bachelor's, Tony was a web developer for two years, which gradually sparked his interests in software programming. Subsequently, he started Master of Computer Science at University of Southern California. During his previous software development internship at ESRI, Tony witnessed the power of spatial data science used in land plannings, ocean surveys and its impacts on climate changes. This has further ignited his career passions for environmental data industry. Through this enthusiasm, Tony began a new journey with Axiom in 2024."
-  image: "t-tong"
-  email: "tony@axiomdatascience.com"
