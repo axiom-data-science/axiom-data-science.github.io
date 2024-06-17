@@ -122,9 +122,15 @@
 
 - name: "Tony Tong"
   position: "Software Engineer"
-  description: "Tony earned B.S in Mechanical Engineering from Arizona State University. As an undergraduate research assistant, he enjoyed research on finite element modeling in solid mechanics and heat transfer. After completing bachelor's, Tony was a web developer for two years, which gradually sparked his interests in software programming. Subsequently, he started Master of Computer Science at University of Southern California. During his previous software development internship at ESRI, Tony witnessed the power of spatial data science used in land plannings, ocean surveys and its impacts on climate changes. This has further ignited his career passions for environmental data industry. Through this enthusiasm, Tony began a new journey with Axiom in 2024."
+  description: "Tony earned B.S. in Mechanical Engineering from Arizona State University. As an undergraduate research assistant, he enjoyed research on finite element modeling in solid mechanics and heat transfer. After completing bachelor's, Tony was a web developer for two years, which gradually sparked his interests in software programming. Subsequently, he started Master of Computer Science at University of Southern California. During his previous software development internship at ESRI, Tony witnessed the power of spatial data science used in land plannings, ocean surveys and its impacts on climate changes. This has further ignited his career passions for environmental data industry. Through this enthusiasm, Tony began a new journey with Axiom in 2024."
   image: "t-tong"
   email: "tony@axiomdatascience.com"
+
+- name: "Honza Rychly"
+  position: "Software Engineer"
+  description: "Honza has a B.S. in Computer Sciences from Masaryk University, Brno. Before joining Axiom, he developed web applications for a fintech company. He values strong and static type systems in programming languages and enjoys learning how all things work. In his free time, Honza is likely not working on one of his many DIY projects, and instead, he is probably playing video games with his wife, bouldering, skiing, playing ultimate frisbee, or exploring the beautiful nature of Alaska on foot."
+  image: "h-rychly"
+  email: "honza@axiomdatascience.com"
 
 - name: "Francis"
   position: "Therapy Dog"
