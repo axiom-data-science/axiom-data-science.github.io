@@ -109,13 +109,13 @@
   email: "chris@axiomdatascience.com"
 
 - name: "Ahmad Jiha"
-  postion: "Software Engineer"
+  position: "Software Engineer"
   description: "Ahmad is a Software Engineer. He specializes in building scalable, distributed backend services and data processing pipelines. Ahmad’s software development journey began while working at UC San Francisco, where he led initiatives to automate research administration protocols, sparking his interest in software engineering. Determined to delve deeper, Ahmad dedicated over two years to self-study, leading to him joining Axiom’s backend engineering team. Ahmad holds a Bachelor’s degree in Business Administration from UC Berkeley’s Haas School of Business. Outside of the office, he enjoys engaging with nature through climbing and hiking, and he is always eager to learn new things."
   image: "a-jiha"
   email: "ahmad@axiomdatascience.com"
 
 - name: "Steven Olthoff"
-  postion: "Software Engineer"
+  position: "Software Engineer"
   description: "Steven is a software engineer specializing in front-end web development. He earned his Bachelor of Science in Computer Science from the University of Michigan in 2018. Steven then joined a tech start-up as engineer #4. There, he led the development for a sentiment analysis product from its alpha version to its acquisition. At Axiom, Steven focuses on building beautiful UIs and graphics for our growing ecosystem of web applications."
   image: "s-olthoff"
   email: "steven@axiomdatascience.com"
