@@ -132,6 +132,12 @@
   image: "h-rychly"
   email: "honza@axiomdatascience.com"
 
+- name: "Marta Wolfshorndl"
+  position: "Data Scientist"
+  description: "Marta received her PhD in Chemical Oceanography from the University of Washington in 2021, and completed the Advanced Data Science Option as part of her degree.  She then spent time at an ocean data startup focused on data management, creating scientific software, and promoting sustainable seafood for aquaculture clients.  Marta has worked on projects ranging from growing coral crystals to running numerical ocean and machine learning models.  Outside of work, she enjoys baking, bouldering, traveling, and hiking in the mountains around Seattle."
+  image: "m-wolfshorndl"
+  email: "marta@axiomdatascience.com"
+
 - name: "Francis"
   position: "Therapy Dog"
   description: "As a puppy prodigy and adult dog phenom, Francis has dual degrees in Saliva Production and Getting in the Way. Before working at Axiom as an occupational therapist, Francis spent years learning the way of the dog in his owner's garage. He currently loves being off leash, corralling and giving rides to kids, barking at moose, and cleaning his plate."
