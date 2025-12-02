@@ -36,12 +36,6 @@
   image: "a-canino"
   email: "adrienne@axiomdatascience.com"
 
-- name: "Ian Gill"
-  position: "Environmental Data Scientist"
-  description: "Ian earned a Masters in Environmental Science at Western Washington University in 2011 and has spent over a decade doing fieldwork in Alaska, mostly watching bears catch salmon along various streams and rivers. His graduate research at McNeil River focused on the behavioral ecology of brown bears foraging for salmon and the impacts of bear-salmon predation on salmon populations. Ian worked for the Alaska Department of Fish and Game from 2012 to 2016, first as a habitat biologist and later as a science editor, where he learned to appreciate well-documented data, well-used semicolons, and the serial comma."
-  image: "i-gill"
-  email: "ian@axiomdatascience.com"
-
 - name: "Trevor Golden"
   position: "Software Engineer"
   description: "Trevor earned his Bachelor of Arts degree in Liberal Studies and Outdoor Studies from Alaska Pacific University, emphasizing in quantitative ecology and philosophy of science. He is a big fan of the scientific method, and is particularly interested in optimizing the process of discovery by building robust solutions to challenges in data management and analysis. Before joining Axiom, Trevor spent six years in ecology working on a variety of projects ranging from the ingestion and validation of meteorological observations, to the analysis of movement patterns in telemetered animal locations."
