@@ -62,7 +62,7 @@
 
 - name: "Josh Rhoades"
   position: "Software Engineer"
-  description: "Josh is a full-stack software developer. Following his B.S. in Computer Science from Arizona State (2007), he has worked in Linux system administration, web and backend development, as well as data and interface design. His claim to fame is that he has co-authored two full length novels (which makes the mistakes in his emails all the more embarrassing and no less frequent). He loves cycling, rock climbing, and plaintext file formats. He lives in Anchorage with his girlfriend and their fish."
+  description: "Josh is a full-stack software developer. Following his B.S. in Computer Science from Arizona State (2007), he has worked in Linux system administration, web and backend development, as well as data and interface design. His claim to fame is that he has co-authored two full length novels (which makes the mistakes in his emails all the more embarrassing and no less frequent). He loves cycling, rock climbing, and plaintext file formats. He lives in Anchorage with his oft-neglected houseplants."
   image: "j-rhoades"
   email: "josh@axiomdatascience.com"
 
@@ -101,4 +101,3 @@
   description: "As a puppy prodigy and adult dog phenom, Francis has dual degrees in Saliva Production and Getting in the Way. Before working at Axiom as an occupational therapist, Francis spent years learning the way of the dog in his owner's garage. He currently loves being off leash, corralling and giving rides to kids, barking at moose, and cleaning his plate."
   image: "francy-pants"
   email: "francis@axiomdatascience.com"
-
