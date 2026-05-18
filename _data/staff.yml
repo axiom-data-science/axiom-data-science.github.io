@@ -78,12 +78,6 @@
   image: "i-su"
   email: "iwen@axiomdatascience.com"
 
-- name: "Dr. Kristen Thyng"
-  position: "MetOcean Data Scientist"
-  description: "Kristen has a long history of changing academics fields. She started with a B.A. in Physics at Whitman College, followed with a MSc. in Applied Math at the University of Washington, then a PhD in Mechnical Engineering at UW. Afterward, she went to Texas A&M for a Postdoc in Oceanography and later worked as a Research Scientist and then Research Professor. Now, she has found the best combination of all these fields as a MetOcean Data Scientist! Kristen has made numerical ocean simulations for applications including tidal turbine siting; understanding coastal ocean physics; and tracking material like oil, harmful algal blooms, and drug packages. Her work also has included data gathering and analysis, teaching Python, and the design and sharing of colormaps to use for beautiful and intuitive visualizations. Outside of work, Kristen spends time with her important people and creatures, and tries to find the ocean and mountains."
-  image: "k-thyng"
-  email: "kristen@axiomdatascience.com"
-
 - name: "Honza Rychly"
   position: "Software Engineer"
   description: "Honza has a B.S. in Computer Sciences from Masaryk University, Brno. Before joining Axiom, he developed web applications for a fintech company. He values strong and static type systems in programming languages and enjoys learning how all things work. In his free time, Honza is likely not working on one of his many DIY projects, and instead, he is probably playing video games with his wife, bouldering, skiing, playing ultimate frisbee, or exploring the beautiful nature of Alaska on foot."
